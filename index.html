@@ -1,0 +1,392 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Musk Wire</title>
+<meta name="description" content="Live headlines from Tesla, SpaceX, Starlink, Neuralink, Terafab and Musk's other companies.">
+<meta name="theme-color" content="#eef1f5" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0d1118" media="(prefers-color-scheme: dark)">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Musk Wire">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="icons/icon-192.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: a single telemetry-style column. Status bar, T-minus strip for scheduled events, company filters, then the wire grouped by day. */
+:root {
+  --bg: #eef1f5;
+  --surface: #ffffff;
+  --fg: #121722;
+  --muted: #5a6475;
+  --line: #d8dee8;
+  --accent: #b86a00;
+  --accent-soft: #fbefdc;
+  --major: #c2361f;
+  --major-soft: #fbe5e0;
+  --ok: #1f7a4d;
+  --font-display: "Chakra Petch", "Segoe UI", system-ui, sans-serif;
+  --font-body: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+  /* company hues */
+  --c-tesla: #c8102e;
+  --c-spacex: #2b4a8c;
+  --c-starlink: #2f6fb3;
+  --c-neuralink: #7a4bb5;
+  --c-terafab: #a2620a;
+  --c-ai: #2d7d78;
+  --c-boring: #6b6f2a;
+  --c-musk: #555c69;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0d1118; --surface: #151b25; --fg: #e7ebf2; --muted: #95a0b2; --line: #263041;
+    --accent: #f0a63c; --accent-soft: #33260f; --major: #ff7a62; --major-soft: #3a1a14; --ok: #5cc98f;
+    --c-tesla: #ff5a6e; --c-spacex: #8aa6e6; --c-starlink: #6fb0f2; --c-neuralink: #b994ee;
+    --c-terafab: #e8a54a; --c-ai: #5fc7bf; --c-boring: #c2c770; --c-musk: #a9b1bf;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0d1118; --surface: #151b25; --fg: #e7ebf2; --muted: #95a0b2; --line: #263041;
+  --accent: #f0a63c; --accent-soft: #33260f; --major: #ff7a62; --major-soft: #3a1a14; --ok: #5cc98f;
+  --c-tesla: #ff5a6e; --c-spacex: #8aa6e6; --c-starlink: #6fb0f2; --c-neuralink: #b994ee;
+  --c-terafab: #e8a54a; --c-ai: #5fc7bf; --c-boring: #c2c770; --c-musk: #a9b1bf;
+  color-scheme: dark;
+}
+
+* { box-sizing: border-box; }
+body {
+  background: var(--bg); color: var(--fg);
+  font-family: var(--font-body); font-size: 15px; line-height: 1.5;
+}
+.wrap { max-width: 760px; margin: 0 auto; padding-inline: 16px; padding-block: 0 48px; }
+
+header.top {
+  position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5;
+  background: var(--bg);
+  border-bottom: 1px solid var(--line);
+  padding-block: 14px 12px;
+  display: flex; flex-wrap: wrap; align-items: center; gap: 10px 16px;
+}
+.brand { display: flex; align-items: baseline; gap: 10px; margin-right: auto; }
+.brand h1 {
+  font-family: var(--font-display); font-weight: 700; font-size: 1.55rem;
+  letter-spacing: 0.02em; margin: 0; text-transform: uppercase;
+}
+.live {
+  font-family: var(--font-mono); font-size: 0.72rem; color: var(--muted);
+  display: inline-flex; align-items: center; gap: 6px; letter-spacing: 0.04em;
+}
+.live .dot { width: 7px; height: 7px; border-radius: 50%; background: var(--ok); }
+.live.stale .dot { background: var(--accent); }
+@media (prefers-reduced-motion: no-preference) {
+  .live:not(.stale) .dot { animation: pulse 2.4s ease-in-out infinite; }
+  @keyframes pulse { 0%,100% { opacity: 1 } 50% { opacity: .35 } }
+}
+.btn {
+  font: 600 0.82rem var(--font-body);
+  border: 1px solid var(--fg); background: var(--fg); color: var(--bg);
+  padding: 8px 14px; border-radius: 6px; cursor: pointer;
+}
+.btn:hover { opacity: .88; }
+.btn:disabled { opacity: .5; cursor: default; }
+.btn:focus-visible, .chip:focus-visible, input:focus-visible, a:focus-visible {
+  outline: 2px solid var(--accent); outline-offset: 2px;
+}
+.notice {
+  font-size: 0.82rem; color: var(--muted); width: 100%; margin: 0;
+}
+.notice.err { color: var(--major); }
+
+section { margin-top: 22px; }
+.label {
+  font-family: var(--font-mono); font-size: 0.7rem; letter-spacing: 0.12em;
+  text-transform: uppercase; color: var(--muted); margin: 0 0 8px;
+}
+
+/* T-minus strip */
+.events { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 10px; }
+.event {
+  background: var(--surface); border: 1px solid var(--line); border-radius: 8px;
+  padding: 12px 14px; display: grid; gap: 4px; min-width: 0;
+}
+.tminus {
+  font-family: var(--font-display); font-weight: 700; font-size: 1.3rem;
+  color: var(--accent); font-variant-numeric: tabular-nums; line-height: 1.1;
+}
+.event .t { font-weight: 600; font-size: 0.92rem; }
+.event .d { font-family: var(--font-mono); font-size: 0.74rem; color: var(--muted); }
+.event a { color: inherit; }
+
+/* Filters */
+.filters { display: flex; flex-wrap: wrap; gap: 6px; }
+.chip {
+  font: 500 0.8rem var(--font-body); color: var(--fg);
+  border: 1px solid var(--line); background: var(--surface);
+  padding: 5px 10px; border-radius: 999px; cursor: pointer;
+  display: inline-flex; align-items: center; gap: 6px;
+}
+.chip .sw { width: 8px; height: 8px; border-radius: 2px; }
+.chip .n { font-family: var(--font-mono); font-size: 0.72rem; color: var(--muted); }
+.chip[aria-pressed="true"] { border-color: var(--fg); background: var(--fg); color: var(--bg); }
+.chip[aria-pressed="true"] .n { color: var(--bg); opacity: .75; }
+.tools { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin-top: 10px; }
+.tools input[type="search"] {
+  flex: 1 1 200px; min-width: 0;
+  font: 400 0.9rem var(--font-body); color: var(--fg);
+  background: var(--surface); border: 1px solid var(--line); border-radius: 6px; padding: 7px 10px;
+}
+.toggle { font-size: 0.85rem; display: inline-flex; gap: 6px; align-items: center; cursor: pointer; }
+
+/* Feed */
+.day { margin-top: 18px; }
+.day h2 {
+  font-family: var(--font-mono); font-weight: 500; font-size: 0.75rem; letter-spacing: 0.1em;
+  text-transform: uppercase; color: var(--muted);
+  margin: 0 0 6px; padding-bottom: 6px; border-bottom: 1px solid var(--line);
+}
+.item {
+  display: grid; grid-template-columns: 4px 1fr; gap: 0 12px;
+  padding-block: 12px; border-bottom: 1px solid var(--line);
+}
+.item .stripe { border-radius: 2px; background: var(--co, var(--muted)); }
+.item.minor .stripe { opacity: .35; }
+.item .body { min-width: 0; display: grid; gap: 4px; }
+.meta { display: flex; flex-wrap: wrap; gap: 6px 10px; align-items: center; font-size: 0.75rem; }
+.co { font-family: var(--font-mono); font-weight: 500; letter-spacing: 0.06em; text-transform: uppercase; color: var(--co); }
+.pill { font-family: var(--font-mono); font-size: 0.68rem; letter-spacing: 0.06em; text-transform: uppercase; padding: 1px 6px; border-radius: 3px; }
+.pill.major { background: var(--major-soft); color: var(--major); }
+.pill.new { background: var(--accent-soft); color: var(--accent); }
+.when { color: var(--muted); font-family: var(--font-mono); }
+.item h3 { margin: 0; font-size: 1.02rem; font-weight: 600; line-height: 1.35; text-wrap: balance; }
+.item h3 a { color: inherit; text-decoration: none; }
+.item h3 a:hover { text-decoration: underline; text-underline-offset: 3px; }
+.item p { margin: 0; color: var(--muted); font-size: 0.9rem; max-width: 65ch; }
+.src { font-size: 0.76rem; color: var(--muted); }
+.src a { color: var(--muted); }
+
+.empty {
+  margin-top: 28px; padding: 28px 20px; text-align: left;
+  border: 1px dashed var(--line); border-radius: 8px; color: var(--muted);
+}
+.empty strong { color: var(--fg); display: block; margin-bottom: 4px; font-family: var(--font-display); font-size: 1.1rem; }
+footer { margin-top: 32px; font-size: 0.76rem; color: var(--muted); }
+</style>
+<style>
+  :root { padding-top: env(safe-area-inset-top, 0px); padding-bottom: env(safe-area-inset-bottom, 0px); }
+  body { margin: 0; -webkit-text-size-adjust: 100%; }
+  [hidden] { display: none !important; }
+  .live button { all: unset; cursor: pointer; text-decoration: underline; text-underline-offset: 2px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <div class="brand">
+      <h1>Musk Wire</h1>
+      <span class="live stale" id="live"><span class="dot"></span><span id="liveText">Loading…</span></span>
+    </div>
+    <button class="btn" id="refresh" type="button">Refresh</button>
+    <p class="notice" id="notice" hidden></p>
+  </header>
+
+  <section id="eventsSec" hidden>
+    <p class="label">Coming up</p>
+    <div class="events" id="events"></div>
+  </section>
+
+  <section>
+    <p class="label">Companies</p>
+    <div class="filters" id="filters" role="group" aria-label="Filter by company"></div>
+    <div class="tools">
+      <input type="search" id="q" placeholder="Search headlines" aria-label="Search headlines">
+      <label class="toggle" for="majorOnly"><input type="checkbox" id="majorOnly"> Major only</label>
+    </div>
+  </section>
+
+  <div id="feed">
+    <div class="empty" id="emptyState">
+      <strong>Loading the wire</strong>
+      Headlines about Tesla, SpaceX, Starlink, Neuralink, Terafab and Musk's other companies appear here.
+    </div>
+  </div>
+
+  <footer>Headlines are collected every 15 minutes from Google News and link to the original reporting.</footer>
+</div>
+
+<script>
+(() => {
+  const COMPANIES = [
+    { id: "tesla", name: "Tesla", v: "--c-tesla" },
+    { id: "spacex", name: "SpaceX", v: "--c-spacex" },
+    { id: "starlink", name: "Starlink", v: "--c-starlink" },
+    { id: "neuralink", name: "Neuralink", v: "--c-neuralink" },
+    { id: "terafab", name: "Terafab", v: "--c-terafab" },
+    { id: "ai", name: "xAI / X", v: "--c-ai" },
+    { id: "boring", name: "Boring Co", v: "--c-boring" },
+    { id: "musk", name: "Musk", v: "--c-musk" },
+  ];
+  const CO = Object.fromEntries(COMPANIES.map(c => [c.id, c]));
+  const $ = id => document.getElementById(id);
+  const store = {
+    get(k, d) { try { const v = localStorage.getItem(k); return v == null ? d : v; } catch { return d; } },
+    set(k, v) { try { localStorage.setItem(k, v); } catch {} },
+  };
+
+  let items = [], events = [], updatedAt = null;
+  let filter = store.get("mw.filter", "all");
+  let majorOnly = store.get("mw.major", "0") === "1";
+  let query = "";
+  const lastVisit = Number(store.get("mw.lastVisit", "0")) || 0;
+  let lastEtag = "";
+  $("majorOnly").checked = majorOnly;
+
+  const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+  const safeUrl = u => /^https?:\/\//i.test(String(u || "")) ? String(u) : "";
+  function parseDate(s) {
+    if (!s) return null;
+    const d = /^\d{4}-\d{2}-\d{2}$/.test(s) ? new Date(s + "T12:00:00") : new Date(s);
+    return isNaN(d) ? null : d;
+  }
+  const localDay = d => new Date(d.getFullYear(), d.getMonth(), d.getDate());
+  function dayLabel(d) {
+    const diff = Math.round((localDay(new Date()) - localDay(d)) / 86400000);
+    if (diff === 0) return "Today";
+    if (diff === 1) return "Yesterday";
+    return d.toLocaleDateString(undefined, { weekday: "short", month: "short", day: "numeric" });
+  }
+  function ago(d) {
+    const s = (Date.now() - d.getTime()) / 1000;
+    if (s < 60) return "just now";
+    if (s < 3600) return Math.floor(s / 60) + " min ago";
+    if (s < 86400) return Math.floor(s / 3600) + " h ago";
+    return Math.floor(s / 86400) + " d ago";
+  }
+  function tminus(d) {
+    const days = Math.round((localDay(d) - localDay(new Date())) / 86400000);
+    return days === 0 ? "T−0 · today" : days === 1 ? "T−1 day" : "T−" + days + " days";
+  }
+  const timeOf = d => d.toLocaleTimeString(undefined, { hour: "numeric", minute: "2-digit" });
+
+  function renderFilters() {
+    const counts = {};
+    items.forEach(i => { counts[i.company] = (counts[i.company] || 0) + 1; });
+    const chips = [{ id: "all", name: "All", n: items.length }].concat(COMPANIES.map(c => ({ ...c, n: counts[c.id] || 0 })));
+    $("filters").innerHTML = chips.map(c =>
+      `<button type="button" class="chip" data-f="${c.id}" aria-pressed="${filter === c.id}">` +
+      (c.v ? `<span class="sw" style="background:var(${c.v})"></span>` : "") +
+      `${esc(c.name)} <span class="n">${c.n}</span></button>`).join("");
+  }
+
+  function renderEvents() {
+    const today = localDay(new Date());
+    const up = events.map(e => ({ ...e, _d: parseDate(e.date) }))
+      .filter(e => e._d && e._d >= today).sort((a, b) => a._d - b._d).slice(0, 6);
+    $("eventsSec").hidden = !up.length;
+    $("events").innerHTML = up.map(e => {
+      const c = CO[e.company] || CO.musk, url = safeUrl(e.url);
+      const t = url ? `<a href="${esc(url)}" target="_blank" rel="noopener">${esc(e.title)}</a>` : esc(e.title);
+      return `<div class="event"><span class="tminus">${tminus(e._d)}</span><span class="t">${t}</span>
+        <span class="d"><span class="co" style="color:var(${c.v})">${esc(c.name)}</span> · ${e._d.toLocaleDateString(undefined, { weekday: "short", month: "short", day: "numeric" })}${e.note ? " · " + esc(e.note) : ""}</span></div>`;
+    }).join("");
+  }
+
+  function renderFeed() {
+    if (!items.length) return;
+    const q = query.trim().toLowerCase();
+    const list = items.filter(i => (filter === "all" || i.company === filter) &&
+      (!majorOnly || i.importance === "major") &&
+      (!q || (i.title + " " + (i.summary || "") + " " + (i.source || "")).toLowerCase().includes(q)));
+    if (!list.length) { $("feed").innerHTML = `<div class="empty"><strong>Nothing matches</strong>Try another company or clear the search.</div>`; return; }
+    const groups = new Map();
+    list.forEach(i => { const k = localDay(i._d).getTime(); if (!groups.has(k)) groups.set(k, []); groups.get(k).push(i); });
+    let html = "";
+    for (const arr of groups.values()) {
+      html += `<div class="day"><h2>${esc(dayLabel(arr[0]._d))}</h2>`;
+      for (const i of arr) {
+        const c = CO[i.company] || CO.musk, url = safeUrl(i.url);
+        const added = parseDate(i.addedAt);
+        const isNew = lastVisit && added && added.getTime() > lastVisit;
+        const hasTime = /T/.test(i.publishedAt || "");
+        html += `<article class="item ${i.importance === "minor" ? "minor" : ""}" style="--co:var(${c.v})">
+          <span class="stripe"></span><div class="body">
+          <div class="meta"><span class="co">${esc(c.name)}</span>
+            ${i.importance === "major" ? '<span class="pill major">Major</span>' : ""}
+            ${isNew ? '<span class="pill new">New</span>' : ""}
+            ${hasTime ? `<span class="when">${timeOf(i._d)}</span>` : ""}</div>
+          <h3>${url ? `<a href="${esc(url)}" target="_blank" rel="noopener">${esc(i.title)}</a>` : esc(i.title)}</h3>
+          ${i.summary ? `<p>${esc(i.summary)}</p>` : ""}
+          ${i.source ? `<span class="src">${esc(i.source)}</span>` : ""}
+          </div></article>`;
+      }
+      html += "</div>";
+    }
+    $("feed").innerHTML = html;
+  }
+
+  function renderStatus() {
+    const d = parseDate(updatedAt);
+    $("live").classList.toggle("stale", !d || Date.now() - d.getTime() > 2 * 3600 * 1000);
+    $("liveText").textContent = d ? "Updated " + ago(d) : (navigator.onLine ? "Live" : "Offline");
+  }
+  const renderAll = () => { renderFilters(); renderEvents(); renderFeed(); renderStatus(); };
+
+  function showNotice(msg, err) { const n = $("notice"); n.textContent = msg; n.hidden = !msg; n.classList.toggle("err", !!err); }
+
+  let loading = false;
+  async function load(manual) {
+    if (loading) return;
+    loading = true;
+    if (manual) { $("refresh").disabled = true; $("refresh").textContent = "Refreshing…"; }
+    try {
+      const r = await fetch("data/news.json?t=" + Date.now(), { cache: "no-store" });
+      if (!r.ok) throw new Error("HTTP " + r.status);
+      const data = await r.json();
+      const sig = data.updatedAt + ":" + (data.items || []).length;
+      updatedAt = data.updatedAt;
+      if (sig !== lastEtag) {
+        lastEtag = sig;
+        items = (data.items || []).map(i => ({ ...i, _d: parseDate(i.publishedAt) || parseDate(i.addedAt) || new Date(0) }))
+          .sort((a, b) => b._d - a._d);
+        events = data.events || [];
+        renderAll();
+      } else renderStatus();
+      showNotice("");
+    } catch (e) {
+      showNotice(navigator.onLine ? "Couldn't load the latest headlines. Showing what was saved last." : "You're offline. Showing saved headlines.", true);
+      renderStatus();
+    } finally {
+      loading = false;
+      $("refresh").disabled = false; $("refresh").textContent = "Refresh";
+    }
+  }
+
+  $("filters").addEventListener("click", e => {
+    const b = e.target.closest("[data-f]"); if (!b) return;
+    filter = b.dataset.f; store.set("mw.filter", filter); renderFilters(); renderFeed();
+  });
+  $("majorOnly").addEventListener("change", e => { majorOnly = e.target.checked; store.set("mw.major", majorOnly ? "1" : "0"); renderFeed(); });
+  let qt; $("q").addEventListener("input", e => { clearTimeout(qt); qt = setTimeout(() => { query = e.target.value; renderFeed(); }, 120); });
+  $("refresh").addEventListener("click", () => load(true));
+
+  // Stamp the visit when the app is put away, so "New" marks what arrived since you last looked.
+  document.addEventListener("visibilitychange", () => {
+    if (document.visibilityState === "hidden") store.set("mw.lastVisit", String(Date.now()));
+    else load(false);
+  });
+  window.addEventListener("pagehide", () => store.set("mw.lastVisit", String(Date.now())));
+  setInterval(() => { if (document.visibilityState === "visible") load(false); }, 5 * 60 * 1000);
+  setInterval(renderStatus, 60 * 1000);
+
+  if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js").catch(() => {});
+  load(false);
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,114 @@
+{
+ "updatedAt": "2026-10-11T17:30:00Z",
+ "items": [
+  {
+   "id": "tesla-cybercab-austin-300-2026-10-10",
+   "company": "tesla",
+   "importance": "major",
+   "title": "Austin Cybercab fleet passes 300 vehicles, up 8x in a month",
+   "summary": "Tesla says 300+ steering-wheel-free Cybercabs now serve Austin, one month after paid public rides began.",
+   "url": "https://teslanorth.com/2026/10/10/cybercab-300-austin-fleet",
+   "source": "Tesla North",
+   "publishedAt": "2026-10-10",
+   "addedAt": "2026-10-11T17:30:00Z"
+  },
+  {
+   "id": "spacex-stock-rally-2026-10-09",
+   "company": "spacex",
+   "importance": "notable",
+   "title": "SpaceX stock rally pulls shares out of post-IPO slump",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-09/spacex-s-750-billion-rally-breaks-stock-out-of-post-ipo-funk",
+   "source": "Bloomberg",
+   "publishedAt": "2026-10-09",
+   "addedAt": "2026-10-11T17:30:00Z"
+  },
+  {
+   "id": "starlink-800mhz-spectrum-2026-10-08",
+   "company": "starlink",
+   "importance": "major",
+   "title": "SpaceX buys up to 14 MHz of 800 MHz spectrum; AT&T, Verizon, T-Mobile shares drop",
+   "summary": "The low-band spectrum strengthens Starlink's direct-to-phone plans. AST SpaceMobile was reportedly outbid.",
+   "url": "https://www.cnbc.com/2026/10/08/spacex-spectrum-license-att-verizon-tmobile.html",
+   "source": "CNBC",
+   "publishedAt": "2026-10-08",
+   "addedAt": "2026-10-11T17:30:00Z"
+  },
+  {
+   "id": "tesla-cybercab-paris-2026-10-06",
+   "company": "tesla",
+   "importance": "notable",
+   "title": "Tesla to show Cybercab robotaxi at the Paris Auto Show",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-06/tesla-to-showcase-its-cybercab-robotaxi-at-paris-auto-show",
+   "source": "Bloomberg",
+   "publishedAt": "2026-10-06",
+   "addedAt": "2026-10-11T17:30:00Z"
+  },
+  {
+   "id": "tesla-q3-call-date-2026-10-04",
+   "company": "tesla",
+   "importance": "notable",
+   "title": "Tesla sets Q3 2026 earnings call for Oct 21 at 5:30 p.m. ET",
+   "url": "https://www.teslaoracle.com/?p=66789",
+   "source": "Tesla Oracle",
+   "publishedAt": "2026-10-04",
+   "addedAt": "2026-10-11T17:30:00Z"
+  },
+  {
+   "id": "neuralink-pretraining-bps-2026-10-03",
+   "company": "neuralink",
+   "importance": "notable",
+   "title": "Neuralink details pretrained decoders and an 11.32 bps record",
+   "url": "https://www.explainx.ai/blog/neuralink-i-love-you-brain-implant-milestone-2026",
+   "source": "ExplainX",
+   "publishedAt": "2026-10-03",
+   "addedAt": "2026-10-11T17:30:00Z"
+  },
+  {
+   "id": "tesla-q3-deliveries-2026-10-02",
+   "company": "tesla",
+   "importance": "major",
+   "title": "Tesla Q3 deliveries: 486,532, beating the 461,974 consensus",
+   "summary": "Down 2.1% from a year ago but well ahead of estimates. Energy storage reached 13.7 GWh.",
+   "url": "https://electrek.co/2026/10/02/tesla-q3-2026-deliveries-486532/",
+   "source": "Electrek",
+   "publishedAt": "2026-10-02",
+   "addedAt": "2026-10-11T17:30:00Z"
+  },
+  {
+   "id": "neuralink-voice-2026-09-17",
+   "company": "neuralink",
+   "importance": "major",
+   "title": "ALS patient speaks to his wife through Neuralink voice implant",
+   "url": "https://www.explainx.ai/blog/neuralink-i-love-you-brain-implant-milestone-2026",
+   "source": "ExplainX",
+   "publishedAt": "2026-09-17",
+   "addedAt": "2026-10-11T17:30:00Z"
+  },
+  {
+   "id": "terafab-construction-dates-2026-09-01",
+   "company": "terafab",
+   "importance": "notable",
+   "title": "Texas filings put Terafab construction start at Dec 1, 2026",
+   "url": "https://en.wikipedia.org/wiki/Terafab",
+   "source": "Wikipedia",
+   "publishedAt": "2026-09-01",
+   "addedAt": "2026-10-11T17:30:00Z"
+  }
+ ],
+ "events": [
+  {
+   "company": "tesla",
+   "title": "Tesla Q3 earnings call",
+   "date": "2026-10-21",
+   "note": "5:30 p.m. ET",
+   "url": "https://www.teslaoracle.com/?p=66789"
+  },
+  {
+   "company": "terafab",
+   "title": "Terafab construction start",
+   "date": "2026-12-01",
+   "note": "per state filings",
+   "url": "https://en.wikipedia.org/wiki/Terafab"
+  }
+ ]
+}
