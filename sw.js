@@ -1,5 +1,5 @@
 // Musk Wire service worker: lets the app open offline and always tries the network first for headlines.
-const CACHE = "musk-wire-v1";
+const CACHE = "musk-wire-v2";
 const SHELL = ["./", "index.html", "manifest.webmanifest", "icons/icon-192.png", "icons/icon-512.png", "icons/apple-touch-icon.png"];
 
 self.addEventListener("install", e => {

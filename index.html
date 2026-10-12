@@ -182,7 +182,19 @@ footer { margin-top: 32px; font-size: 0.76rem; color: var(--muted); }
   :root { padding-top: env(safe-area-inset-top, 0px); padding-bottom: env(safe-area-inset-bottom, 0px); }
   body { margin: 0; -webkit-text-size-adjust: 100%; }
   [hidden] { display: none !important; }
-  .live button { all: unset; cursor: pointer; text-decoration: underline; text-underline-offset: 2px; }
+  .linkbtn { all: unset; cursor: pointer; color: var(--fg); text-decoration: underline; text-underline-offset: 2px; }
+  .linkbtn:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  .notice .linkbtn { color: inherit; }
+  .setup { scroll-margin-top: 170px; background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 14px 16px; }
+  .setup p, .setup li { font-size: 0.9rem; max-width: 65ch; }
+  .setup p { margin: 0 0 8px; }
+  .setup ol { margin: 0 0 12px; padding-left: 20px; display: grid; gap: 4px; }
+  .setup a { color: var(--fg); }
+  .setup code { font-family: var(--font-mono); font-size: 0.85em; background: var(--bg); padding: 1px 5px; border-radius: 3px; }
+  .setup-row { display: flex; gap: 8px; flex-wrap: wrap; }
+  .setup-row input { flex: 1 1 220px; min-width: 0; font: 400 0.9rem var(--font-mono); color: var(--fg); background: var(--bg); border: 1px solid var(--line); border-radius: 6px; padding: 8px 10px; }
+  .setup .fine { font-size: 0.8rem; color: var(--muted); margin: 8px 0 0; }
+  .setup .label { margin-bottom: 8px; }
 </style>
 </head>
 <body>
@@ -192,9 +204,27 @@ footer { margin-top: 32px; font-size: 0.76rem; color: var(--muted); }
       <h1>Musk Wire</h1>
       <span class="live stale" id="live"><span class="dot"></span><span id="liveText">Loading…</span></span>
     </div>
-    <button class="btn" id="refresh" type="button">Refresh</button>
+    <button class="btn" id="refresh" type="button">Check now</button>
     <p class="notice" id="notice" hidden></p>
   </header>
+
+  <section class="setup" id="setup" hidden>
+    <p class="label">Instant checks</p>
+    <p>GitHub runs automatic checks on its own schedule, and they can lag by hours. To make <b>Check now</b> fetch fresh headlines on the spot, give this app a GitHub key that can only start its update. You only do this once per device.</p>
+    <ol>
+      <li>Open <a href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noopener">github.com/settings/personal-access-tokens/new</a>.</li>
+      <li>Token name: <code>Musk Wire</code>. Expiration: the longest option offered.</li>
+      <li>Repository access: <b>Only select repositories</b>, then choose <b id="repoName">musk-wire</b>.</li>
+      <li>Permissions: under <b>Repository permissions</b>, click <b>Add permissions</b>, pick <b>Actions</b>, and set it to <b>Read and write</b>.</li>
+      <li>Click <b>Generate token</b>, copy it, and paste it below.</li>
+    </ol>
+    <div class="setup-row">
+      <input type="password" id="token" placeholder="github_pat_…" autocomplete="off" aria-label="GitHub key">
+      <button class="btn" id="saveToken" type="button">Save</button>
+    </div>
+    <p class="fine">The key stays on this device only. It can start the update and nothing else: it can't read or change your files or your account.</p>
+    <p class="fine" id="tokenSaved" hidden>Instant checks are on for this device. <button type="button" class="linkbtn" id="removeToken">Turn off</button></p>
+  </section>
 
   <section id="eventsSec" hidden>
     <p class="label">Coming up</p>
@@ -217,7 +247,7 @@ footer { margin-top: 32px; font-size: 0.76rem; color: var(--muted); }
     </div>
   </div>
 
-  <footer>Headlines are collected every 15 minutes from Google News and link to the original reporting.</footer>
+  <footer>Headlines come from Google News and link to the original reporting. GitHub checks automatically every 15–60 minutes; <button type="button" class="linkbtn" id="footSetup">instant checks</button> let you check any time.</footer>
 </div>
 
 <script>
@@ -337,35 +367,144 @@ footer { margin-top: 32px; font-size: 0.76rem; color: var(--muted); }
   }
   const renderAll = () => { renderFilters(); renderEvents(); renderFeed(); renderStatus(); };
 
-  function showNotice(msg, err) { const n = $("notice"); n.textContent = msg; n.hidden = !msg; n.classList.toggle("err", !!err); }
+  // notice: plain text, plus an optional "Set up instant checks" link
+  function showNotice(msg, err, withSetupLink) {
+    const n = $("notice");
+    n.textContent = msg;
+    if (withSetupLink) {
+      n.append(" ");
+      const b = document.createElement("button");
+      b.type = "button"; b.className = "linkbtn"; b.textContent = "Set up instant checks";
+      b.addEventListener("click", () => { $("setup").hidden = false; $("setup").scrollIntoView({ behavior: "smooth", block: "start" }); });
+      n.append(b);
+    }
+    n.hidden = !msg; n.classList.toggle("err", !!err);
+  }
 
-  let loading = false;
+  // Which GitHub repo this app lives in, from its own address (e.g. josiahv92.github.io/musk-wire/).
+  const OWNER = location.hostname.endsWith(".github.io") ? location.hostname.split(".")[0] : "";
+  const REPO = location.pathname.split("/").filter(Boolean)[0] || "";
+  if (REPO) $("repoName").textContent = REPO;
+  const getToken = () => store.get("mw.ghToken", "");
+
+  function renderSetup() {
+    const has = !!getToken();
+    $("tokenSaved").hidden = !has;
+    $("token").placeholder = has ? "Saved. Paste a new key to replace it" : "github_pat_…";
+  }
+
+  let loading = false, checking = false;
   async function load(manual) {
-    if (loading) return;
+    if (loading) return null;
     loading = true;
-    if (manual) { $("refresh").disabled = true; $("refresh").textContent = "Refreshing…"; }
+    let changed = false, added = 0;
     try {
       const r = await fetch("data/news.json?t=" + Date.now(), { cache: "no-store" });
       if (!r.ok) throw new Error("HTTP " + r.status);
       const data = await r.json();
       const sig = data.updatedAt + ":" + (data.items || []).length;
+      const before = new Set(items.map(i => i.id || i.url));
       updatedAt = data.updatedAt;
       if (sig !== lastEtag) {
+        changed = !!lastEtag;
         lastEtag = sig;
         items = (data.items || []).map(i => ({ ...i, _d: parseDate(i.publishedAt) || parseDate(i.addedAt) || new Date(0) }))
           .sort((a, b) => b._d - a._d);
+        added = before.size ? items.filter(i => !before.has(i.id || i.url)).length : 0;
         events = data.events || [];
         renderAll();
       } else renderStatus();
-      showNotice("");
+      if (!checking) showNotice("");
+      return { ok: true, changed, added };
     } catch (e) {
       showNotice(navigator.onLine ? "Couldn't load the latest headlines. Showing what was saved last." : "You're offline. Showing saved headlines.", true);
       renderStatus();
+      return { ok: false };
     } finally {
       loading = false;
-      $("refresh").disabled = false; $("refresh").textContent = "Refresh";
     }
   }
+
+  function setBtn(text, busy) { const b = $("refresh"); b.textContent = text; b.disabled = !!busy; }
+  const sleep = ms => new Promise(r => setTimeout(r, ms));
+
+  async function startUpdate(token) {
+    const r = await fetch(`https://api.github.com/repos/${OWNER}/${REPO}/actions/workflows/update.yml/dispatches`, {
+      method: "POST",
+      headers: { "Authorization": "Bearer " + token, "Accept": "application/vnd.github+json", "X-GitHub-Api-Version": "2022-11-28", "Content-Type": "application/json" },
+      body: JSON.stringify({ ref: "main" }),
+    });
+    return r.status;
+  }
+
+  async function checkNow() {
+    if (checking) return;
+    checking = true;
+    setBtn("Checking…", true);
+    try {
+      const first = await load(true);
+      if (first && first.ok && first.changed) {
+        showNotice(first.added ? `${first.added} new headline${first.added === 1 ? "" : "s"}.` : "Headlines updated.");
+        return;
+      }
+      const token = getToken();
+      const last = parseDate(updatedAt);
+      const lastTxt = last ? `${timeOf(last)} (${ago(last)})` : "a while ago";
+      if (!token || !OWNER || !REPO) {
+        showNotice(`No new headlines yet. GitHub last checked the news at ${lastTxt} and runs the next check on its own schedule.`, false, !!(OWNER && REPO));
+        return;
+      }
+      let status;
+      try { status = await startUpdate(token); } catch { status = 0; }
+      if (status !== 204) {
+        const why = {
+          0: "Couldn't reach GitHub. Check your connection and try again.",
+          401: "GitHub didn't accept the saved key. It may have expired. Make a new one and save it below.",
+          403: "The saved key isn't allowed to start updates. Make sure it has Actions set to Read and write.",
+          404: `The saved key can't see the ${REPO} repository. When you make the key, choose ${REPO} under Only select repositories.`,
+          422: "GitHub couldn't find the update workflow. Make sure .github/workflows/update.yml exists in your repo.",
+        }[status] || `GitHub refused the request (code ${status}). Try again in a minute.`;
+        showNotice(why, true, status === 401 || status === 403 || status === 404);
+        return;
+      }
+      const startedAt = updatedAt;
+      const t0 = Date.now();
+      while (Date.now() - t0 < 5 * 60 * 1000) {
+        const secs = Math.round((Date.now() - t0) / 1000);
+        showNotice(`Checking the news now. This takes about 1–2 minutes${secs > 10 ? ` (${secs}s)` : ""}.`);
+        await sleep(12000);
+        const res = await load(true);
+        if (res && res.ok && updatedAt !== startedAt) {
+          showNotice(res.added ? `Done. ${res.added} new headline${res.added === 1 ? "" : "s"}.` : "Done. No new headlines since the last check.");
+          return;
+        }
+      }
+      showNotice("The check is taking longer than usual. New headlines will show up here on their own when it finishes.");
+    } finally {
+      checking = false;
+      setBtn("Check now", false);
+    }
+  }
+
+  $("saveToken").addEventListener("click", () => {
+    const v = $("token").value.trim();
+    if (!/^(github_pat_|ghp_)[A-Za-z0-9_]{20,}$/.test(v)) {
+      showNotice("That doesn't look like a GitHub key. It should start with github_pat_.", true);
+      return;
+    }
+    store.set("mw.ghToken", v);
+    if (getToken() !== v) { showNotice("This browser won't save the key. Try again outside private browsing.", true); return; }
+    $("token").value = "";
+    renderSetup();
+    $("setup").hidden = true;
+    showNotice("Instant checks are on. Tap Check now any time.");
+  });
+  $("removeToken").addEventListener("click", () => {
+    try { localStorage.removeItem("mw.ghToken"); } catch {}
+    renderSetup();
+    showNotice("Instant checks are off on this device.");
+  });
+  renderSetup();
 
   $("filters").addEventListener("click", e => {
     const b = e.target.closest("[data-f]"); if (!b) return;
@@ -373,7 +512,7 @@ footer { margin-top: 32px; font-size: 0.76rem; color: var(--muted); }
   });
   $("majorOnly").addEventListener("change", e => { majorOnly = e.target.checked; store.set("mw.major", majorOnly ? "1" : "0"); renderFeed(); });
   let qt; $("q").addEventListener("input", e => { clearTimeout(qt); qt = setTimeout(() => { query = e.target.value; renderFeed(); }, 120); });
-  $("refresh").addEventListener("click", () => load(true));
+  $("refresh").addEventListener("click", checkNow);
 
   // Stamp the visit when the app is put away, so "New" marks what arrived since you last looked.
   document.addEventListener("visibilitychange", () => {
@@ -383,6 +522,8 @@ footer { margin-top: 32px; font-size: 0.76rem; color: var(--muted); }
   window.addEventListener("pagehide", () => store.set("mw.lastVisit", String(Date.now())));
   setInterval(() => { if (document.visibilityState === "visible") load(false); }, 5 * 60 * 1000);
   setInterval(renderStatus, 60 * 1000);
+
+  $("footSetup").addEventListener("click", () => { $("setup").hidden = false; $("setup").scrollIntoView({ behavior: "smooth", block: "start" }); });
 
   if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js").catch(() => {});
   load(false);
