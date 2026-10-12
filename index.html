@@ -212,12 +212,11 @@ footer { margin-top: 32px; font-size: 0.76rem; color: var(--muted); }
     <p class="label">Instant checks</p>
     <p>GitHub runs automatic checks on its own schedule, and they can lag by hours. To make <b>Check now</b> fetch fresh headlines on the spot, give this app a GitHub key that can only start its update. You only do this once per device.</p>
     <ol>
-      <li>Open <a href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noopener">github.com/settings/personal-access-tokens/new</a>.</li>
-      <li>Token name: <code>Musk Wire</code>. Expiration: the longest option offered.</li>
-      <li>Repository access: <b>Only select repositories</b>, then choose <b id="repoName">musk-wire</b>.</li>
-      <li>Permissions: under <b>Repository permissions</b>, click <b>Add permissions</b>, pick <b>Actions</b>, and set it to <b>Read and write</b>.</li>
-      <li>Click <b>Generate token</b>, copy it, and paste it below.</li>
+      <li><a id="tokenLink" href="https://github.com/settings/personal-access-tokens/new?name=Musk+Wire&amp;description=Lets+the+Musk+Wire+app+start+its+news+update&amp;expires_in=none&amp;actions=write" target="_blank" rel="noopener">Open GitHub's key form</a>. The name and permission are already filled in.</li>
+      <li>Under <b>Repository access</b>, choose <b>Only select repositories</b>, then pick <b id="repoName">musk-wire</b>.</li>
+      <li>Click <b>Generate token</b> at the bottom, copy the key, and paste it below.</li>
     </ol>
+    <p class="fine">On iPhone, paste the key inside the Musk Wire app on your home screen, not in Safari. They keep separate settings. Save the key in your Notes too, so you can paste it on your other devices.</p>
     <div class="setup-row">
       <input type="password" id="token" placeholder="github_pat_…" autocomplete="off" aria-label="GitHub key">
       <button class="btn" id="saveToken" type="button">Save</button>
@@ -385,6 +384,7 @@ footer { margin-top: 32px; font-size: 0.76rem; color: var(--muted); }
   const OWNER = location.hostname.endsWith(".github.io") ? location.hostname.split(".")[0] : "";
   const REPO = location.pathname.split("/").filter(Boolean)[0] || "";
   if (REPO) $("repoName").textContent = REPO;
+  if (OWNER) $("tokenLink").href += "&target_name=" + encodeURIComponent(OWNER);
   const getToken = () => store.get("mw.ghToken", "");
 
   function renderSetup() {
