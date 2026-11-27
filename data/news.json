@@ -1,6 +1,826 @@
 {
- "updatedAt": "2026-11-27T11:11:48Z",
+ "updatedAt": "2026-11-27T19:56:40Z",
  "items": [
+  {
+   "company": "tesla",
+   "title": "Tesla expands Dallas, TX, Robotaxi geofence by 83% just days after Cybercab launch, watch user reviews, more",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMXlVbF9lbHptN3NMRGpnZzRraEZ4X0YtWUdmVVlwSEllNFhJbFJuZUxwWnFQa2RiZ1Z5YjRBOFVWc3VDSGRoUWtiOTNBVjRfbzBIUlh6dUVvc0RDdVJOQ2lvTDZIXzNCWWVqMDRHV01EYlRPVXpNdm9qanU4eGQwNjJsUEJKdFFNRTctXzZOWW9iM0pDM0RiZjdRNlBjTHBQbG9rUVZyNVhWM2tYMkhfYWh6ZzZsZ0RSNDhUenZVbEs1SEJQUFF2SEtR?oc=5",
+   "source": "Tesla Oracle",
+   "publishedAt": "2026-11-27T19:48:45Z",
+   "importance": "notable",
+   "id": "tesla-expands-dallas-tx-robotaxi-geofence-by-83-just-days-af-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "tesla",
+   "title": "Tesla Stock Rallies Despite Lingering Concerns for Investors",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9hMXVQdjY4ay01bVhkam1vbEY2Vy1tT0Y0WnpMWjRvNEozYVY4S2RONjloLUZib2kxQjdBaVJmbGhfQUZyRFdybXhXUUZqN2V2Nm0teVNNM1FpdnZPVDc5NHRsbS1IQlltUmhWb1RVUWZQT1Ns?oc=5",
+   "source": "FinanceBuzz",
+   "publishedAt": "2026-11-27T19:43:00Z",
+   "importance": "notable",
+   "id": "tesla-stock-rallies-despite-lingering-concerns-for-investors-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "tesla",
+   "title": "Tesla AI5 supply constraints could explain decision to stick with AI4: Report",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE42NlZwMU1Cb3d6OE9kN1lpWURsUzBucnFWa3ZUVVRZZm1sZXNNd0wzY1d1VzlpYkFhQUJtY1dCR1hkOW5wXzFERDFLclJlZC1iVjVoR2ppanFrZG5Wemlvd0VUOWtVVGZRbWtvejNqVFZzQQ?oc=5",
+   "source": "Drive Tesla Canada",
+   "publishedAt": "2026-11-27T19:14:17Z",
+   "importance": "notable",
+   "id": "tesla-ai5-supply-constraints-could-explain-decision-to-stick-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "tesla",
+   "title": "Tesla aims to bolster Optimus with newest company acquisition",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTjNKaFFXcmZ1TVJjemZwV3BWMENUQ0FPTVIyZWZCRU04M2d4NDlGZGJ5b1Y1WkJodVNabWRYdlkyN240ZlRuN0VGWW5fMG9EcEJTbFFzQTZCUE1CM08zckN4R2o4cmVYelZwQnR3S01xX2RwU0dLVHdabFJSdTB1Ny14XzY0R09t?oc=5",
+   "source": "Teslarati",
+   "publishedAt": "2026-11-27T19:02:37Z",
+   "importance": "major",
+   "id": "tesla-aims-to-bolster-optimus-with-newest-company-acquisitio-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "musk",
+   "title": "David Byrne On Getting Into Character As Elon Musk For ‘Musk’ Song “Let Me Sell You A Dream” – Crew Call Podcast",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBFeEhVNFgxTWJOelZJbmZXdVRmMjV2Q3FfSnUwSXhYS2NrSkswQ01hcEhyZ1pXNmE2d1VZaC04ZjR4eW1Na2JSV0hVdDYyWWVDc1Y2SEJqbDBZUmZOc0NhQmxNSUg4QTE5bjdTZWp4NA?oc=5",
+   "source": "Deadline",
+   "publishedAt": "2026-11-27T19:00:00Z",
+   "importance": "notable",
+   "id": "david-byrne-on-getting-into-character-as-elon-musk-for-musk-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "spacex",
+   "title": "Anterix Shares Climb 9% as SpaceX Reportedly Circles Its 900 MHz Spectrum",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CVTVob251NE9yUHJsakJuM2Iyc0NfSEVQQjFjM2ZJa1dsY21VN2VUYkhkY2Zjck5QY1g3YlpBZG5WVWhRVHlkeHo1eG5GTUxQUDFZMkR5ZHItRU5STzZNSjNqSDZieWZuUEVHMkNFczNIZ3JQY0E?oc=5",
+   "source": "BigGo Finance",
+   "publishedAt": "2026-11-27T18:38:10Z",
+   "importance": "notable",
+   "id": "anterix-shares-climb-9-as-spacex-reportedly-circles-its-900-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "tesla",
+   "title": "The 10 cheapest EVs to buy before Canada’s federal rebate drops by $1,000",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBiajY0bW0wM2h1N3puNC1VU2hzN0MzMXRHSXZhWjBLTkQwSWZFZWpyNUNmN1cwUTlFcWdmcU5FQW04YndRX0Uwd25qd2ZsT2RHbmRCWHVJNGVmWFFsUHcxOVJGS29kZWpoaENla19Tb29vekpRTlhmOU9n?oc=5",
+   "source": "Drive Tesla Canada",
+   "publishedAt": "2026-11-27T18:32:17Z",
+   "importance": "notable",
+   "id": "the-10-cheapest-evs-to-buy-before-canada-s-federal-rebate-dr-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "tesla",
+   "title": "‘Superfan’ Elon Musk Says ‘China Is Cool’ as Tesla Boosts Production in Shanghai: ‘The More the US and China Cooperate, the Better Off Both Will Be’",
+   "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOTnZsYnpoTVZaRDBEVkdrTXEzTjZkblVFaXlqZ0s1aGlvMFEwZEhIU2VaN3pjVTAtR3oyazBFeVk1LWRBMi1CSG1sdVA1UTJQcU9WdDVRVnZzMXU2VG9UNGhpTm5mZ3JqaWlXMXE2M3RjNTBRRGlPNmVFZ0ZtTXdvNXJmUEZNcVhPZUJGa2NwUFZrUkkwalJ2ZUFKWDJxRmEwOURlazJRYkJzZTJnZGdpWHQxWU1oR2lLUkVucHc0YmpWS09iaUZ4bl9iWlZ5NjFpNlJncklUSDdUU2hjdG9RVmJvLU1meTRSMjY2V3dQckpuMXRtSTdwVEE5VFViZi1YaldiQ0NpcDJVSmRidzRRb2ln?oc=5",
+   "source": "Barchart.com",
+   "publishedAt": "2026-11-27T18:30:03Z",
+   "importance": "notable",
+   "id": "superfan-elon-musk-says-china-is-cool-as-tesla-boosts-produc-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "terafab",
+   "title": "Musk Space Based Data Center Idea Is A Betrayal Of Humanity",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcmlLa1NyT1VvNFZublAxb1BpVjNXdkJhNks0T0tqVmdBY0lmdl9LZEtYQkJqOXVlZzJDUnBKcWdXc0lfb0h5TUp2VFNsSlJLTzFvTlF6OUV4WkFxc09sbDJfbzR4NnBKTndUUURnYjlPVFlBc2hTeUdtUHY2VUFqXy1xMmFGZ19HTTFlZVpOQjlfcTRtcXNrdTBsNll2Zw?oc=5",
+   "source": "CleanTechnica",
+   "publishedAt": "2026-11-27T18:23:29Z",
+   "importance": "notable",
+   "id": "musk-space-based-data-center-idea-is-a-betrayal-of-humanity-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "tesla",
+   "title": "Elon Musk to End Cybertruck: Used Demand for Tesla EV Picks Up",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUEJZSFpnN3NScnhxNllFMzVoVUltSUVKYXV3WkFGZ0lwbnZOOUlvOWNmSnRhd1JLanRDaEJieUJvNWZPbFhuQnFmeDIzazQtV0JYQ3RNeldld0FvN2RMX1JzTVhZbkRxUHpUQUhIV2xkbDFLZUI2UlotaW1lRUJ1SUhqbjhUd0tpbEI3WFRRaTZsdXZzVURuejJCWndheXNLNmZVMWxRNWFuT2VhY2NWbzUwWmJwTWF3MGp6dUp0VkIxeWVn?oc=5",
+   "source": "Benzinga",
+   "publishedAt": "2026-11-27T18:17:46Z",
+   "importance": "notable",
+   "id": "elon-musk-to-end-cybertruck-used-demand-for-tesla-ev-picks-u-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "starlink",
+   "title": "Europe Opens Massive Satellite Factory to Challenge Elon Musk’s Starlink and Starshield",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZUNRLUNmUlkyQmJLcTNST1BpeHVpS2hzMTNGUF9jZTU5cmp1WWJZYjY2ei1GN01JVG9zMTBvaXV4Q0w0ckEzVDloVjBPdVVORUkxLUlRbGxCdGpGUktHTV93V1htRXVPb2JCSEg2RWtJNGxNc1FodzVLSEJEaFVUejVWdDZKQQ?oc=5",
+   "source": "ZME Science",
+   "publishedAt": "2026-11-27T18:13:04Z",
+   "importance": "notable",
+   "id": "europe-opens-massive-satellite-factory-to-challenge-elon-mus-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "musk",
+   "title": "Ken Paxton, Elon Musk, Tarrant GOP and more: It was a fat year for Texas turkeys",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZEw5NlBwUjlvRFljZF9GdENDNUJHWXBEWWNpR0RJMXlkLWg3d2dxTFFXMEt6SzJSa0g0OW8zcjcxRXpwWUxFelVYYlBuSUNjM2JtQUtOT2JKNW9OeVh1eE9mNm1pTDNQX3hISUxVeGRqcjJ6WHNxaFAzZGVhaFlPeENiOGtjVExVdXZGSXlmS2M4VHE3WmtYVUhoM1VtSW9ZTHNTQ3dQdjY2aE11dG1jdkxRQUhzeWE0ZEwwSVBrMWZuSjRTRnVwbHhLY1dib0s3aDUzbWx2YnIweFBW?oc=5",
+   "source": "NewsBreak: Local News & Alerts",
+   "publishedAt": "2026-11-27T18:08:05Z",
+   "importance": "notable",
+   "id": "ken-paxton-elon-musk-tarrant-gop-and-more-it-was-a-fat-year-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "tesla",
+   "title": "Tesla is rolling out its biggest battery upgrade through a software update",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTjQwTkt1bmVscXFXYzBKUzFadEd6N1pQZ3ZsclZIUTVGOWp2NURtbUVfZ3dGLUIxME1abzRuVW85RG9feW9PTXhTTHhTUzZxSDh0Y1lQZ3JnRmxPdk5sNFBhbG5GMDFSRkZ2dHM0dU5iNDZLcDdFN3lwdzJUdkRsdlRReDBIbWNTbU9FUg?oc=5",
+   "source": "Teslarati",
+   "publishedAt": "2026-11-27T18:02:45Z",
+   "importance": "notable",
+   "id": "tesla-is-rolling-out-its-biggest-battery-upgrade-through-a-s-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "spacex",
+   "title": "ATEX Stock Jumps After SpaceX Reportedly Eyes 900 MHz Spectrum For Direct-To-Device Expansion; Alternative Target NN Climbs Double Digits",
+   "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPdV9YbkVVZkhjYkJTelpPNnFDUDRTNDYtSi1OMUF0VGFVaHJXcUI1emppX2UxLXJIdmV2T18xTXpXSEliVTJjUF8xWXdjYlNiQ0QwUkFLRE9EbHZzaGF6cDVrREo0VW1BZUE2Mm0xZnVhY1Z5ZzdpMjZFQnFqUjdOazVrb3o0VzgwV3hEbVhlZjB5bXIxZ1Fib2dlSTM0Vjk1WlJ2RU5ObGNldDlyTS16SXNQVTVTYWlwc3hMUVltWFItTzB0RWRzWHhkLWtpbV8tMFlKaDc3S0FVb0sxd3RpLTlLcng2eDM0ZzJNTW02SEdwV2hWdVAzaFoxa2xYWHBIZU1lMk4tVzQxaHVFbFlDZ2FjVnJvLV9BNXZqSHhudjVXZkU?oc=5",
+   "source": "TradingView",
+   "publishedAt": "2026-11-27T17:52:56Z",
+   "importance": "notable",
+   "id": "atex-stock-jumps-after-spacex-reportedly-eyes-900-mhz-spectr-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "spacex",
+   "title": "Here's Why SpaceX’s Starship Could Lift Linde’s Space Revenue up to 700%",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZXdWZEFGTkFaUXlITlJQbWZhS2g2TzNNcFNNUnBrMUFpejJwQWlqbjBtd3FESy14djM0cVpPbmFZeTJLS2Q5Z0tyZm1zendLdDF1Vy1HSWVpTEZra1pmTEtjME9LamMwM0liMlZueDFJeGlOZ2xWTmFIWnhHd3VTVkpVYmZTZDJ4OEJYeERBQW12RUMwZHM3UGt0dF9xSWc2TGtLeGQ1bnUzcUF5cDlKcw?oc=5",
+   "source": "Benzinga",
+   "publishedAt": "2026-11-27T17:46:03Z",
+   "importance": "minor",
+   "id": "here-s-why-spacex-s-starship-could-lift-linde-s-space-revenu-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "spacex",
+   "title": "Astronomers ‘disheartened’ by decision allowing SpaceX to deploy satellites for space datacenters",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOY3I0QXg0SDRhMTZLSktwOTZRdmU1aF9KMTJ6QzhaY0tLbHJHY2JhRDFvWjRqWXZrcjI1OUVDSEFCazkxQjBWUHRuMDNweU5UOEVQdGhGV1VvcVFtM1FFdUZ2YnotVkd2NG9kX2JVYXF0NU5qU3VOejQ2TDRPU3ZYZnNmVG1JUlZmSU5vcDBMZ1JmRHZPTzRqMw?oc=5",
+   "source": "AOL.com",
+   "publishedAt": "2026-11-27T17:45:53Z",
+   "importance": "notable",
+   "id": "astronomers-disheartened-by-decision-allowing-spacex-to-depl-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "spacex",
+   "title": "UL Lafayette Hands SpaceX a 40-Year Lease on a Former Louisiana School for $1 a Year - Trading Rent for a $10 Million Renovation Commitment",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNRDBmVno0VGZfNDF3UDJLOGVGNEVwajhvSHdEc0ozOVVIbDBEN2RIRGFISm5zOHp4VHFZV1VpbVMxeVh1NjVOcmpyWXdWZ2htNnNtZEd6aWdoU3ZfdWdFWjFoY24xY3d6ZGdGTEJLT0sxMXVJR3VpMjNBanM0SFplSngzMjk3TzI3dm1peE1ucGl4ek1IZk04ZC1YTUIxcW1tdEhfc2xpam5KRF9GVWlTazhkb0hSRFRYNjVXM3RWWWtiMGlNR2VfaVZIaDg0NUpXckxwREk1Q3Z3Q0xjbGZCNFRZSVJxcDlIVXNURjFaLU1DRmtBRmdB?oc=5",
+   "source": "Gadget Review",
+   "publishedAt": "2026-11-27T17:43:53Z",
+   "importance": "notable",
+   "id": "ul-lafayette-hands-spacex-a-40-year-lease-on-a-former-louisi-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "tesla",
+   "title": "Used Cybertruck $150K Ask: Price Jump Still Unconfirmed",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUVVFYmRfX0x0QnN6QU00LUxkMEw4M1JXT3VtRjYtem1sZFc5YW81b3M1UGt5ZWtaYk9FM0RpTnR3djM2VkM5QTA0R3Z6cnFXcW1JMDY1RFJFRGZLdjBNRXZWejh4elYtekd1QkdJOV9qczJmemRyTHZQZFl1TTVabXdXRzZxc1owZjlZ?oc=5",
+   "source": "shattered.io",
+   "publishedAt": "2026-11-27T17:35:06Z",
+   "importance": "notable",
+   "id": "used-cybertruck-150k-ask-price-jump-still-unconfirmed-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "tesla",
+   "title": "Tesla Wants EMAG Assets for Optimus: Case B5-132/26",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYk1semExV3Z2UjF2MlNFbGF6cUNqNXVDTkc1TldKeGlkdktLdzFod3pKVnFfV2E5Q2oxYmZzcVFzeEl4WE8zLXgtUWVmMTRvb01TSXVkb2FDbzJGNExjU1pJME9CR0psdThYeDFKc0NBcHU5UzFmeGp1X0JOZkdyc0NGYzQwcWRQZlJwMlNlZw?oc=5",
+   "source": "shattered.io",
+   "publishedAt": "2026-11-27T17:20:06Z",
+   "importance": "notable",
+   "id": "tesla-wants-emag-assets-for-optimus-case-b5-132-26-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "spacex",
+   "title": "SpaceX Stock (SPCX) Moved Up by 3.49% on Nov 27: Drivers Behind the Movement",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZ0pHNS1aOE16TVBST2NTOE9qUVcxc0VGcHhQdEFwYTVBYzZxcU4teld3elNlbHkxZ1JtUTRBZ0pYQmtuVTJUTXk3akZVUFlxVjFFSEpFZ2NlaWYwY0I3cmlMMWRCbXF1VjhPUlpaUWI2TU1CbE04bHRJcGlaZ3VzY1UtS3UtT1RQV0pj?oc=5",
+   "source": "TradingKey",
+   "publishedAt": "2026-11-27T17:15:35Z",
+   "importance": "notable",
+   "id": "spacex-stock-spcx-moved-up-by-3-49-on-nov-27-drivers-behind-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "tesla",
+   "title": "New Jersey Man Admits Tesla’s Technology Impressed Him, but Elon Musk Is Still a Dealbreaker",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPXzZLd18zaUpmd0pnOUl5Z256RkJ5bFp1WERfV013YWcxdHN2dTN0M0FiaHlXYnRoR25zSXM2SlQyMDh4UWlWaUJIRTAxUnA0bHVWczlaaHdVZFZtaGx0NGd1LXFUdEQxSFVTT21Ga0FvUk9mR3E2WTZVRTBYVzVzX2JlRWRodnZQQjhFS3pOcS1QcUFYMlpzekIyaHBmbjdlVVY0?oc=5",
+   "source": "Yahoo Autos",
+   "publishedAt": "2026-11-27T17:14:17Z",
+   "importance": "notable",
+   "id": "new-jersey-man-admits-tesla-s-technology-impressed-him-but-e-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "tesla",
+   "title": "Tesla Needs Over $20 Billion In Operating Profit To Earn Its Share Price (NASDAQ:TSLA)",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPX3dxN2dCN0ZpdlBvZDFjakF1X25TVHBvb0FTaVVmTDJuQzMzR2lBbTdPMEtIUXpUdGxhYzlRVVJOcHZJeFhreFdwcG5WY2VJb0Z4c2l2bDF3d0pDZEExYktzUVBINWlHelM3WEhGd1FkTGw5QWp0QS1XTlZDcWN2b0o3TlJma0VWdlROQXVPblhiWTRQY1h4LUJZLVJiN1RjZWlzMk1JMnk2S3pjQmhWUVd3?oc=5",
+   "source": "Seeking Alpha",
+   "publishedAt": "2026-11-27T17:13:02Z",
+   "importance": "major",
+   "id": "tesla-needs-over-20-billion-in-operating-profit-to-earn-its-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "musk",
+   "title": "Elon Musk gets the greenlight from the US to launch one million satellites",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZkdVUlgzRGpiRWxEUHdIeTF5QzFuUjhuck5hTURfSEJCYUlTRHA3VVhfdF9zMkhid0oyaEYxcWdzdGgwQkNEWGhJZ0NzenVZNVVZTWs0MWRqQmFFSzkyMDFjUlhEQ1lKbTlfY0h4aGVrVV9lSzhwbWVfMmJjT0kxTGFZSkREdEM1ZWFlT2pudnFLWE9EQ3A3bHdmWDhxYXdVaWNfNVVwU2Zsb0k5a3I2MUhDdVJlV3hqNVZVdlc4ZHRrR3k20gHKAUFVX3lxTE53dkZKWkU4TGo2YTY1VW1PbE1xQkJTZGVaVzU1THQwQ2Y5TEtmMDFPOGFKY2xkTTBzQ2tZbDlQeFhIenFkYXpReGQ0anI1cld5bkZuZ19xVFpkMXd6T1hYSVJ5ckhYMFRNS2xGZExnUTJhSWpTUWljbVVxWHU3ZXd2NHJkSGEwRjFfZ2U0NGNlQmdudGJkazNJdjMwOUtvOVBzRWs4VDZBV2wzcm1zNkdKU3pCdmxmUVNyQXhsTE1EaFl6eDJJYlFvTWc?oc=5",
+   "source": "Al Jazeera",
+   "publishedAt": "2026-11-27T17:11:54Z",
+   "importance": "notable",
+   "id": "elon-musk-gets-the-greenlight-from-the-us-to-launch-one-mill-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "tesla",
+   "title": "Used Tesla Cybertruck prices jump after Musk kills it, one asks $150K",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTHpKSmZhMWpVUlo2dU02MG16UUJSRVpSdGkxWTdVNmtGNE1UYVo5Yl92b3dDbDdoUFFOUTFJMmRwWWVIWDlhVGU1MUVYMlVvWUhsaU5BQU1SckgtbTkxMFUxTXJKazR2N3JjcHpYSUZNX1ZuRFdKb1pJVWxkSTdKMzd2cVZ6blU?oc=5",
+   "source": "Electrek",
+   "publishedAt": "2026-11-27T17:06:00Z",
+   "importance": "notable",
+   "id": "used-tesla-cybertruck-prices-jump-after-musk-kills-it-one-as-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "tesla",
+   "title": "Tesla Rallies 5% Amid SpaceX Merger Speculation; Rivian and SpaceX Rise 3%: Is Tesla's 439x P/E a Warning Sign?",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQ1Y5cWtPazFPbDdhMVNHUUNES25DWjdpNXptMEdLNFg2OEtKR3dZRVUyMUlBbjhtMDdic0hhWERhNXNfOWdHS1pvcVlWQWo5Z1BNU00tVk95NnhfekNrcXYzbHN4S1ZralBVbnJvSGFrTWtSdG15ZkxZRFdWQnFOTG5pX3RURFF2aC0temFSb2FEZmRhWlNuRnVZZnpUWE92VTczV0FBdGhjdlViWnRhUWh3V0hfWUFYVzhNSkVTSlFVZTBoekx5YXcxSHU2dll4YTY5WkNxU2hSU0gyWXNmYTFxdw?oc=5",
+   "source": "24/7 Wall St.",
+   "publishedAt": "2026-11-27T17:04:00Z",
+   "importance": "major",
+   "id": "tesla-rallies-5-amid-spacex-merger-speculation-rivian-and-sp-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "tesla",
+   "title": "Tesla Stock Rebounds From 7% Drop to Close at $380.14",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPM1FaZkp1blZ4dlhuakRmR3JubThjNm92TV92cFJEQkJRWFRabXFZaGdzYW1QN09uX3V5LUs1Vm96UUJIRDNCWGVvYU9QblF1bmpRZllrdHBFTmw0eDgtZTF3VTF4QXRiUUU5TmNhODl4VXAyc0RtOEptb0NmZEdyMWNDUmliWnZtMXpfc3lwSWtMUU1Vb0wyRFdWWWh0aTc3dkFV?oc=5",
+   "source": "shattered.io",
+   "publishedAt": "2026-11-27T17:00:06Z",
+   "importance": "notable",
+   "id": "tesla-stock-rebounds-from-7-drop-to-close-at-380-14-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "tesla",
+   "title": "LA Times Letter Backs Tesla FSD: 3 Claims, 0 Stats",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbk1yd0h0aW1BWEpVSEZId003eGo5bFV1SEhhTlpwbzhkSUctMDRLNXRaTW1ncHY0UUZTYzNxWXRDRF9wQktCM2ZnR19IVEtjSFVTZkxLUHRVMm1Ec0VNbGtFTkEyLXktSWktTEJRb2xMNmJJU0Q1eUpoa2NrNjZlZjNNdW4?oc=5",
+   "source": "shattered.io",
+   "publishedAt": "2026-11-27T16:45:05Z",
+   "importance": "notable",
+   "id": "la-times-letter-backs-tesla-fsd-3-claims-0-stats-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "starlink",
+   "title": "Federal Government Issues New Broadband Agreement for Satellite Internet Providers",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeng1SmRHRmwzVW9JRDJzZFEwNlJjMjNBNmM1d2VjVTFzUkxLalBmcVk0emtqUkZtVnFLdnVOQV9nOXNzcXNvbFhMMXFBdk15Qmp5VEFEeldBbDN2OTBTVC1nU0dlNm12MGs2THZoN1NfcXVOUllBZXJIbl9qREZPTTBDLURpTXRHVjlHZnlCeWJOSVpwY2tUcUtldXUtRzBwUWc1dnVVX0FCUGtzdEc5cnNfVDlOa1NOMkdj?oc=5",
+   "source": "Dailyfly News",
+   "publishedAt": "2026-11-27T16:31:04Z",
+   "importance": "notable",
+   "id": "federal-government-issues-new-broadband-agreement-for-satell-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "tesla",
+   "title": "Tesla AI5 Optimus: Cars Stay on AI4, Supply Unconfirmed",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ25iMU51Mk9pVE5fWUsyN0kwV0tIWHBZTVU1S0UyWElSQ1Npa3hLM09YbFNsYXphdXZ6UUZmeTd4Qkg3UmRwaEhVYjViaElBbUJkMXU1QjVOM1BjSy1ybmR4OWtlM3BGLXpjWkdLODlnMW5DdzNuRGlVajQ0d0w0V2RCdXBhTTl1QWd1aThJVQ?oc=5",
+   "source": "shattered.io",
+   "publishedAt": "2026-11-27T16:25:05Z",
+   "importance": "notable",
+   "id": "tesla-ai5-optimus-cars-stay-on-ai4-supply-unconfirmed-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "musk",
+   "title": "Elon Musk sends 'Well Done' message to MIchael Dell as he says: 42 years after starting Dell in my dorm r",
+   "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQSE9SallyWktPeDd1Z3dzRENuMXVIdVJVMW9ydlNqZGNqdmY0Z2dJMkxXak9sWWkwN2NMRU92aEUxWWZwVXVuS29vOGZYbGxlZGd4aGxaSldYUUNhbXFSRENPWGh6UGRod3ZhMGh6cnRyMVFoSjhqVFN5YTBHdVJBUzVpelJTaXlOVi1JeWQzWFh3RVhLQl9UVTd5T2ZWR296RmRRVUJ6VjlRcFRZcl9oMWJ5a1NZZ0FWaUhZVGU3QkZ0MllfTVpERk9sMEFOSGpCT1IxWjFuM21wRlJSSDZwZlhEUFlJNGtXYWRaS2lWQnVCRFB2OXI1WEVfOFJSRGNSU0RKbkNBQ2FrTHE4XzFISmVINkRBdHRLR1lpVzR3MkRfSDTSAagCQVVfeXFMUE5ZNnp5Z3FoVWpLT2FOeFNmNFJYckhfOHdnaURYNUhid3d6LUhWN0V1aEZZME1vSDBVU1NaeVJ2UFNiX2ZlOVpjR2IxWWxHNjF6ZEdwTkdZNFdqTlcxeHBIUHY1dnB2c1RfeldmMGx1MjZ6V3ZERWs0SDNReV9XaUo2SlhSTDlfSG5CY0xqdHJoTE9YYU5GWGpjQ0VDYkRUNEJWY2FfOUkwLURlX0ZKNmNtNU5RdW5EOGpnVjYyZlBxcTIyMTZWdU8xZnBqemQ5N1A3SWpQRDZjSGJVdzhFS1Q4dTEwLXdfbEg1aVNVUmxMY09tclJ0SWZsbzdVUmtaYVlqWXJZQWxCQzVCdy0xY0lyWkR3NXYwdkpYWTY3T3dUNUVpVl9UNUo?oc=5",
+   "source": "The Times of India",
+   "publishedAt": "2026-11-27T16:22:00Z",
+   "importance": "notable",
+   "id": "elon-musk-sends-well-done-message-to-michael-dell-as-he-says-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "starlink",
+   "title": "Split Starlink Wi-Fi bands: setup and trade-offs",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRThNT0hNQ2U0Um5wZEwxLVI4V3VnVUp4Rko3THFoTmlwV21PNnROem1YS3daWFRZd08tV3NhUzY1T1Q2c2NmM1hmMW95WW1JOTRidlN6UmNlLVM1LWc3NWNOOW43UktNRlFPanZJRmlfUHRwMEVLVDh0R1NBX1U5SWY0WQ?oc=5",
+   "source": "NeoTeo",
+   "publishedAt": "2026-11-27T16:18:29Z",
+   "importance": "notable",
+   "id": "split-starlink-wi-fi-bands-setup-and-trade-offs-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "tesla",
+   "title": "Tesla Shares Rise Amid EMAG Acquisition Pursuit and EU Regulatory Update",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcE92c1d0cHFKSDFPbVg3ZjdfS1pXbGllWmhZUXVMdnFpZnV4RjJzOGNzUklwOEhvenJiLVc4Zk1vLXlySU9KVzN1dERqUE05X2pXNTc4VmhaTWtJcV9zTy1ob05qaENtMVExQjhOVmtzc0g5MnB4dGN1b1NBWm5NUHAzcTUtZVFXSVE3TUxndGxGZzZmS1dEN2RXbjFKRmpIXzZrdHNrVGo2UQ?oc=5",
+   "source": "KuCoin",
+   "publishedAt": "2026-11-27T16:14:50Z",
+   "importance": "major",
+   "id": "tesla-shares-rise-amid-emag-acquisition-pursuit-and-eu-regul-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "starlink",
+   "title": "DISH and Starlink: How does this combo of internet and satellite TV work?",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YY1lKcno0OTlWSVRiTGhuSXQyUkstUno0S05aamJ0Yi1oNkhraW5GVnpmRHByemt4LWdnMng0eEp2aDlTZWZsQlRmOEd0XzVUWVZ3dkoyZE1femFFWTNlam9jMTlBZ1ZfVU9IXw?oc=5",
+   "source": "The Streamable",
+   "publishedAt": "2026-11-27T16:00:00Z",
+   "importance": "notable",
+   "id": "dish-and-starlink-how-does-this-combo-of-internet-and-satell-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "starlink",
+   "title": "What environmental impacts would a million SpaceX satellites have on Earth, space? - explainer",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcHdOR3RJZVdGWFJFendzR2lxRUlFMVVLa0tzUk9tZXZmb2V0TllKS0xONVp3c0tNRTVZQmhuM2s0ajZrSENjOFhTWnloX3p1Qm5UZzVsZXdWRm0yVDJ4OGc0Z21Dd1V6MGZOb0dLRkdPb2dsYVRaM0VwMUI3VVMtSVo2TkN4QQ?oc=5",
+   "source": "The Jerusalem Post",
+   "publishedAt": "2026-11-27T15:56:28Z",
+   "importance": "notable",
+   "id": "what-environmental-impacts-would-a-million-spacex-satellites-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "tesla",
+   "title": "Tesla Stock Rises After Filing Reveals EMAG Acquisition Pursuit: What's Happening?",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYmsyMWFPLW9MN2laRmdNS0t0Qm9vN2wwbmpuaGt4c2VwcUwzR1NOUlJMbm42TjNjZFR5ckl5UUZNREZFVVFPVkRYblFLWldDd21FWEgwajFoYnlNcC1JN2VqRHQzQ0swUzd4S19VUTdUc0xoRWQ3X05TX3NBRmM2QTZ0dHRjREk1REgxa1ZFdlZDMjBoMUtxYm1jbmJJYzg3TzdJVFpuZDNqM2pzQXhTMHd5YjBuQ2JoUmVPVXdadTQtdzhwMjQydEcyQUFDWEI0YXlWajE0TQ?oc=5",
+   "source": "Benzinga",
+   "publishedAt": "2026-11-27T15:49:46Z",
+   "importance": "minor",
+   "id": "tesla-stock-rises-after-filing-reveals-emag-acquisition-purs-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "tesla",
+   "title": "SpaceX Starbase Data Center: $250M Megapack Estimate",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOempwQ3JHWUVKX2s4VlNrNXpacEx1dmNsSmsyblltRVMyeF82VWlPbHRoWlRIUF9mWC1qVEw0dUE3dm84ajdDYTdlb0Z3T3JhSTBkT01CdmZSS3l3cjk1YlR1emJoTHhBT3phTFRHek05dzFpZ0FUMEswcTgyRVhtYVRZNnlEMC0wMVA2V1JLZ0xqMkdqUkFBbw?oc=5",
+   "source": "shattered.io",
+   "publishedAt": "2026-11-27T15:45:04Z",
+   "importance": "notable",
+   "id": "spacex-starbase-data-center-250m-megapack-estimate-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "tesla",
+   "title": "Tesla stock rises on EMAG acquisition filing and EU FSD vote",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQm9xaXdlSHF5ZzVYZ2Y1VVo2MndUcGgxeGZ5cGppNmloYjVFdE9iNVRIZ1NuVWdQLUdwZ3lLUDJIcHFIWWZKNkwxUnMtUUdaa0wzT3RfcEFiLTRrQm5EYURTVk5RRV9lZ0VwVkEyWnRpNm9yOGlpcE1PY1lvMEhJdlhheVU3YmJEcXNGYU9ia3ZhbGFGLVNjZUpLZVhJSjJfSGk2S1Azc3Q3RlBQck5tQWw2M3M?oc=5",
+   "source": "StreetInsider",
+   "publishedAt": "2026-11-27T15:40:27Z",
+   "importance": "minor",
+   "id": "tesla-stock-rises-on-emag-acquisition-filing-and-eu-fsd-vote-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "terafab",
+   "title": "Kioxia (285A) Sold Out to 2027: What SEMICON Japan Will Tell Us About Memory Capex and Terafab",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNbjNJYloxZmxoSUdFekM4STlWSXRSdWNGdThaYVhFREpGcVFleHRIazlObDIzSWVxN1RDaGYwVl85eHk5dFpfOFNoUTNFYUFYeXlYWE1GZEc2el9obzBtTnlqRmJZTl9vTG1ERGk3b3NvSkxPNW5FcmUzTzUtcnhiTVRIcGJwM2NrRzFLMFdCSzFJRU5rdkpIY1c4UF9Ia2FlYkJUQ054Mkw3TmVvbUhFNHBsU1dTbER5Rkozb29EX3c1SERKd1ZFc3lWM01TWVhQcWtkcEtlbHFvanY2WGxNbDVjVEJQMnNTZHoyMldfUQ?oc=5",
+   "source": "Smartkarma",
+   "publishedAt": "2026-11-27T15:34:28Z",
+   "importance": "notable",
+   "id": "kioxia-285a-sold-out-to-2027-what-semicon-japan-will-tell-us-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "tesla",
+   "title": "Tesla Seeks to Buy Assets of German Robot-Parts Machine Maker EMAG",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZmtZTDVaVnZVb19kV3dodlRIOC1zdGxmVW95NW9WTEh6QmRSR0VZaHhiaDd3cGNXcl8tR1BHTUx2WDZ4NmdzM1M3QUF5amNUZEFHWE9wcHBjdWpsNmFyYUFqakpxWXVlU1QzelBHOFRWNTI3VG1XM1J0cmZUYzZYSjA1eHE3dDVqelNybkxPS3h4eU1pczYwQnZET2txZ012U3RIXw?oc=5",
+   "source": "Electric Vehicles",
+   "publishedAt": "2026-11-27T15:32:00Z",
+   "importance": "notable",
+   "id": "tesla-seeks-to-buy-assets-of-german-robot-parts-machine-make-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "tesla",
+   "title": "Tesla Inc Stock (TSLA) Moved Up by 3.43% on Nov 27: What Investors Need To Know",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWnM3RXNsNTUtSzdCQmdXRjMyZ3ZKSF8zeXVjejh1V0RBZllEOUJEOENWekhzMHB3NHh4T2h5WEJMNnhVOF84bV9sbEJwRVpHQ1ctLXFGc1ZDdk1DUG9FSmlsVjRDeEpPR25ZOWlQSXQ4VzBSUXN6SEM5S0RnVlBRdGNoRkE4a003ZWlj?oc=5",
+   "source": "TradingKey",
+   "publishedAt": "2026-11-27T15:15:25Z",
+   "importance": "notable",
+   "id": "tesla-inc-stock-tsla-moved-up-by-3-43-on-nov-27-what-investo-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "tesla",
+   "title": "Texas AG-Elect Targets Tesla & SpaceX: 2 Probes in Jan 2027",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTEkyMldFb0h6TDViLVpUekE0SWU4VnVGRF85LUY3bHRKdHByNlgwdW1yR3gzMDRZdzBQWE1pX2VDNEoyYjA1UVVMcXVqcW03Sm1RRHhwLTB4eTdiclVVZHBqeHV0amUxZVJqc3RqRnlfNW1abDdzYUZIZG1QVlBBdEIwM2I0aTlzUER5VWdsS2gwbWxab29Cag?oc=5",
+   "source": "shattered.io",
+   "publishedAt": "2026-11-27T15:15:04Z",
+   "importance": "notable",
+   "id": "texas-ag-elect-targets-tesla-spacex-2-probes-in-jan-2027-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "tesla",
+   "title": "Tesla opens new Supercharger in South Surrey",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQ1hxWEZIbnVHQTZZeDhlanRoS2g0Tjl4aERJUENtZTF1VTZnM0FpNWVoMjh0SW1zYWpJalF3MGFqOHZaLWlIOFN6Vmp6WlgtSzhMZm5OYmJoNzBkNWlleFc0YmxyY3F3Rll1bWx2X3UxS0hfbUpJRWdnY1Z4RlRyZGRLS3R6bWg5?oc=5",
+   "source": "Drive Tesla Canada",
+   "publishedAt": "2026-11-27T15:08:00Z",
+   "importance": "notable",
+   "id": "tesla-opens-new-supercharger-in-south-surrey-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "tesla",
+   "title": "Tesla’s limited AI5 supply may be why Optimus gets the chips first",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWXd2UllvZVByVkFuN2xQSTdDRTlpSVJ4OFhFWC1KVmlVTlZWTkZmam1TRl91T0FUcUVOVUVjRFViSENnOVZUYllQcTd0WmpQQTlNa2dJckNTcnV5NHlZRi1vdl93eW1GdWNnSjd2Q2hHZGpmSUFQZDNSVTU1RnI4X3AxT1A?oc=5",
+   "source": "Mezha.net",
+   "publishedAt": "2026-11-27T14:57:22Z",
+   "importance": "notable",
+   "id": "tesla-s-limited-ai5-supply-may-be-why-optimus-gets-the-chips-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "spacex",
+   "title": "SpaceX Stock Jumps Thanks to AI Rally. Why It Should Be Rising Even More.",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtZFgxODI4YVZ5dndQbExVcWtOM291QjdHT0FTbHJGckp3ckE3RE9hbUtTSFVZSVNpQzFhMndsY0FBYXFxLXJLSFF6WUp1MUpGRkFYR0w2SVF5WU1EdnhjMWVNVlo0MlpkLXoybzlLcnI?oc=5",
+   "source": "Barron's",
+   "publishedAt": "2026-11-27T14:52:00Z",
+   "importance": "notable",
+   "id": "spacex-stock-jumps-thanks-to-ai-rally-why-it-should-be-risin-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "tesla",
+   "title": "This might be the real reason Elon Musk says Tesla’s AI5 chip is going to Optimus",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAtdUp5RnN0bmdvZTNhd283bFZFeGZQQzBmMEo0N0ZNMU1iZDF0bWFwakdPTWg3ZmtLZENjM242N3R5U21SdzU4aFpXY3ZXbXFhSWRSSkhuMTNEbWx2UXcwNXlyUE5LRVkzTmFZOTBBU1lSS3NTVUhERGhR?oc=5",
+   "source": "Electrek",
+   "publishedAt": "2026-11-27T14:48:00Z",
+   "importance": "notable",
+   "id": "this-might-be-the-real-reason-elon-musk-says-tesla-s-ai5-chi-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "spacex",
+   "title": "SpaceX to launch classified satellites after Thanksgiving in California",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8tWU4wZ05RQjZ3T3BvaXI5cnlOY1lIbUxYRG41SGNvWml6dWxEQUtFaTVYT1YyWENXcmZRUFdoa2Nuc2hieF9NNkFneTUzemJYdUhVNDJ1eVdKUHpVUXlZZVQ0YTVIRld1VkNMWGpNUEpZdmNHdHc?oc=5",
+   "source": "San Luis Obispo Tribune",
+   "publishedAt": "2026-11-27T14:34:09Z",
+   "importance": "notable",
+   "id": "spacex-to-launch-classified-satellites-after-thanksgiving-in-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "starlink",
+   "title": "What does Starlink add to Viettel's network?",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbGx5SzYwS0pZMnRlcjM2cHFObDZxbXdFTmpuN2pxenB4cTZ4cURtZUE5Y1hGZUhmVUV2aVJnNEEwVUlhaUpCaGVqNm82cDA1YjlJUXhZcUlEZF9kREMwWG9XNDAxXzFDdUF0YUw4WWJvSHhNZVJoQ1JlZUFEMHFWb3RB?oc=5",
+   "source": "Vietnam.vn",
+   "publishedAt": "2026-11-27T14:29:03Z",
+   "importance": "notable",
+   "id": "what-does-starlink-add-to-viettel-s-network-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "starlink",
+   "title": "SpaceX Logs 56 Canadian Lobbying Reports in 2026 Despite Ottawa’s Starlink Concerns",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQ1l3eF9BRE5YNHNILU9acHJSVDRybXFmSEhsZ2VyWnJfYm1IeTVIU1QtYWV4UWJXVWJ3M0lpb2c2MkVLZzV6Wl9xN3k2eDZuNWtrWEVMU1YtUjVfRDMzdFY2NHVyb0E5Um02ZnAxLU5RZ1pxVDQ3S2pJRUY0bTJHSw?oc=5",
+   "source": "Drive Tesla Canada",
+   "publishedAt": "2026-11-27T14:29:00Z",
+   "importance": "notable",
+   "id": "spacex-logs-56-canadian-lobbying-reports-in-2026-despite-ott-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "tesla",
+   "title": "How Optimus Ambitions Are Driving Tesla (NASDAQ:TSLA) on the S&P 500: EMAG Builds Robot Gears",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNV9ZWV9McDdQZnZIdFFpV28xSnNPQmtjV1k1ZGlSRWR0N0N4UHFJOUtTcHd6eHVhRnREb0pKY3h3OEdjVGRMMllOaVM0bzVmZGJ5dmtTbml1Slk0S2ZSU2t4WWNvbXNWZlIyY0hvVmROV012dnNscnlpSXFQWkEwa1dTejBBaklvNUotVUc5dzlwN19MSERJeHFsYjlHNzljR2hvX0VOYVZhR1hNazEyRXBQNWZ6Q0lkbTRlNWpJUQ?oc=5",
+   "source": "kalkine.com",
+   "publishedAt": "2026-11-27T14:19:00Z",
+   "importance": "notable",
+   "id": "how-optimus-ambitions-are-driving-tesla-nasdaq-tsla-on-the-s-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "tesla",
+   "title": "Why the EMAG Plan Would Bring About 220 German Workers Into Tesla (NASDAQ:TSLA) on the S&P 500",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQUtUTW5ITVZuYThxVDFnZl9OTkVpNWZVeUsxejUyeXUxbTNSUzY2WXVVMUNBQmg1NGQ3NE1VU21mUzdiZVZkSUJUMkxEOXowYlpjbUQ4YkhuM2NmQ3ViQVUyTGRmNEN3OWxsOVpHN2UyR3pfRFFfV2ZJN3oxckFGdUtROVVzWWU0MW41dDBLdVN5UXY3YmpvaGZuOGRmY1BSTkxjVkdBOV8tRUozTXV1SDVhWXUzOG85d3RESEs2am4zZw?oc=5",
+   "source": "kalkine.com",
+   "publishedAt": "2026-11-27T14:19:00Z",
+   "importance": "notable",
+   "id": "why-the-emag-plan-would-bring-about-220-german-workers-into-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "tesla",
+   "title": "Why Tesla (NASDAQ:TSLA) Is Powering Higher Pre-Market on the S&P 500: Reports Say It Plans to Buy EMAG",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUHVDX1lRSS05NlkwZ2luTjJWeWx1Q3I1SXg3TlFiUklhWnIySzhLbzlHalVWdHl2VkhmTDNjbkhxWWhnS1VESG05UlVEVDdBMW55Wi15aWVJcUo5WnFXVFplNXNENjhKZ1IxUG54Vm82Y1Y0d2ZBbS1pWkExZU5OYzVkajdWS0xyeXZCRmJ0Z2gtSnZqWUZjc3dZdUlQQ3hNakZPVTU3RmUtOFFUNHd1dTFWODhQcElBWmRNdHNIVEhNSy16dlg5c3RZaw?oc=5",
+   "source": "kalkine.com",
+   "publishedAt": "2026-11-27T14:19:00Z",
+   "importance": "notable",
+   "id": "why-tesla-nasdaq-tsla-is-powering-higher-pre-market-on-the-s-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "starlink",
+   "title": "Starlink Restored in Ukraine, Occupied Areas Stay Limited",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWVRkZ2l3SnFJeTB1QkFKMnBkVS1uQTlFRGRRMWtxRXNTQlJHYmNoRTRIcWJtWk12WjJGT0JhWjlPVG5SemdqWHJzWkljTzNjdmNBLTRWOVZWd0R1VjQwTlAtSXJ6UnB6UzE5MWFkckJJQ3ZKZHZiN0M3SzRjMUFjeU9La0N2QmFvT0JDTlVpUTItZE9aOUE?oc=5",
+   "source": "Wisevoter",
+   "publishedAt": "2026-11-27T14:16:40Z",
+   "importance": "notable",
+   "id": "starlink-restored-in-ukraine-occupied-areas-stay-limited-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "tesla",
+   "title": "Tesla Surpasses 1,000 Cybercab Registrations in Texas After Record Jump",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONDUtNFJTbDZsVnBSV0NPTUh4Zmdic2NqVlRkdGMzYkkzUDlfeUR4eWhQN1B2SXRPazVuWDh2RHF4RjZvMVktTHlvMWRLV0Jwd0dDcTJwdFByWlZ2TzQ4YVRrZnh6ZEN3ekdiUy1WNXNvQ1BaTmxsZFFqRUo4OVJaT2Iyc2g?oc=5",
+   "source": "Drive Tesla Canada",
+   "publishedAt": "2026-11-27T14:07:00Z",
+   "importance": "major",
+   "id": "tesla-surpasses-1-000-cybercab-registrations-in-texas-after-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "tesla",
+   "title": "Tesla Robotaxi Geofences Found in Firmware for 9 European Cities",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObjUzUkZLZXVadjk1UmdmRWtPNHpoeHd0MmZ3R0Eyd2l6UjZSc2ZObHdIQXloWUx4bzRkT3AtWDFMS3JRamJGbVVlZ05sOVN2WTN1TkhOWE9KT1BCVy1xck9zeGlxS1FhMDZpT1A0U09ORllaSWszaUt1cXRMYXJnQWhRcVZWQkFsd0Y0bjJJVnZ3RDNQY1h0cE14STJRRGUw?oc=5",
+   "source": "BASENOR - Tesla Accessories",
+   "publishedAt": "2026-11-27T14:04:09Z",
+   "importance": "notable",
+   "id": "tesla-robotaxi-geofences-found-in-firmware-for-9-european-ci-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "neuralink",
+   "title": "Neuralink launches the final trial of its implant ahead of going on sale",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSk5tZjJ2VXVZWFFtUkNGYmp6bHBBeXo5blZzdWJiX0htaXZTaWJ6US1Wbk9LYkEwZnRFTFNMVUNfN19VY2VZRlJQSGNPSi1TQ1pxdW8tTzc4UFU1b0d3cWZGem9KelFqM0g0TVh4cmhnbGZINDFOejBLQ1R6NFdyQUFwVDE?oc=5",
+   "source": "Korben",
+   "publishedAt": "2026-11-27T14:02:42Z",
+   "importance": "major",
+   "id": "neuralink-launches-the-final-trial-of-its-implant-ahead-of-g-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "spacex",
+   "title": "SpaceX Stock Climbs Toward IPO Price As Musk Floats $128 Quintillion Value - TalkMarkets",
+   "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE15VERVd3N5Z3JFY3VNejlIb0RPTllSZk9vUU5wdmxJWXdobkgyazZrc000ZlJFTFJZWGFB?oc=5",
+   "source": "Howl.Link",
+   "publishedAt": "2026-11-27T14:00:00Z",
+   "importance": "minor",
+   "id": "spacex-stock-climbs-toward-ipo-price-as-musk-floats-128-quin-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "tesla",
+   "title": "Tesla Dec. 15 EU Vote Needs 15 of 27 States, 65%",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ0xlOWdLVGQxbkw0b1NhWDh1SW8zMl9VQVliYlFkblFab05ZQ054SUd2TUpkc1Y5N3BjalM0Ymh1T2tiaTFaU3FUMHd6cWtUaHR2d0ZaVWVsZXFNNFY0enFyTHdfcUM2VlZOaGxYVDdFQml1YlRXV1hzc3dUeTNjVVgwR3dDMDVrWGE0aHhldXlVWUJXbjJuTg?oc=5",
+   "source": "shattered.io",
+   "publishedAt": "2026-11-27T13:55:02Z",
+   "importance": "notable",
+   "id": "tesla-dec-15-eu-vote-needs-15-of-27-states-65-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "tesla",
+   "title": "Tesla Pursues Acquisition of Germany's EMAG to Secure Production Network for Musk's 20,000-Optimus Goal",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vWkJKWkhQTE1sSlpDd3c0MmZnRDJZbHJuSVFod1luNktPQm1NUmRjdk5JNGVhVlNfMnI5MS1LTXZpdkZUVV8tZEJNOUxrTGJ5Z2tZTGdHVkRFN25vNHNoQUNlM2JPdlo1MUxaTlVUNWtjcUFNNWc?oc=5",
+   "source": "BigGo Finance",
+   "publishedAt": "2026-11-27T13:55:00Z",
+   "importance": "major",
+   "id": "tesla-pursues-acquisition-of-germany-s-emag-to-secure-produc-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "spacex",
+   "title": "SpaceX Wants AI Data Centers in Space. What Happens if They Go Bankrupt?",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMk1PMjR1WGdHa2R6ejViZkJRTUNxZVZfZFNlN0VyRGNTNzl4dXYtMi04VDFGVDJPVmhhTUNPRHRfUjFvcV9MSnhFYmVKMFhPRU1ETHJkYWVXTFBIWklPVzdzTWFsQ0VqbmVUbGpKQlJwUUdGRTNvdnY0QnVObzFhNGhYMEUtcS1KaGZIN0tVODhHWVRsSUgtcUlOQjhuSVRwTWZMaEh5aw?oc=5",
+   "source": "Benzinga",
+   "publishedAt": "2026-11-27T13:54:16Z",
+   "importance": "notable",
+   "id": "spacex-wants-ai-data-centers-in-space-what-happens-if-they-g-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "tesla",
+   "title": "Elon Musk Struggles To Get Chips As Tesla’s First AI5 Chips Will Reportedly Go To Optimus Humanoid Robots, With Scarce TSMC Capacity Allocated To Microsoft And Google",
+   "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPUTZicGpnSXA3SDN3S1kzRktoUEVpcW1DRnR3cU00UzhfMmdhd2lfZkNrN3FfN2lMR3ZNVktXSTZIdlRFazEwU0xLSW00MjdfMnlnWlVZeDcyYTVYQnp6aGg2OUxmaVEyWUxfaVVtaFZHeEMzcW9WRGsxOEVhb0N3VFBKNzMxRXR2akNHZUxpU25KUkpaeWhTOTNuenRBVzlwUm5JVk1UQ2JTdHhxSkYtSHVmeldzeUxkam50dGNrNDJGMXF1ZGozWVA0S3NaSEFaZTk0N21XbDhKV0FFMHRVaGJZLTJ3eUsxQi13ZnJYLTJVbnZBSzVxRFd3c2RraF9qV0tLWlhxUVRWZmRxNzZPaW1oYkvSAZoCQVVfeXFMTlR4ZEJkem5aNEt0WUItMVBnMklLcklkRHBSTUIzdWJ1NHJPTHBtLTJlemRUSjZMa1U0aUhjOHNKQThqZVRqTnNhWktZSnR5SUl5REltSHJBRFJhMkhYd1YzNEppaDVna1BUdjNjUHBaZGRkZmpWdWRHVjQ5cE05LTRUaXVNdHNtWndwSm14OXNmM0YxaDltcVBtMlJ3TkhIQkNQTmt3b1kxaUFsb2RPdF9MLXFZU2x2OS1xRHZhM19neGd6SmFzZWFxYk5MZmpMY1hhRkQxRWhsX2d6c0hHejBjR0dIUmdiSDJURGhxa1p6NnZGUHE1eFV0WEdhRTNodXFpUU5kRXNDLV9RN3gwS2lrMzZ2R1JPaXNR?oc=5",
+   "source": "Wccftech",
+   "publishedAt": "2026-11-27T13:39:26Z",
+   "importance": "notable",
+   "id": "elon-musk-struggles-to-get-chips-as-tesla-s-first-ai5-chips-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "spacex",
+   "title": "Space weekly recap, November 21 - November 27, 2026: Key stories you may have missed",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOTd6bjFLMmFpcXNjcmFNTW5Ua01QNWt3VUdWbGk3QV9jU0hSa21PcnJlekdWQWY5bjR6T1RlaTFzWjBYQWpnM2VES2dQTkZheEdwc0FBX3RlUnp1VmpOVDQzYUVVWjNNc05nbGdwRjFmaGFvbWVfX1Z4YVA5TlV3VzNnLXdsVzV5OUdZdFpkNmRZQUplN3kxMXROSE42cGNRekJj?oc=5",
+   "source": "Starlust.org",
+   "publishedAt": "2026-11-27T13:19:01Z",
+   "importance": "notable",
+   "id": "space-weekly-recap-november-21-november-27-2026-key-stories-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "spacex",
+   "title": "What Investors Are Watching at SpaceX (NASDAQ:SPCX) After the Trump Account Share Gift",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZGNMcnAyUmlwSHdMZjUtX0Mta21PTHlvOGdHUkNzUDhtYjJncmQ1NVpMckFaN3FWaVpMLWk0OXJzZ2pRMVpWaHU3a21mLWJwVmJveG9fMWU3MXdral8xQ0dXM0hFeElvOUtuMGpoRl9LZVJLcTRRQnlSVGhQMlhnQjdwdjJtZ0tXcG5rLTc1WmI3QTFkLWZ4bDhpRlpuanNzTHR5ZnFPS2daM2s3cTQxcFJhY3hFWWU5aXYtZQ?oc=5",
+   "source": "kalkine.com",
+   "publishedAt": "2026-11-27T13:05:00Z",
+   "importance": "notable",
+   "id": "what-investors-are-watching-at-spacex-nasdaq-spcx-after-the-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "neuralink",
+   "title": "Investing in Neuralink | How to Buy Pre-IPO Shares",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWEtrWF9UNmhWVXVwRGlGdjd1QVQtaHJKYm0xV3ZMbXVMYzZYZzlnR3ZyVHhKX19PZWpIY2RqVlVRVXNDOEhaaG5zQTVyV2JzT0h2YkdMSmkyNS1lczl6cHNaRlZJYjdmeUhQamxWNXZXUFRtTTRBNDBKN3pIWmt0Xw?oc=5",
+   "source": "Securities.io",
+   "publishedAt": "2026-11-27T13:00:00Z",
+   "importance": "major",
+   "id": "investing-in-neuralink-how-to-buy-pre-ipo-shares-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "tesla",
+   "title": "Tesla (TSLA) lays Giga Press foundations for Optimus robot production at Giga Texas",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa3NGdGp0Wi1RRVNUYTlvNmtwY2pKVUtLTDFTNkhpSTFjNmVnbHBUdkJ2MXRNT3o4Q0s2WVU2UzN5QjZyeWtFQVFWc3Rub21HdG9CcEs0SXNWbHZ1bU1YTG5zd3IzbEZEU3VBSmMtNHRQdk1ESnU4QUMxVDM2ZXpwT1hGTXRlUHRPQUx4Q0ZDMURMODU4NVZQTXFOWjdoT2JsV3BxRFBOcXNJWkVGY1RVNGppNTFUUQ?oc=5",
+   "source": "Tesla Oracle",
+   "publishedAt": "2026-11-27T12:53:14Z",
+   "importance": "notable",
+   "id": "tesla-tsla-lays-giga-press-foundations-for-optimus-robot-pro-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "ai",
+   "title": "\"We can't beat them,\" Elon Musk publicly conceded defeat in the AI model race, admitted to employees that the company is \"lagging behind its rivals\" and warned that anyone who wastes GPU resources will be fired.",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14WTJXNVdQUlpQaDBmZmplOWE4VHAwSVFXaEM0UWVpMDBEa191cEdIdGFGT3RZalhkMHd3Z2JKLWp6X0tqZ0ZYUnhxcDhjUkVVY2Rv?oc=5",
+   "source": "36Kr",
+   "publishedAt": "2026-11-27T12:51:27Z",
+   "importance": "notable",
+   "id": "we-can-t-beat-them-elon-musk-publicly-conceded-defeat-in-the-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "musk",
+   "title": "Elon Musk Asks 9th Circuit To Overturn $2.6 Billion Twitter Verdict After Judge Cited 'Buyer's Remorse'",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ3phREFTS0kyQWpZSC04Y2FnUXJtd2tFdlQxN05JZklJQkxVNHZUaVRZR0ZIeUNWbF9Od1pIQnJUalVOQmNRY2JuSTNTT2Rzd1E0ZzRxb1JKR1o5VVZnQjhNanU2Y2d5SkMxTGIwOHJrZUF4bVJzZnM1UzhNbFZFM0NIaHJTMVJLYnZPMk1zT0owREJtSUZvZFB5MXFQNlVINGlVWk5DbENGZFBkaWpzYzVwNVotd2VFdWVJUVVzcnpvd00?oc=5",
+   "source": "inkl",
+   "publishedAt": "2026-11-27T12:42:09Z",
+   "importance": "major",
+   "id": "elon-musk-asks-9th-circuit-to-overturn-2-6-billion-twitter-v-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "starlink",
+   "title": "Starlink Spain cuts entry-level plan to EUR 17.50/mth for Black Friday",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeFNYWW5rOFpfNl9ac294Zy1oTFREaFpnRE8wRExNN3FwY3pLZWdzNXJBZ1k1UUhhaXpZeEtDNVNFZ0MxQWl1SlRNSGg4MmkzMnQ4akNWQk9idk50UEFwaW0tM1FmNVFuNHF1cEFMU3lPMGFJNngtZXJRRFV4bGxLd2ZzR0Zja1ZSbmd3MGY5Rk9ENWFHQmkzZkdXVC1fcjNxQlpLYXU0TGZpVFJjRERfdg?oc=5",
+   "source": "Telecompaper",
+   "publishedAt": "2026-11-27T12:37:49Z",
+   "importance": "notable",
+   "id": "starlink-spain-cuts-entry-level-plan-to-eur-17-50-mth-for-bl-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "tesla",
+   "title": "Musk Says Optimus Will Handle Dishes and Trash Within 18 Months, Predicts Two Robots Per Household",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBMdlppTlhrXzVVYmo3MF9MU1UyLS04MmtMTG0teVJpeVBWX3NlOV9HcjZNQVpTOEN0MDd6VVA1R055RzNXXzVVME9hZmxCREw0SEVVUjlMTVo4UHVYUEpTVTBCYWhOUEk2YmxtYnBJWVRKeVdRWlE?oc=5",
+   "source": "BigGo Finance",
+   "publishedAt": "2026-11-27T12:27:09Z",
+   "importance": "notable",
+   "id": "musk-says-optimus-will-handle-dishes-and-trash-within-18-mon-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "tesla",
+   "title": "Tesla Full Self-Driving Needs More Than Germany and France to Win EU Vote",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWk1lSnBuTU9NM2JWbWw0Y1o4cWFlazBxWmM1WWtjVEc3OENQSzFjcFE5dHFGT1d3NEpvbmdhZ0JoSzNqNXlXQVlfMGlQMVhuN2NweDdSbUlGTTI2bXo5a1Z4TGl3TUpnblNMN2V1WUFUXzNmM1RSWENVTm5XdkRmRDhyZjQ2aUdBSUpkbHNlREh0VTVVZ1p1alBCR3VhRHlIMkVN?oc=5",
+   "source": "Startup Fortune",
+   "publishedAt": "2026-11-27T12:21:37Z",
+   "importance": "notable",
+   "id": "tesla-full-self-driving-needs-more-than-germany-and-france-t-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "tesla",
+   "title": "Tesla Recovers From a 7% Drop as SpaceX Merger Talks and an EU Delay Keep TSLA Below $388.93",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPUlJxVnk0UXhSWFgwcFdhTDduTjd1aXF6V1NwLWwyUlNaclZkQVFRSldTNG9XNmI0SWo2ZXhQVWM1M3pvdkFyY3Zlc3FRMU5JUUp2WUhsdGt2dXdNeFlsbVJGcGJlRXp2UU82VjJ6RFJqeDdLMndhUWZZLTZvY1JsaGFjYkg1RzZJalRuMzNBTWk4MTgxRnIyYVA0VUxZZGZRQm42M05LeVBLRnFnb0tkM1YxR05pMTVJbUtEZE1jWUZXM2dDQ0liUHRBQnNBZnZwa2U3TnF6cVJHbFpDOHNZWHlWanNzTm9LNUNFVTVVVXBHRHhLZ0Z5MXVR?oc=5",
+   "source": "TradingKey",
+   "publishedAt": "2026-11-27T12:18:54Z",
+   "importance": "major",
+   "id": "tesla-recovers-from-a-7-drop-as-spacex-merger-talks-and-an-e-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "spacex",
+   "title": "【US Pre-Market】US Stocks Rebound Strongly as Chip Stocks Rise Across the Board, SpaceX and Anthropic Both Gain Over 4%",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbUc5V2l6dGtvd0VvLWZtRjlCQUc5RDloaGJlYnhuWkN4LTI4ZnZWb1BqNEtzM0ExaFIwRWJJY3dzWkVkX0N4OXhjQnNjS0ItOGdCSE5STUJLc0VQOHo5Y1JXS2thWTBTdmpTc0xHQ3BNY0VzZ0hIYnBMZHVoZDVuSi1DTEkwY0xOamJTWm5hbmNqSzVjVGg0cWlrT1NrUFBiTFNTMDBERmxoZ2xQX2ZFR2hhMHBtR0FhZEJNZ0JFQWtQblhwVlpkQTM5OERXRlVXYXhNQXFEWHdtTEJIYU9fVXdR?oc=5",
+   "source": "TradingKey",
+   "publishedAt": "2026-11-27T12:13:54Z",
+   "importance": "notable",
+   "id": "us-pre-market-us-stocks-rebound-strongly-as-chip-stocks-rise-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "tesla",
+   "title": "Tesla, Inc. $TSLA Stock Sold by Keel Point LLC",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWDlWNlBQYlBNSmlnQU91S1pIdDBURnRnTmt6bGMyNjhrb2RNZElZT3h0RDNDc0VsYjAyOTZoTGZXOWcyR2dvYW9hQjJ2Zi1tcXZ5MWdlajB0S1JuNG51aldkeXFsUDRUc3BiZUFMOVdraEx4bGczbXlTNVMwbTNyQzJWWDJIVVBCT1pHa3BxWWFFYmZVS0wtQkZiYzBDR2I1MURGb05LQQ?oc=5",
+   "source": "MarketBeat",
+   "publishedAt": "2026-11-27T12:00:24Z",
+   "importance": "notable",
+   "id": "tesla-inc-tsla-stock-sold-by-keel-point-llc-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "starlink",
+   "title": "SpaceX Met With Canadian Officials at Least 56 Times in 2026: Report",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTXRvTHQxMUdoalBFZm9zYXZXdFUzM293SmRuUEJJZG1PLVlwcHh3UE5iQ3l3czIwMWNGTGR6OHp6ZmVFTUs2WVpIWkFXcE1SdllMaVRtekVlZENnMktkR0JWbnVJcUtzRXRUd0pyU2ZtOTl6TEJvdmdxTlRPUmY5Yw?oc=5",
+   "source": "TeslaNorth.com",
+   "publishedAt": "2026-11-27T12:00:19Z",
+   "importance": "notable",
+   "id": "spacex-met-with-canadian-officials-at-least-56-times-in-2026-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "ai",
+   "title": "Musk’s AI operation turns to renting compute to rivals, led by Anthropic, report says",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTGVPVXNxRG1Wa1Y4Y0ktZ1preWFYcGo1aTR5ajZ6M1hDc3lIMFVlRk1nN05fTlRxSndOcm1ERF85YWxJMFJXS2RaMTh6VjEyR3VGZXNLa3JaUVFSblNCV1lVdjhpeEx4T21qcEdJc3RSQ2ttamxIQmFYNzBOb3lfRDV5Yzc4U3k0cUc2bS1WM0x0U1lzSGJWUWM2LUxwMFJfN2xuUXhic0ZXVDVmX0tLS0ZrQUVrLXlH?oc=5",
+   "source": "Superpower Daily",
+   "publishedAt": "2026-11-27T11:45:26Z",
+   "importance": "notable",
+   "id": "musk-s-ai-operation-turns-to-renting-compute-to-rivals-led-b-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "tesla",
+   "title": "Tesla Stock Premarket Today: TSLA Rises 2% Ahead Of Black Friday Half-Day",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUVBtRVVLZVF1UHcwbWZwUV8ydlJYZFk5X0tDSkhKRGdyLVFha1EzOFI1ZVJsUzhoY0NXRTU5R1ZNaTJ5T1Z0N0NjMnVMNzlGblcyRXQ4aG1nQTB0N2VaTzVESEhhWnViYXhtenV1T0c3a2pqWGxKdnd0T0h5UjIwRjF5Qk51YjZVNnV6NDV2SFVMay15aU0yOE5SNXNFaGRJU0F4cjFVbll3LTA1d2xoQdIBtgFBVV95cUxOOWNIVDhfQ2Y2UjR6clpLSTBpTU42cnRXaW1hZXQyVGZMUGpGOVBCNW5GNVBLVDlpamJzQXFEOXJQQWhNUUZuVm9ULWNoeVBlYW5aaGVsdWhHdC1kN2dwMUh2bldVbm9hQm56Qm5yTHNTNHYtbmZjR0xVLUxBZzZZSElDcWFvMDVlNGMtVm5JNHc1bFd5TDVMVzFzekhQUmhEVWxMbFhfdnEwQWlZQU5vUDc4SXZrUQ?oc=5",
+   "source": "Coinpedia",
+   "publishedAt": "2026-11-27T11:44:26Z",
+   "importance": "notable",
+   "id": "tesla-stock-premarket-today-tsla-rises-2-ahead-of-black-frid-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "musk",
+   "title": "‘That’s Seriously Messed Up’: Ruben Gallego Says Elon Musk and Ellison Stop Paying Social Security Taxes",
+   "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPX1E5Mm5MNXJISnpNdEtTYjl6SWFGZ2pnOUN2T3ZySnd2Y1huLWMtalVTYXRUODBTWElFN3FOdHowUVVyS3FLRlM1NW9qVFBCZURla2dGUGE3QWpXOHd0X0ZZMERyMERRX2pvSzZ4ODMtSjhrREVLMlhlWmxTWHh6YWdaQ1djeUU5bVhSalFCSzc5eUR5LVdSZ0lZUHNDYml3WG93d2VHTHNhVTZJel9aLVBkT3NKaEZ4cW5maF9WT0hiQmFXMG1ZdUVRWm9WSHI2SXNuQnI0WkwzcnFqWXZkY0FndE9vTGh5UW9PU1dQd3dBRVhHOXpoaGE0eElrRXJlR014SWZpbHN1OEVsOXV0QUZ3ZUxvQzVBS2tpVjFzb0J1XzN6UG9SQnI5NnAxdF9XS1BTdVM1bFRPclFGQzZjbm5TZUphVnE0dHFlY0p5NA?oc=5",
+   "source": "Benzinga",
+   "publishedAt": "2026-11-27T11:39:31Z",
+   "importance": "notable",
+   "id": "that-s-seriously-messed-up-ruben-gallego-says-elon-musk-and-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "starlink",
+   "title": "SpaceX Loses Key Starlink Executive After Decade-Long Stint as Chief Michael Nicolls Announces ‘Significa",
+   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNODdJMHdzSFBJWGpZSUJrbEtMSGpILVhVOEtLRFhuRFBaX2hTZUJQODREREdhZ2FtaVg5S3JjV0dhYk5fNG9sTVl4MklpdkRiWlk5Q0tkdFdLLVlSOTJHUVBxcWxNaEZ2QmpMU011c0ZwWVRMNUdFNlVQTmhUSVBESUp3dzlQTS0tdDV6UDk2NkZiZ3BzcE5uNmM0MnpoTUltdnBHWnA1dkFPdWZwM1dJME5TTW1CTDZtdmhNVlR3dGdRS1dJenN1amhXNGVBMVdNU0l3MFRFMTBLMG8tT3lWQnlFRWtPeHQ4UllMQmpnelNac3BycFloc25GX0xmYjVId3NXdkNn?oc=5",
+   "source": "Benzinga",
+   "publishedAt": "2026-11-27T11:32:12Z",
+   "importance": "notable",
+   "id": "spacex-loses-key-starlink-executive-after-decade-long-stint-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "starlink",
+   "title": "SpaceX Executive Chad Gibbs leaves company",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1tTGJPbVlCMlpQcmUxbWFadDZab3RPTmg3QXFQQ3EwY2dEN3FraDRJaXFFV19tTnNjdXEySGY5N3prRmtNQmFNX3lmMV8xZmdidml2Zw?oc=5",
+   "source": "AzerNews",
+   "publishedAt": "2026-11-27T11:28:00Z",
+   "importance": "notable",
+   "id": "spacex-executive-chad-gibbs-leaves-company-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "starlink",
+   "title": "“You can’t tell Musk to turn on Starlink over temporarily occupied territory, and we’ll go on the offensive and roast them.” Fedorov told how to communicate with the owner of SpaceX",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc2FOUEFXcHRIbzkxcmtueHhIZFliWWhpdEJFbjhyc1VLMW95Rm9FNmdhVk9jdi1hdWRYRDB1Qm5xaDZnMlZNT2VGS1o0VmdyX3I5dnJ2b2ZCN3VJTUJmQ09fM1dRRTVlaHRVTkdMT1RhOGZicndDU3N6Yk5ETkR6NHUtSm12WW5mNnN4OWp0NFZvYjBVaDdBNw?oc=5",
+   "source": "dev.ua",
+   "publishedAt": "2026-11-27T11:28:00Z",
+   "importance": "notable",
+   "id": "you-can-t-tell-musk-to-turn-on-starlink-over-temporarily-occ-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "starlink",
+   "title": "Reach Ten expects stronger recurring revenue from fibre, Starlink deployments",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUmlXaUdFYlpMRERMZWFzLV92aXVsTE5aQVl3X2NIU0oxOFFlMFlvTmdkTkl0WXlXcTdkbGhKQ1FGRkQ4NU90ZGMtbFFpWEFfemZIb2tmV3l0eG5EMFkzSktXaUJ1QUplaVgyOFBOeWxPbWVGUkdZbjc5eGZ1RmFna3dFamlyRkxZMVRpZkpEb0RqaDU5dlZIOTc5dlZxSFFabExDZ2xYbUxIZl9ROHpvbThSSS13Yi1OWVkyR1h4S2xpYjRrRE4zQkR5TURjcmZIYUhv?oc=5",
+   "source": "The Star",
+   "publishedAt": "2026-11-27T11:19:00Z",
+   "importance": "notable",
+   "id": "reach-ten-expects-stronger-recurring-revenue-from-fibre-star-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "starlink",
+   "title": "Starlink is now operating reliably in Ukraine, but restrictions remain in place in occupied territories - Zelenskyy",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTWJaUTBYR05jSDhEeGJTUWtxZjNXWGM0eVEwV0dzUVFXMkxtZ1pQU1BjM0pWSkJyUlpGMWdiMDJ0T1VnRkZfenBpT0hCNjFoZWJ4UnpIZHhvdFY0UUE1cXFpcGhxQ05zTEVVenF4ejVCMG5lMXdOakw3RFJ1dDN4dmQzQjJTdzNseUJvM05nQll3RkVIU09JTjNuYVQ3WTluc1VLRDJWSDlBSzFObllTUkczOGNfcTQwaUg2UVdjVHpkY0dfX1HSAcsBQVVfeXFMTU5XN2RueTNvbFpYQzN2bkpUNlYzb3R6Y25nRFJvX0NtbEMtUEdyaXJIeUxUTGFZTjV5TTRpbER1ZWZOaEJ3eUF6VDdfOG9tOUVlOXNEVEFtVmExcnBjbUJZLU5EUUpMNktYQ0JVS1NtNm9DQWEwdEdVd3R5VmhOcW1yeDdqa2tkVXNINEY3VWdxd1MxajNPVm1tQ2Z1alBRYlZFb2hrTXA3dHk0T0QyUUdfbTVfM1pFODk0WjBMenJDa0dVUEkxTEp6Z1E?oc=5",
+   "source": "ukranews",
+   "publishedAt": "2026-11-27T11:16:06Z",
+   "importance": "notable",
+   "id": "starlink-is-now-operating-reliably-in-ukraine-but-restrictio-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "spacex",
+   "title": "SpaceX insider shares unlock Dec. 8",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWU5ZcXBqLVE2Wk5fUnhzdnctM0VDbzFjSHI5djlGeDVGaHVpS2w2cjdlMnFuSFVjemlJakRNNXFwbGllOTNMbGVxRmZqVk1PYUxQUlRJUlZnNnAwMWNDZ011d00xd25VNHI3ekk3ekJiVUlUZGJ1SXVpSndnZHBLZTV4bjhfZm9BOVVUT1lrY05SUXRv?oc=5",
+   "source": "Money.ca",
+   "publishedAt": "2026-11-27T11:05:07Z",
+   "importance": "notable",
+   "id": "spacex-insider-shares-unlock-dec-8-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
   {
    "company": "musk",
    "title": "Ravana Was Like Elon Musk Of That Era: Baahubali Writer Anand Neelakantan On Ramayana At Mumbai Book",
@@ -12,6 +832,26 @@
    "addedAt": "2026-11-27T11:11:48Z"
   },
   {
+   "company": "tesla",
+   "title": "Jensen Huang Returns To Nvidia, Musk Says 'The Mistake Has Been Corrected,' And Trump Weighs In: Mag 7 Voices This Week",
+   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOdGlodElCMEdhN0hxNkZXcDM0Z2p5RE5NYVJpYnI2MllTREdGU3VWUHl0LVJpSmVHdjVRZmJGRHNDTTF2Skhfc2NVbEI0UDhrMGtmSk5Ud2VNc09GeFJiaVBybEpMWjc5bXJYdzlmZ0lCUF81ejA3akR4MUtfVmgzVmZFQWJiUHNaVUN3OHZuUW85Qi1XRU91WEhHelB6dXVENmp0X05iOU5pVXk2b2QzWGZwWVRiN0h1bDczVW8yRy12c1VVY1dTRWFoV2Q4THFhVkRqRGQ1a0oyZEJ4NVIyLVV4SGZjTzdUYU5kTXlLZ3JfcUQzbTNOeWlhMWozajNNSW1HM0ZB?oc=5",
+   "source": "TradingView",
+   "publishedAt": "2026-11-27T11:00:27Z",
+   "importance": "notable",
+   "id": "jensen-huang-returns-to-nvidia-musk-says-the-mistake-has-bee-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "spacex",
+   "title": "Prediction: These Will Be Anthropic’s and SpaceX’s Stock Prices by the End of 2027 (Hint: Both Are Buys)",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZmtENk9EZEFRVHRXSVZISThFQXRmaS1qSE5xdzM2eWpQTjFDY19GU251bUlzVl8yZU11TTdqRVJ0bF9uMjZudDY2b2tXYVk0dUFnQ2dQYUIzU21FN3J5RVJVcUVnZ0cxNTV1VFhSaF9iRGNCV1o0YzZwWTdXVE4zUE1pZUR4cWJiMXhWbTR5YWoteEgxZEkwZk91aVNCcm1NYzBzcmdZel9kWlNBSDdpYmxjWFNvdmRHbGlSWFB2TWlhY283NzF6MzJCc0FFSzluTFJULTZlcW9UclU?oc=5",
+   "source": "The Motley Fool",
+   "publishedAt": "2026-11-27T11:00:02Z",
+   "importance": "minor",
+   "id": "prediction-these-will-be-anthropic-s-and-spacex-s-stock-pric-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
    "company": "musk",
    "title": "How DOGE turned the federal workers next door into your new congressman",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTFEzWVh2c1VSQS1qajlFSXA0Ymp5MGFlS3BuaDUwX1VQalZHWEQ0djEzdk9udEMxMXBOMzRoWno3RGU3eTJzcTlwQ09nN1FTV1Brem1GQmxHQ19LaWVKc1BvN2Z5Q2hzVjZOZTh3Tm1YZ1FJbzdoVExRRnB3VF9SaFdYQ3dacV9KY0trYXZKR0VGSFNfLWIwaHUwQ2kzdjVnS0hiQw?oc=5",
@@ -20,6 +860,16 @@
    "importance": "notable",
    "id": "how-doge-turned-the-federal-workers-next-door-into-your-new-2026-11-27",
    "addedAt": "2026-11-27T11:11:48Z"
+  },
+  {
+   "company": "spacex",
+   "title": "Musk and SpaceX Give Kids Two Shares Through Trump Accounts: “I Recommend Holding On to Your Shares”",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObmM5OE1KaEZEZFlZZGRISXc5Y2xEdHJfdExvd3BTSWNGTUZKZmx1S2sxLXZCaG5odG93Sk5VRGlQdHhBQVhkak9FcEkxSC1zNTZmTHRVN2twWGsteHlzNkFQQjBZRVlmQkktUEhlNmR2NzNyaG9sNl9pNHZHdDFlZVdHQVdnaU53Y1p3VmpuOGtCMFNzQlZqZVktdUNaTzBQQ1lvSFVFVGJsWEJ0elZrTklCRkNjSW0ySEJtSnhfUy1aQQ?oc=5",
+   "source": "TIKR.com",
+   "publishedAt": "2026-11-27T10:57:01Z",
+   "importance": "notable",
+   "id": "musk-and-spacex-give-kids-two-shares-through-trump-accounts-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
   },
   {
    "company": "spacex",
@@ -63,6 +913,16 @@
   },
   {
    "company": "starlink",
+   "title": "Elon Musk Hopes All Teslas Will Get SpaceX’s Starlink Connectivity—Except in China, Where It’s ‘Illegal’: Says It Will Be Key for Unsupervised FSD",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRHFfdnhERXRBS3RramlJT1d2R1Q1Q0NZdVFJTXRCVC1nLWNreVFTU210STlFU1puMExvN2Y2b2Q2Mld0TnlXU2VLeEFwRlUzZHRIY09YTFRpTzlFSFJqM2JRbkdWZG1ZOGtJaEJSOVUxZ2k2U0poZXJlMVFXbU1nWElpQnRTbnNxQjhaSDk0SHpoUVJw?oc=5",
+   "source": "Yahoo Finance",
+   "publishedAt": "2026-11-27T10:45:07Z",
+   "importance": "notable",
+   "id": "elon-musk-hopes-all-teslas-will-get-spacex-s-starlink-connec-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "starlink",
    "title": "Zelensky says Starlink service has returned to normal in Ukrainian-controlled territory",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNHI3SFF4TmFFdWRfWmp4OEJzemI2WnVkWmlUVHE2TlhIU1ZxcUVpaWN4S185M192ejJHdDZLYTBsUGJBSEhCWUxwY1lMRE5idW9rZmtGbWlIT2Vmem9YdWdmWllpdFMtYTNjUW5hMGZNR3YzU1ljejRYUXJNYmhrN1VobHJzOFhv?oc=5",
    "source": "Mezha.net",
@@ -80,6 +940,36 @@
    "importance": "notable",
    "id": "musk-says-spacex-leads-the-world-by-an-order-of-magnitude-he-2026-11-27",
    "addedAt": "2026-11-27T11:11:48Z"
+  },
+  {
+   "company": "starlink",
+   "title": "Entel tops 3,200 Starlink satellite users on Rapa Nui",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWWpfbFF3ajQ4QXpDS2xKeVVBamt2Wlk0T0FLa0tWN2RMYnNWX3puLWdMU0stdVhaWDE5TER3ZU1rNFVkTWYwTDhmNDVnc3pNS0pULTdFcFRQakxCUXhnNmRRdFppako4TFFReUk2Mm5QeFRjQ3U4ZmM4Vl9UcEdXLUJVTVczVy1qOVh2bGJDYl9UcTZmT2NmX0lqYw?oc=5",
+   "source": "Telecompaper",
+   "publishedAt": "2026-11-27T10:31:28Z",
+   "importance": "notable",
+   "id": "entel-tops-3-200-starlink-satellite-users-on-rapa-nui-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "spacex",
+   "title": "Biggest stock movers Friday: SPCX, PHAR, VRTX, ALVO, and more",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOd1ZVU01mVmZ1RHZDZGI0ekZLcDZiYU5iNWJlSzFkd0V3QTZ5YndKeDZGT3R0enRCclpsaUdtN1FMaXhDSmtxZXFOdnR2QmM2WVB2SkFxWEhOTUFnWDNJTDUtZ2pBbEdmdmVrR0JOS2pSSzlMeV9kTHVNWUpUQ01majlXb0l6aDNVeWJVMElHRzF6aV9WUlEySWFR?oc=5",
+   "source": "Seeking Alpha",
+   "publishedAt": "2026-11-27T10:27:41Z",
+   "importance": "notable",
+   "id": "biggest-stock-movers-friday-spcx-phar-vrtx-alvo-and-more-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "tesla",
+   "title": "Why does Elon Musk want to put a million satellite data centres in space?",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT3phVV9SZEFPWkNoSHNVYTBEa0Y1LW93MWN5eGdCYnBLalRjbXQ0UGFvQkhkb0o0dTFZdVFuNy1ISmdNMWZQTk9SeEZacEU4aFNZTmpwNkcwOUF0SlotY2Z4cjl4bmhjbDVjb05DR0xiRzZLQm1odnNhekE5eVRiTk1MdGVCOWV1X1JkYzBGVVdjRkRJX25oZ2FpeEFQZGpWbXBmWExhcmZlV0wwcnpVYm5wYjHSAboBQVVfeXFMTjk1MHU1b2tySlFtTkNlVDVrTXdEXzduOVRobHVSLU9zbi1MLWVEeVBaSkgweEsyT2g2QXNYSHkxclcyYXdlNUhlWDI4Rnk0cXZPNE5xbk9lSUhWa2NxYVBsY1lQald4d25rc09uaGZOdGc5eWlVLUxHMXhIY0VzM0pxUk1qLUk0cEtueTEyZWU5R0lua0NGWEVJY3o1TXdqMlJTeVIza0RZU1lIZ29LdTlleUpmeVktVkhR?oc=5",
+   "source": "Al Jazeera",
+   "publishedAt": "2026-11-27T10:24:40Z",
+   "importance": "notable",
+   "id": "why-does-elon-musk-want-to-put-a-million-satellite-data-cent-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
   },
   {
    "company": "spacex",
@@ -112,6 +1002,16 @@
    "addedAt": "2026-11-27T11:11:48Z"
   },
   {
+   "company": "neuralink",
+   "title": "FDA Clears Neuralink ALS Trial: What the Brain Implant Must Show",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTjdXajJXaE5fRUxLbVFUVGFlN3I2eG9OQU1kTmVmSWNCaUl3SWZTZDBSM1RxTzQwcU1SQUlsOUFmc3hEUWYtMmM5M3ExZEdTRTRka1N3eUNpUTZuMk5IVC1Za3ZxaDhmc1RWdE1mMUdIdE5HVTZyUXZtbm1lYlRZUmFR?oc=5",
+   "source": "TechRepublic",
+   "publishedAt": "2026-11-27T10:08:10Z",
+   "importance": "major",
+   "id": "fda-clears-neuralink-als-trial-what-the-brain-implant-must-s-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
    "company": "tesla",
    "title": "Tesla, Inc. $TSLA Stock: CSM Advisors LLC Cuts Holdings",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPX2UxMDZXdWZHMUNWalBoaE90djVsUEliazNiZXFJd29JNVBzcEI5M05Wa0Fxdk5oLTVyam40TTZpMzJWa3psMHdZMlRzc3VxcjBKeVU3QjdWU2NzdEdTczdlTDd1eW9Tb3dnS0Z3VzFUZnpHc2xTZEdDd1cteDJ3OHlvVkppNjdKRHl1djBfeTNkSFNGT3N4QjlTWDFiUlI3TmdRMTRiaEgwX0RkdmZTVEZ3?oc=5",
@@ -130,6 +1030,26 @@
    "importance": "notable",
    "id": "russia-is-creating-an-analogue-of-starlink-with-1-164-satell-2026-11-27",
    "addedAt": "2026-11-27T11:11:48Z"
+  },
+  {
+   "company": "tesla",
+   "title": "Tesla files plan to acquire German machine maker EMAG",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPR0RYNUl4ZkJBVkZGZzZNdTJiY0xRQVMwQ1dIUjNMcmNTUHBPVjMtWXJZZkNZWExvLW5LUklDcm45RkwyLXY1d2JxTjI5cUFPbHgyaGhkMFZ1X19DdVp2UEV6cjZrQVNmdGVrYTZEWlltQ2txT2hqcU5yaHBpVXR2ZmFwbTFIWU1qN0ZBVVFlZF9UTXF5Q0E?oc=5",
+   "source": "Automotive World",
+   "publishedAt": "2026-11-27T09:54:57Z",
+   "importance": "major",
+   "id": "tesla-files-plan-to-acquire-german-machine-maker-emag-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "spacex",
+   "title": "SpaceX (SPCX.US) Options Trading Guide: Pre-market gains exceed 5% as million-satellite plan approved",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSjRSdlh5aXhUNG9lNXNvcXkzWG1OajVqdXpGMEdSdDRUUk1zaVZPaC1sU05GR0tuTHViVUY3Y2pJWnpBd09nMERLM2hZYzBSZFNNLVFxeGthWFNYZ1lXQWJ4eEFWRzR1WmIxV01JUjZIN19MUVV3M0tDeVlEQU5YSUhtbUVaYkswcm8tVG0xLUdodU9nVVlXZzNOQ2ZuSGZIbEhVWHBvSQ?oc=5",
+   "source": "富途牛牛",
+   "publishedAt": "2026-11-27T09:49:02Z",
+   "importance": "major",
+   "id": "spacex-spcx-us-options-trading-guide-pre-market-gains-exceed-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
   },
   {
    "company": "spacex",
@@ -180,6 +1100,16 @@
    "importance": "major",
    "id": "tesla-may-acquire-german-machine-tool-manufacturer-emag-to-p-2026-11-27",
    "addedAt": "2026-11-27T11:11:48Z"
+  },
+  {
+   "company": "tesla",
+   "title": "Tesla Volatility Intensifies as Breakout Above $415 May Trigger Trend Reversal",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaDJ5N3JkV3dFaGpzeEhvYmhoVFE0M0FLd2x0eUI4MWUyT3ZtT1BHcW54RlVFOGQzWkJMa056ZklJcTJEVldYZ1pHN2U1ZUtnb0lkOF95TjlhVl9qS3ZJak1WVFloY2RJQzVpckZrejlySUFUcTl3TEJIR3N6SUhsV2Q0eFczaDFQSGNQcDN5ZDNCWU5tOFlOR0UwTTB4VEJuY0RBNEtTY3p6UDJjQzBtOE5MVkRWSW1kSWJCanRkY1hneExIUktGb19TS1p6TGQ3ZWV4V20tdw?oc=5",
+   "source": "TradingKey",
+   "publishedAt": "2026-11-27T08:56:23Z",
+   "importance": "notable",
+   "id": "tesla-volatility-intensifies-as-breakout-above-415-may-trigg-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
   },
   {
    "company": "tesla",
@@ -302,6 +1232,16 @@
    "addedAt": "2026-11-27T11:11:48Z"
   },
   {
+   "company": "starlink",
+   "title": "SpaceX’s Starship makes orbital debut deploying Starlinks before early ending",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMVVuZEtkMU9PRklSUklBQ29VaWV6NVkwcmFBVTRCTDIzSmcyMFliOWVNdUFJenUtR2JsYVZsRmtBR0ZxVmRaRTQ3bHluZTRmcWpZQUpTRkJRYzFjM2RzeWltXzhSbExrRkRwb3pJLWoxV2hwalp3U0ZDQUZUMlpmN0NXU2dvUFFTbXZoanpaUS1oTktYcFZPRnROSUU0M2hjb3hndQ?oc=5",
+   "source": "DD News",
+   "publishedAt": "2026-11-27T06:47:39Z",
+   "importance": "notable",
+   "id": "spacex-s-starship-makes-orbital-debut-deploying-starlinks-be-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
    "company": "tesla",
    "title": "Elon Musk Reportedly Failed to Sway Samsung With Chip Supply Deal - Tesla (NASDAQ:TSLA)",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVTRJQjdoeEQ3WFV4WTg2SEVSWGRNUTI1TW9Dc2VJSW9xOHBHWTNENENtWUQ2a1Z5OGpQREotVGYtT2NNWU5hX3c2VUZEaWM5Tmd5Rk1XUVJHMEtUN0thVGdFRjBZNC1KaFZmZUFJMmJYd01PM2lJa2xjTHA2d2hVYmVxZ2pxN29PbVRnZWprWW1nd3JIdnhiRE5zTWk2aUtaRnJnV1VDc0Zyb1ZTVnE3NU94QlE0VXpDZHBaWHJNQi15QQ?oc=5",
@@ -310,6 +1250,16 @@
    "importance": "notable",
    "id": "elon-musk-reportedly-failed-to-sway-samsung-with-chip-supply-2026-11-27",
    "addedAt": "2026-11-27T11:11:48Z"
+  },
+  {
+   "company": "starlink",
+   "title": "Bipartisan group of senators want answers on Starlink disruptions, US support for Ukraine",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVHJYaDM1dUFyUUk3YzR2Y29QOGVhOW13MGFJcTItUm9wWnZ6b2JyNXpOcFl4RHFBY0pYMF9XZjFQaVlRN05GSGZBMG9ickk5NnhXZ2hWRlRHN0MtaExsdW5xSnRadUVRcHhzVW5oVjJDU0hiMk9oT3dmRl9QbnpJMzBueTFDVkJ0WVYyMjdDZGlCTEpOZ0FYM0VUYUxJZnZ5YU40NXB3cnppX0w3M3ZVaXRhONIBuAFBVV95cUxOU1p0Ql9FeE9mN0RMUEhNcmNHeldOc016bHgxWGRVTmlMbUwxaU02VHFrWnktTXJBRXd5end0bjlibFhPYTZDYXFBWWtnMmhKUEhvNE1LV3hLenNaVnlQNWd4cnBGVEk4RzRkVEVzMDBueUhZUWpBOG54TXNabXZrVVhfTndkM1J3TEJ1cFlUTEQzdmNkZkRJeVpnaFlOZHpCQU0wVzAxVHJjcFNfNGljVHR0TVM2UVRD?oc=5",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "publishedAt": "2026-11-27T06:44:35Z",
+   "importance": "notable",
+   "id": "bipartisan-group-of-senators-want-answers-on-starlink-disrup-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
   },
   {
    "company": "spacex",
@@ -442,6 +1392,36 @@
    "addedAt": "2026-11-27T11:11:48Z"
   },
   {
+   "company": "neuralink",
+   "title": "BrainGate study: 11 of 14 brain implant arrays decoded movement for years",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWlZxaDZ4eDRNYU8za1RzWVFBZUxfZ1hpQmpQcHVvUW1HNzI2R1FfSmZOdXVyT3EwOU9PU1JBcVRUQ011T2d0SHFudHpNVWJtMjVXVE1LTlRmOXNiUUhTYVBxTy0zVm40VWpkRlRlZnFpcnJvLTVrMTFjQVdIS281TWdzNEMwT0dKek1IQklrNDhkOGdIaTFYTQ?oc=5",
+   "source": "MLQ.ai",
+   "publishedAt": "2026-11-27T05:04:22Z",
+   "importance": "major",
+   "id": "braingate-study-11-of-14-brain-implant-arrays-decoded-moveme-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "starlink",
+   "title": "Tesla’s Robotaxi Just Put Starlink Inside Its Roof",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAweFNaTF9zYW5oTVhmWDU2cUx2SHdOU1BOYWhNRzhtQ1RDQWU5ZG9VbnNXSXRjYzJJWC0yYUtaTmRpZ2xQdFB0SWM1TWxMZ0IycnNpRnJSWXhTaXJ4TXg3UEN3RktiNXphWllQSzFQSkRkUHhOMlNVOW9yNA?oc=5",
+   "source": "Motor1.com",
+   "publishedAt": "2026-11-27T04:55:04Z",
+   "importance": "notable",
+   "id": "tesla-s-robotaxi-just-put-starlink-inside-its-roof-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
+   "company": "tesla",
+   "title": "I Tried Mercedes' Answer To Tesla FSD. Here's How It Went",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5EMjFqck5uOHRSbkV5Mm9hS2ZQSjg0SjBaUUhwS1pmUVdVY0EyRUVuNTgtelFKWFlHX2l5QWhsOXRkd0JMY2RTNUJ4cWs4TDlhQ29XTmhnM29kSUh1cmU0RkxnZ2t4cW5fLWFUejAtcFFWcW16VldhRWlB?oc=5",
+   "source": "InsideEVs",
+   "publishedAt": "2026-11-27T04:45:44Z",
+   "importance": "notable",
+   "id": "i-tried-mercedes-answer-to-tesla-fsd-here-s-how-it-went-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
    "company": "tesla",
    "title": "@wongmjane says Tesla Robotaxi can be sent into San Francisco’s flood zone",
    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE91RGo5ZlNucVZrVTVJTkNQUDZqNEl6VDlBQWFuZkU5bjhTY2IwWUFSVTJabllKWlpqa2pkc2drNURUYXZC?oc=5",
@@ -470,6 +1450,16 @@
    "importance": "major",
    "id": "neuralink-to-study-brain-implant-s-impact-on-patients-with-a-2026-11-27",
    "addedAt": "2026-11-27T11:11:48Z"
+  },
+  {
+   "company": "spacex",
+   "title": "SpaceX shares jump over 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9iX2dPZU9nMG94cXpkbmdGX1U0UERabDlfcGxmd2t1TlZZM0JTNmdpNnhJLTFFYU5UQkJ4Xy1wakExQ1owb3I4VkVkTFRlUHhJZllZaDQxTzMxY0hwN2tzczc1cFdpNjdGQjI0cVRWMlh1c2vSAXhBVV95cUxPdU9oSTZCWkhiWEZEVUowaXJkSDlvalBJQ3Q4dGlydDFCYWhxYmpnejFJTXhkN1g4SzNEYjVoeVloWTQwODdNVnhGZW9yMUJmLWh1cDRCTThYd2NIcmItSTdLV3JrQmR2Z1lfZ2MtaVdSMjVHc0pubEU?oc=5",
+   "source": "CNBC",
+   "publishedAt": "2026-11-27T04:20:00Z",
+   "importance": "notable",
+   "id": "spacex-shares-jump-over-4-amid-tech-rally-and-after-musk-say-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
   },
   {
    "company": "starlink",
@@ -600,6 +1590,16 @@
    "importance": "notable",
    "id": "samsung-turned-off-elon-musk-s-chip-plant-financing-offer-be-2026-11-27",
    "addedAt": "2026-11-27T02:21:23Z"
+  },
+  {
+   "company": "starlink",
+   "title": "Key SpaceX vice president who led Starlink to leave company",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNjREQlRXQ0M2TGduclAzbFpPRmpaTjBuM05SZW1YQ2RJMkdWQ0ZDQll2Z1Fod0NFWGNIeVRjNWI2OVpFWmhZbjlPTFlmckljbU9jTDZVRWtfRlZyVW00VEJzSWE0UUY1Qlpqbk5PdUFSbjlIaWNoeUk1NDZpUndHajVldTRmMExUY1VsdnoydmQwWGZ5WnJwNzA2YlRiYkVMeXNYamZJMXM?oc=5",
+   "source": "디지털투데이",
+   "publishedAt": "2026-11-27T01:08:06Z",
+   "importance": "notable",
+   "id": "key-spacex-vice-president-who-led-starlink-to-leave-company-2026-11-27",
+   "addedAt": "2026-11-27T19:56:40Z"
   },
   {
    "company": "ai",
@@ -1802,6 +2802,16 @@
    "addedAt": "2026-11-26T19:29:51Z"
   },
   {
+   "company": "terafab",
+   "title": "TSMC’s $22.6 billion Texas plan wouldn’t make 2nm-or-better chips until 2031",
+   "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQZ1FuTlo1SHRiY0FYdTk4RFhfZ3V0U1dVRmVVS25rWWQ5dW92TzNWSmtkRUNOb1BIc0VMOV9JQkFNYm5QUDJrYllHQ1Q2dUtBUXc0UnFLWUxCZUZXd2JqcjRYcFVrc3l1UUdMbHFtQTVjY3dBOFk0bFZoZGF4MlVpZUZya3Y1Qlc0SGRydkNlb1ozNDBjN3Z5c19JcHRoY2hBYTNCdm9zZzI5N01YUHZtMnhwbGwzSEVWM2djMHBvclNTcWJ2U3NIRlNvV051WWg5bWNJdHAyTkF3aTR0Z3RkQ0o0dWNYY25CcjltcWlTTUlFTHp2RktJS3hfZUg5cVhrSnpEUmpqZ1JEWmp0QkpkVmMyRHJGY3dxSXhzU29YaWZ1cXFKQ2V3elAwbEdaOG5BTXRZVHMxcl9CeWJLbVNEY3E2UXhnU0ZpSm5hcXQ5TEFZMnc?oc=5",
+   "source": "Tom's Hardware",
+   "publishedAt": "2026-11-26T10:30:00Z",
+   "importance": "major",
+   "id": "tsmc-s-22-6-billion-texas-plan-wouldn-t-make-2nm-or-better-c-2026-11-26",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
    "company": "starlink",
    "title": "Viettel officially launches Starlink satellite internet service in Vietnam.",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNM2F4SUhpazc0Nkh5TVh0OTZ5MHkxQmRiYTRlS1hzMmp5ZlFXZFFPakMzLVZDblBwZG5obUE4bXFhSjFhSEtad1VNbDNGVmNUY3VFZ1pMb2hKbUdVSmc3UmlvWmdmb194WHpnOGoxdVdIMi1GOW45MUpKY1otYW0xTGhHVFNTWVEwMnRVYXZoZlZYcU9hc3gw?oc=5",
@@ -2310,6 +3320,16 @@
    "importance": "notable",
    "id": "elon-musk-visits-nvidia-hq-with-sons-after-jensen-huang-rein-2026-11-26",
    "addedAt": "2026-11-26T10:03:12Z"
+  },
+  {
+   "company": "musk",
+   "title": "JACOB SULLUM: Elon Musk Discovers That 'American Elections Are Not Just About Money'",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQSWlkcTQ1eUtvVm05UzRfcGp2V3poUlZFSlRkTmhsUlVxTk03LWNyeGVTRnRvbER1T09xeGsxWnh0RmxIekJTZGtwak11ZzNyQWlwcTlWSmt6ZUtOWWZNZlFGbUhXeHJaWkc0ZF9rZDdfNlM0LWlvUy16YTU3Ykc5d29aZnVpWDc4eDFRZ19ZVl92cG9Zb1pwNTZJTHdWLWMzQ21NTFJ1Mjc2RGV2dzNLQ1ljM2VTR28xX0c1Q2JndVBCOFZnM0Rod09FbXNvNjZkdTJDcHZxT3B3UlV5N2IwNHZYNWVrU0R0TkRtRTYzV2VKR1dMazZHNzVB?oc=5",
+   "source": "Goshen News",
+   "publishedAt": "2026-11-26T05:15:00Z",
+   "importance": "notable",
+   "id": "jacob-sullum-elon-musk-discovers-that-american-elections-are-2026-11-26",
+   "addedAt": "2026-11-27T19:56:40Z"
   },
   {
    "company": "musk",
@@ -3042,6 +4062,16 @@
    "addedAt": "2026-11-26T10:03:12Z"
   },
   {
+   "company": "spacex",
+   "title": "SpaceX Options Spot-On: On November 25th, 1.77 Million Contracts Were Traded, With 5.65 Million Open Interest",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdDNBQW5oX29hWXJNSzBPSV85dFZzMGxVbW5HQUdJOUMwNU4xTVVZLXNQUDZpdmVIaHpDa1ZEVFN1dWlQVGtJcXd4aXJLXzBrWEtkTTRtSUlSZXRKUktpX3Y3V2dIN3k2MGhOdHZscFJmejZ3SzFrQV83WnVmSXpBVENSdUdsU05ueUNNOFJINXQ2TzcwTzBZY203U2w?oc=5",
+   "source": "Moomoo",
+   "publishedAt": "2026-11-25T21:30:00Z",
+   "importance": "notable",
+   "id": "spacex-options-spot-on-on-november-25th-1-77-million-contrac-2026-11-25",
+   "addedAt": "2026-11-27T19:56:40Z"
+  },
+  {
    "company": "neuralink",
    "title": "Neuralink Says FDA Cleared Its First Pivotal Brain Implant Trial",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObXhBenQyQXg3NVo4RVFGdVdSSnhxSV83SnFSdWNZNENuV0M1UzVtUHJsaGJNc2xuRnBLZlVNcmpxTjF0MTFHam5qTzVFMEdTbXBnV3oxYUczYUNrcTZfVVZaU2ZONDZjcDZXb05rMGJtU1BEUnc1VmZKYmszZ01jSUthR0RfZ0NNN3lMUjlB?oc=5",
@@ -3070,6 +4100,16 @@
    "importance": "major",
    "id": "neuralink-secures-fda-approval-for-first-u-s-pivotal-brain-c-2026-11-25",
    "addedAt": "2026-11-26T01:36:10Z"
+  },
+  {
+   "company": "starlink",
+   "title": "The US has threatened the EU over restrictions on Starlink",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5kTWRJSDN0VmstQ2xIdEktelVPMzR5X0s4ZXZySU1lRnNOWmE4Z3Vya2hUY3pteHJxVGUtM29oUjlpUndSazhpV3p3ZlZVLW5sYXFSTw?oc=5",
+   "source": "Radar Armenia",
+   "publishedAt": "2026-11-25T21:20:14Z",
+   "importance": "notable",
+   "id": "the-us-has-threatened-the-eu-over-restrictions-on-starlink-2026-11-25",
+   "addedAt": "2026-11-27T19:56:40Z"
   },
   {
    "company": "tesla",
@@ -3220,6 +4260,16 @@
    "importance": "major",
    "id": "spcx-stock-and-the-tesla-merger-3-forces-that-depend-on-unse-2026-11-25",
    "addedAt": "2026-11-26T01:36:10Z"
+  },
+  {
+   "company": "musk",
+   "title": "Elon Musk \"bought\" the UK and appeared in the image of Austin Powers",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HM2RZOWZfTFZJaE1BZFctOFhBdlh6UmJKSGxJeU5DM0xMMFoyS2FrZXpQNGpGUUdWMnBpVi1vcnVGcktKRVNubFZmWU5OOHI1ZE1lZUp5S3VCbWhXakZJ?oc=5",
+   "source": "Radar Armenia",
+   "publishedAt": "2026-11-25T19:59:12Z",
+   "importance": "notable",
+   "id": "elon-musk-bought-the-uk-and-appeared-in-the-image-of-austin-2026-11-25",
+   "addedAt": "2026-11-27T19:56:40Z"
   },
   {
    "company": "tesla",
@@ -3950,1056 +5000,6 @@
    "importance": "notable",
    "id": "model-y-will-get-starlink-for-robotaxi-service-2026-11-25",
    "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "tesla",
-   "title": "Why Tesla shares are down over 5% on Wednesday?",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOFp6Q0pLTmtHMW9PaGNGYUlpSnN4Tmx3SUtEcXRxUFFkMjg0dlM0R24zQlI2T0w1NTVnNkwwWlNyRDgwdlpBd1hOTUljR25QSWFtWWk4UFBkNThJd1pIQ3hwMmwxZGswbXl2dE5aM25rVW1wVERGc3ZFUXNPbThRcGtpd2JndGpHZEFNbFBiTFAwMTNPM2k5WE90SndtbDhPZ0Npc2Vndk85a0xzS0dDR1RiX3RhMXdfWGJUdmFB?oc=5",
-   "source": "TradingView",
-   "publishedAt": "2026-11-25T15:25:40Z",
-   "importance": "notable",
-   "id": "why-tesla-shares-are-down-over-5-on-wednesday-2026-11-25",
-   "addedAt": "2026-11-27T11:11:48Z"
-  },
-  {
-   "company": "musk",
-   "title": "Elon Musk says 'impressive work by Google', as CEO Sundar Pichai shares Neon's new Day record and thanks",
-   "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPTDg2cnhlSUN1R1hKaHlEWjBvdTNFMUZxTHU2MjhtTmRQdG1KSGU0OU5HekRDZUJHUXQxWHBBcVlmLXpmUWhLd3VEZ0VoRWRZX2R0N0RVeUlfY2xqMmxwRm16cDFLV05feHZ5MjJ4WnlJcmtEaTZ4RlZpa3RDYXFpenk3emtXeWRBeVZ0YkhWNFVkWGs5VkxkQ2RqVHNuLXlIOXdLR1JnLVd6MEh5cTVTbmlPV0k1RFl6UEptanVPYkFVRFJldVpEMGFVQThOVnN5UDRXUlppUkoyVzAtSmRmR1Vfa3ZJUUNvQVBYblB2TTlsYnNISTJiX052RUdESkxWemJCdkRaU3h2bnBLS25MM2lhd2xITS1VMFJUNjFSVWFybUHSAagCQVVfeXFMT3VMVlpSVVZIc3h1eUZhdVdCZk1ta3JZb0NDQUJ0UW43REQ5MmdzYl9RdGxOUkctLUhISGRKY0J5bGl6WTRKZS1rek1qTVVPTzBpRGk4cEQtLVNzMDh5MDdhWWJ3R01ZTDlyeFNadkstZ2MycWlrR29tdUJGV0xncEM0OUd1OTVhcGFCT0ZRdXVxUlVCMHhTV2tvSnJsVFZsWjAzaThsTkFmUzRtWDhxYlhhMFJFeUZZY0Fhd3M3QzB4VE10N0RfalNSZ2JBellTS1NPRTBZbFlLY3VoZXZTT2xWdTNXa1Bhd3lXR1IzUVBNNVo5X3I1VU5aT1ZrQm5WZGt1c2FiUWEzVVlTRjlFVHpkWUx4WW5pbk9kU1RwN0hzMmdVaERfdzc?oc=5",
-   "source": "The Times of India",
-   "publishedAt": "2026-11-25T15:23:00Z",
-   "importance": "major",
-   "id": "elon-musk-says-impressive-work-by-google-as-ceo-sundar-picha-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "spacex",
-   "title": "SpaceX stock falls toward record lows as Anthropic selloff forces an AI revaluation",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYnNFT1N5T0gtYnZXR3l2dXRjbklPOGFFYWd2elNtRzlEODc2V1c3ZElRYUFtVmQwWFNlNmZERm1FS0ZqNEJsZUZfUGtmeEFsNmVHeVVGaGxlYy1pajVpMUNoS1FXMWU5WjM4NUFUaDViczlkQ0E5UGczU2x2LUNmNkRId24tZ1dFRTVEY0J5bTAwdG44RUV3OFRMWVktZmVYSGJnY3dTT1VKRFU0ZlVSNkFIWnhsYkpFeENwYUJhbw?oc=5",
-   "source": "Invezz",
-   "publishedAt": "2026-11-25T15:22:01Z",
-   "importance": "minor",
-   "id": "spacex-stock-falls-toward-record-lows-as-anthropic-selloff-f-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "spacex",
-   "title": "SpaceX Shares Drop Wednesday: What's Going On?",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQXF4ZWVwQzZSVG0xTmtaRG1MOE42RWYyOHZoV01zOGN0Vm5UT25XblNTQ0RNTEd6MUw0cHNQblVIZGthWVZVWUFxRnBSZHVzX0lfV2JlYkVpWWtrR0pYYTlDUXRNQkczMllJTU10dVh3bXlRclY1OWd6aVB3RUpaQ0RKZWROMmdzdUNDRzl1dW0tQk5qRHdFZ19QUmxwS2lpYzFqT1lyYw?oc=5",
-   "source": "Benzinga",
-   "publishedAt": "2026-11-25T15:17:31Z",
-   "importance": "notable",
-   "id": "spacex-shares-drop-wednesday-what-s-going-on-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "ai",
-   "title": "Democrat Who Fantasized About Republican’s Kids Dying Now Sues Elon Musk’s Company Alleging Child Abuse",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaW43M1VOa09EeGFpeWExMFQtaGVRcGRfanhvZ3VFWE5VcHZWQUJoQzVPdFZNc0xNbVpFWU9UUjRBdVZLODB6MkpkVVVoSW03OG4zWGFkZVE4R3BQVXRqMDZvMUUxWjdfejYyTDNoazJxZVBZcVFNUFpwQkgtc3dTRjI0ZFhqb1ZQZVdoMFRCa1JxbjBCS0xvZS16cG1QU2ZHOE5BWnZUMjh2N2U0SWc?oc=5",
-   "source": "The Daily Caller",
-   "publishedAt": "2026-11-25T15:15:00Z",
-   "importance": "major",
-   "id": "democrat-who-fantasized-about-republican-s-kids-dying-now-su-2026-11-25",
-   "addedAt": "2026-11-27T11:11:48Z"
-  },
-  {
-   "company": "musk",
-   "title": "X Wins UK Court Judgment in £207,000 Crypto Payout Fraud Case",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZ2VrMkI5b3NUQVo4SVFQd2NtOVNRNlpnUWV2ZXctRERjdEgtbmtYaGJqa3dGV1lMbnJNRUhmRVlVeU1QN181NXJGTmZSdnQtbHRoRmF0S0ZsSTl4c0FUTTdjTjc5VlJ6R0pBMnNlR0NTbzJoWjFiMXRudF9WTDI4WWF3QVgxTnhaME1PbUtB?oc=5",
-   "source": "FinanceFeeds",
-   "publishedAt": "2026-11-25T15:07:25Z",
-   "importance": "notable",
-   "id": "x-wins-uk-court-judgment-in-207-000-crypto-payout-fraud-case-2026-11-25",
-   "addedAt": "2026-11-27T02:21:23Z"
-  },
-  {
-   "company": "tesla",
-   "title": "Tesla FSD for senior drivers still requires supervision",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORHJUOWV0eFZndDh5bThSSk9BT1BVZGZ4YzhVcEF4UHhnSzdvOGI1SHJXVWZacUZiTHVIaDdvUjEwcUVjVHJtdVVyNXRLNkVtVlJMUXdpMExGOE5Dd091STZjbUFBQ2g3VnpkcHVkXzJoN0NxamR2Tnh4Rkd5Zzc4d1ZnTDNCdXFf?oc=5",
-   "source": "NeoTeo",
-   "publishedAt": "2026-11-25T15:07:18Z",
-   "importance": "notable",
-   "id": "tesla-fsd-for-senior-drivers-still-requires-supervision-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "starlink",
-   "title": "Starlink Mini Price slashed to $149 in Canada, $99 in the U.S.",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBVWWIxU05rWEVSZVpydE1uU21PRmFnT2M4MEJ4WVA5ZThKUnE0VVBtckd3U1lHcFhjeTEwRHZvdTBUN1V2Z0EzcFpONmdGUDBwakxuajdreEx3eC1fb1A4dDdpMXp0MmJxYUdVUHo2MUxEdw?oc=5",
-   "source": "Drive Tesla Canada",
-   "publishedAt": "2026-11-25T14:53:00Z",
-   "importance": "notable",
-   "id": "starlink-mini-price-slashed-to-149-in-canada-99-in-the-u-s-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "tesla",
-   "title": "Tesla Plans Steering-Wheel-Free Model Y for Larger Robotaxi Groups",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQM2lRRmRCbXN5THBwVlFaSHdVMWRSYTEyRnZRLU1zUEJQaThyQnhrSURpVjc1OFJNN1dqcWxRcGJfX2lHMkpuSzZTY3A5RkpYY3hjNWVnUjRld2ZpQnhqY0lKN1BjMWpZazBHeUQyS1cwOEh2YnVPck5USExtWFItRGlrY0dmOTYwc1VobXBISlRDMFBtQ0w4d2sxX2Qxbm1Ma3FJeFB30gGrAUFVX3lxTE4yNjZwOXhzaVZZZWlCRWctZ0Z1c2steC1qVlRtMHRFQ2tmaDY4OWVPeWhSdzhIa1o2YWRhYVJYZHdkZ2N6eTBpTTd2dFdrM2ExOW1Cbm9JWmIzUW41ZDhWSkc5blYtZDFZbWZoa3ZBbFN6al9scmRHZHNRcDY1QzlNS2k0Ui1qajczTExobVM0dXZrLVJWbDg3RGN0TnVBWmdJbHRycHd3RWRtTQ?oc=5",
-   "source": "Motor Illustrated",
-   "publishedAt": "2026-11-25T14:49:31Z",
-   "importance": "notable",
-   "id": "tesla-plans-steering-wheel-free-model-y-for-larger-robotaxi-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "starlink",
-   "title": "FBA Urges NTIA to Reopen Starlink BEAD Locations to Competition",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUlFYeXB4R2pzbEtlVzFUREZaZzZCbklwTnY1VEhBaHRlWlV4S0FXMjdaTGlDd3hqVXFtRXNucGVnVnVpbDdFY2k4cUs4WGlpTERIRF9EZDB1bDNYQnB3aUdPNXJGQ3lPLXlFZW5sSzlKT0Z6bUhpYkxKNUdDelBuZFR6SWxJcDRoVllpUmVzUk9yU3ozWFo0WjFGdw?oc=5",
-   "source": "Broadband Breakfast",
-   "publishedAt": "2026-11-25T14:48:33Z",
-   "importance": "notable",
-   "id": "fba-urges-ntia-to-reopen-starlink-bead-locations-to-competit-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "tesla",
-   "title": "Many $Tesla(TSLA.US) and $SpaceX(SPCX.US) investors simply…",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE94QTFUbzhGdmpUb0JONjBUYVpJMzB2VVVYX0lzTVNUTm5hRFo3V1ZXVEx6TmhSd2pyV0xqZ3NLV1g3TklpQkZudXJXaGhxVWEtbGNRRUtLeGY?oc=5",
-   "source": "Longbridge",
-   "publishedAt": "2026-11-25T14:26:09Z",
-   "importance": "notable",
-   "id": "many-tesla-tsla-us-and-spacex-spcx-us-investors-simply-2026-11-25",
-   "addedAt": "2026-11-27T11:11:48Z"
-  },
-  {
-   "company": "tesla",
-   "title": "Check out this Tesla Cybercab spotted on Loop 101 in metro Phoenix",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYzh5MzdIT0JKZExwZ3I3eDRnQm91VVR0OThlZHZiNHRNTFFvQ2NVTlNoMndTNjlBUUdQR0lPa0RzNjVLRXZWd1pVYVFnZWREMkROWG12Y0FlTUhfZUwtMk9oQmg3YU14LXVHTzQ1YzhqaEd6TEpPdzVweGhSQ1dBUDN6eWZJdmU0YXZvaWpibE56WGNEbTd4dWVHaVBHR0NXRk1xdjI4Mmpsc00?oc=5",
-   "source": "azcentral.com and The Arizona Republic",
-   "publishedAt": "2026-11-25T14:22:49Z",
-   "importance": "notable",
-   "id": "check-out-this-tesla-cybercab-spotted-on-loop-101-in-metro-p-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "starlink",
-   "title": "Armenia explores wider use of Starlink services",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQkdWQ0pnRjBuZnhfc29LYU53QmhXUnM0NEtzQ0lNUDNpR0RfUnR3RFZFM0FRejZnSHhhTk5VcWE0UTZkZlh4Q09rV2ZBV3puZnM5UGJiQkhNb3JPbF80LVE4SEg4UWd5dVBmZWg4RHFrVnJsSG41a2FzOUVyOHhoMQ?oc=5",
-   "source": "Report.az",
-   "publishedAt": "2026-11-25T14:19:32Z",
-   "importance": "notable",
-   "id": "armenia-explores-wider-use-of-starlink-services-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "ai",
-   "title": "How Grok AI Allegedly Generated a Disturbing Image Every 41 Seconds as US States Take On Elon Musk",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQN1NFWWRWLTNWbmZ4REh1bmVQOGp4YkpJZkdNdmtUUHpPMmJ0U2VLZmw5TVZySElSSmZtejlZV2Zkb3Jia24xMHBQQ2c1WkNvUkI1OVJhNzNhSEd5ekdpakRFZzE4dEtTUXdTMUJwbTQtN2w3RDFYTVUxZHRISktoSTNvUUtzeWFqS3c?oc=5",
-   "source": "www.techtimes.co.uk",
-   "publishedAt": "2026-11-25T14:17:28Z",
-   "importance": "notable",
-   "id": "how-grok-ai-allegedly-generated-a-disturbing-image-every-41-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "tesla",
-   "title": "SpaceX Slides 5% as Gary Black Warns a Tesla Bid Could Push It Below $100; Rocket Lab and AST SpaceMobile Drop 4%",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdi1sdzZObGVjTWZZM3ZQLXI3SlpzYXQ5RldTYnVJb1JwSXk2bG40N1hyNG55YlA1bV8xNm5RRl9wUkt4T0U2b3Bidldua3lxaFJwZ09lb2lqTkpnWnRVNUxvRmNaVEYxWktNeDZmRlNDQ2FJSHdnZmtKRkNFcHpFUTIyV3JGWm5GbzVLQUJFbk1weUFraHhiblBJYVE1M05qQVBrSFllLTN4cmljeUtoQWtNVTY5S0pzRHoyUzZvamYyYVEydVFOcEN2cExkQlFMdWc1MTdlNFRFTGd5bTIwMFRoc2RxQmI2?oc=5",
-   "source": "24/7 Wall St.",
-   "publishedAt": "2026-11-25T14:17:00Z",
-   "importance": "notable",
-   "id": "spacex-slides-5-as-gary-black-warns-a-tesla-bid-could-push-i-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "tesla",
-   "title": "Tesla FSD EU-Wide Approval Meeting Postponed Until December 15",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNjJkajBqSzJxWU9JUmhnX3p6YzZER2tJS1lwWkVrZGhKRUw2Qnhtbng0M3dRQjZZX1pVUU5KcWk2SzBVRVdsQ0QxVzZOLUtuazdwUTNpTDJqSVU4ZmxaeVpqejZISnp0dTNOSVdGalJMSHptTU14VDRaRm1QS1hNYg?oc=5",
-   "source": "Drive Tesla Canada",
-   "publishedAt": "2026-11-25T14:16:00Z",
-   "importance": "major",
-   "id": "tesla-fsd-eu-wide-approval-meeting-postponed-until-december-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "tesla",
-   "title": "Tesla Shanghai plant nears 5m vehicle milestone, highlighting China's manufacturing strength",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9FRnphQnVfR3NITzlKZFZKRk03RjlKRFl2ZU1wUHdISWNYNzZaenNtam1EQ0lWa2NlZWZJTFNicXdzdl83eEhUV1VndF9TeU80dGhkTFJ4VG9zcFk1aXMzM0hB?oc=5",
-   "source": "Global Times",
-   "publishedAt": "2026-11-25T13:56:00Z",
-   "importance": "notable",
-   "id": "tesla-shanghai-plant-nears-5m-vehicle-milestone-highlighting-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "tesla",
-   "title": "EU postpones discussion to approve Tesla's self-driving tech",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPY2Y4eUpOVTVYVmhONGo0aGJyUF8yYXlZb3hCR3E4UGxUMk4xT08yTjlRSThYaEROejVsaVRhdjlFOEZpNmNYbVhUa1puUGxRLVIyT2NkejFuWjF5emVLeVY3V0EtQV9lVTRXZ3MzOEE4WndGdDBfcXhmcGwtRlI2bEUzR2pPNnBkUnJMTjNwMXFsYTRJNGRPWXU1LVJLSjc5ZDR6M3RlNFJwZVBzaGc0RnVha2FCREVZMTdtMEpMRQ?oc=5",
-   "source": "Reuters",
-   "publishedAt": "2026-11-25T13:32:28Z",
-   "importance": "notable",
-   "id": "eu-postpones-discussion-to-approve-tesla-s-self-driving-tech-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "starlink",
-   "title": "Armenian high-tech industry minister, SpaceX and Starlink delegation discuss cooperation",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DbmZSVFdzRlREY0lEOE42ZVhZNndCY3JIdzg3VDhlbEw0N3l4elZvYUI4YW9Nc0FHZHFwN0ctSDlpdk9OaDRaYmEwSkRSOWYtQUHSAVdBVV95cUxPSU12ckhyZ1gzb2JyVkQxR1pIUGdNOFJiZF96SUhHNkhiRHlJd19GUk1tVUswd1Nzb1B6V25NVUxpTHdGUExOcVlzZWlXandUa1RldlVjaTQ?oc=5",
-   "source": "Armenpress",
-   "publishedAt": "2026-11-25T13:22:00Z",
-   "importance": "notable",
-   "id": "armenian-high-tech-industry-minister-spacex-and-starlink-del-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "starlink",
-   "title": "SpaceX turned down $738 million in subsidies; with a single remark, Musk drew attention to Starlink",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcEdrT3FIUTNXWF84VXpwdlJhVEFoeFNoOGlfQ05uSUw0ZDNna1JWREhpTzBTbWh6NklkZ0xSb3NPcDVuLU9TeGVWd21hbjB0ZW1fLXVwWTVCOENRakpidy12NE9tZXdfdXE4TXVVZmw0RmlhTGVzYlNpalMzOGt3VzF5dVNaWnV1dWM0aEpOU3A4X19DNWh2OXNWMkNvcXRZLXg2a3doLS1DMU1wcEVueWdmdURKQkNmRnlkTGh1UVFlMEtkbFE?oc=5",
-   "source": "logos-pres.md",
-   "publishedAt": "2026-11-25T13:19:46Z",
-   "importance": "notable",
-   "id": "spacex-turned-down-738-million-in-subsidies-with-a-single-re-2026-11-25",
-   "addedAt": "2026-11-26T01:36:10Z"
-  },
-  {
-   "company": "tesla",
-   "title": "How Cybercab Sales and Merger Committees Framed Tesla (NASDAQ:TSLA)'s Quiet Day on the Nasdaq-100",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNR2VYbHNlSEpidE43OTJKVWVRYnY0OHFmcjRxZkE3THpDVWRfRUN4U09pYnpYMzZFam9KZG5XNWpTSFFtWGtpUWpoZW9LSjlUWFZYMkhzdHhhLXU1MTItQjVBNVRvbllGU292MWllazNBdHFlamZZeG1ENmVEdjhuSHFlUnR3bnV1VlpDMDl1QWdWNW5Ya0cyWDJ5T2tkWUpyVkhUWkw2NnEwOURDcG1Xczh3Ni01STBZbmlsQzltQWVWRWtkMFE?oc=5",
-   "source": "kalkine.com",
-   "publishedAt": "2026-11-25T13:08:00Z",
-   "importance": "major",
-   "id": "how-cybercab-sales-and-merger-committees-framed-tesla-nasdaq-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "starlink",
-   "title": "Eric’s antennae service, for everything from television wall mounts to Starlink",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRTBYTmVtYjYzVTZRRnlXenBacWJyUzZNXzV5S3VfZG1sMmV1ODBvWnkwYWJHazlkZmRBYUxVYW5GV2hXSGNWWHlSRWtSYkx6ZGl6aXZQODI5bG9seEg5Zll4TGhJVWZSSnVJWHpJV0xaLVJ4SEt6N0lvYl9Ud0NmaXV5anRxYUoxcUYtTk5Ja05rbk1IQ1pqWlhVdm16c0RiMW90Q0xXU09iLURnQ2JFWGVySnZGaVZZaEJ4dFM5REd6Ul9ld2w3eWE1YkppcDZibFo2SGx6b2RNcDVSNUVj?oc=5",
-   "source": "Dubbo Photo News",
-   "publishedAt": "2026-11-25T13:04:48Z",
-   "importance": "notable",
-   "id": "eric-s-antennae-service-for-everything-from-television-wall-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "spacex",
-   "title": "SpaceX stock: Jefferies starts coverage with 210 USD target",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbFUwckVuQUtlWkxKVVhrdUtjLS1qV3p5dk1hQzNjU3o1VTYtMU9xbC0yRDIxbExFSml5Y1otdFQ3OHM2dDJtbEtITC1zdkNSOHNsalRpdTBiTzV5QXlJX0NqT1pJdjRWVnNoU2V3aERoVHZYdVI2a2J5aUh5TXBQTU9vdXJSUzZuTFFzb3B4QnI0aUh6Q2J0ZzY0TVB5RW5wU1VSdDdFSUFPRVZGWGZQMzJSTHhGbVFWS0RWN0l3?oc=5",
-   "source": "ad-hoc-news.de",
-   "publishedAt": "2026-11-25T13:00:50Z",
-   "importance": "notable",
-   "id": "spacex-stock-jefferies-starts-coverage-with-210-usd-target-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "musk",
-   "title": "Elon Musk Sends Warning to Bitcoin Creators After $271,000 Fraud Case",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lVjRZdG9rN2pSSHF4cExVR2VRblhEaExrZ2RldDdpX2xLVW9ENjJKb2I5RW1lc2I0dFJsSDUxZjkxNndGY0hKWUZQUG1BVnk3ZmVtc2lYRjNqUzE5czFISUdMZTFmWVRjOEE?oc=5",
-   "source": "BeInCrypto",
-   "publishedAt": "2026-11-25T13:00:00Z",
-   "importance": "notable",
-   "id": "elon-musk-sends-warning-to-bitcoin-creators-after-271-000-fr-2026-11-25",
-   "addedAt": "2026-11-26T01:36:10Z"
-  },
-  {
-   "company": "tesla",
-   "title": "Sian Conway-Wood: Polestar should become the thinking person’s Tesla",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNzEwVWcxZmxxR1M1QUpGNldlVDBMY1U1ellnUDNVWUdBSmxqYXZScHBrM01LR1Q3ZGZScHdkQTcxRVJIbkxQLXhtOGVLaHRQTzN0RVJ5Qmgwa0NEUFRUS2E2U3hWdkxqQnJza2FTZV9QRjVLbVllei05Y1JZejVTYWt5NTBnT1V1YXc?oc=5",
-   "source": "The Drum",
-   "publishedAt": "2026-11-25T12:57:58Z",
-   "importance": "notable",
-   "id": "sian-conway-wood-polestar-should-become-the-thinking-person-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "musk",
-   "title": "Meeting between Nvidia chief and Musk makes headlines – PHOTO",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTkN0TGUxZ0hTRXdOa0hqRjVYMmRRdU1kbWE4eHpwcXR3d3JWVkFmT1FiZUthQmpsS3ZFd2EyclJnOC1fdEs0ZmMzeFJjU1Jhbk1PZnREYXAtT05ZUTItc29kT0FXRDFidEZIM2ZMaUo1MlJUU2lhNE94MDRpLTRSSm1aTnpPLUQ0UDY3QUNhRjZ2T28y?oc=5",
-   "source": "TodayPress.tv",
-   "publishedAt": "2026-11-25T12:57:47Z",
-   "importance": "notable",
-   "id": "meeting-between-nvidia-chief-and-musk-makes-headlines-photo-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "ai",
-   "title": "Musk: Grok 4.9 ‘Probably’ Astra-Class; Grok 4.7 Scores 35",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX3RIeGhGY1MyT3F3Y25WTVpYQnNqc2k0RHd3N29MNlA1eFI0VUlndVVOUzF6NUtpRllMWDd0b1BMQVdhek1KS0RiUUsxVU9QSVgtNGxFUW9jNV9UdDJ5TE15NGJ2UTFZa0xIT0ttRzBvVDQxYm5DbTVsb1ZNZUp5Nlo0eFdXMzNm?oc=5",
-   "source": "FourWeekMBA",
-   "publishedAt": "2026-11-25T12:53:22Z",
-   "importance": "notable",
-   "id": "musk-grok-4-9-probably-astra-class-grok-4-7-scores-35-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "starlink",
-   "title": "SpaceX is forgoing about $738 million in U.S. broadband grants to offer free Starlink hardware",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQLWRVemRFYzdzWEpKS1VScmh1NEl1SU80b1h3T3VjNFlEUlFPNG9XNzV6UUVIbXVkUXlPQmVfTTYtSnF2cmFWa0g0NEdJTkVxbk1pV3pzM1ItTlJiX05HQXBfUDFHbmNPeV85SEI1blNwc2l0LW42RVNrVFpVRU44QmJxalZ2MDg?oc=5",
-   "source": "Quartz",
-   "publishedAt": "2026-11-25T12:51:05Z",
-   "importance": "notable",
-   "id": "spacex-is-forgoing-about-738-million-in-u-s-broadband-grants-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "starlink",
-   "title": "Europe’s Ariane 64 Launches 36 Satellites for Starlink Rival",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOV0ZyU1lRYkhVYWNjNnM5VFZ0dTN0TmI5eF8tZV85SVNGeWE1RUtRci0xV0JKUUl6NzlJSzNPaXpPcl9ZNlZVX2dQTzI1b1JDU2RHRnVONE5jX2Y3T29ZSDR3YnJEc1hVaHBtWmM0SzVXdlMwbmpmTTNnVndkdVFkVm5JeGxBSkFhczNxUFZQQ21PQ184OXhJ?oc=5",
-   "source": "Мілітарний",
-   "publishedAt": "2026-11-25T12:47:13Z",
-   "importance": "notable",
-   "id": "europe-s-ariane-64-launches-36-satellites-for-starlink-rival-2026-11-25",
-   "addedAt": "2026-11-27T02:21:23Z"
-  },
-  {
-   "company": "starlink",
-   "title": "Starlink Says Its Mini 2 Gets You “Connected in 60 Seconds.” That Widens SpaceX’s Subscriber Pool",
-   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPbndpcVl4VG5wSWJrd25FNDNvSlNXMFZyd0lIODhIREVLN1Q0MndBak5YNXhBd1RVQXVsVDVwcUNMZzdsSm16QnR5dTFEdW5mZFRmYm1iXzlxRFZjb1FaV1RqU2FXRlh6UWUwSnZ3dDBQb21GRnNjdmJ3WXB2TVRXelpvQ3B5SFgzTU1OOGNCWWlXSmZHalNZQ2RYY2RIVHZVc1FZSDJVWEFHbHJVRDIyWEZ2Y19xME9WYWZOUE5SRUFESmZxdTRrVmhqbVBVckQzVVVIbWdSODlIRG5vb05uVGt4ZGV6UzROTERNeFpVV0Q5QQ?oc=5",
-   "source": "TIKR.com",
-   "publishedAt": "2026-11-25T12:34:31Z",
-   "importance": "notable",
-   "id": "starlink-says-its-mini-2-gets-you-connected-in-60-seconds-th-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "tesla",
-   "title": "Tesla FSD and older drivers: what the safety evidence says",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdGJZYnJPU0E4VkxmYnJILUJaRDJjUkZidUhJQjlRZjZVV3k5T09wSHBjeWJFNkx5dU1ndEdma0h6aFJXVmx2NUs5dHZycGNubmhVVTFGMXdmNFphcXdER0tORE01dXVOYWd5MVZMeExoRERSVnJ6Z0tHcHhwVFRIUmMyTi1IVGtOR0Nv?oc=5",
-   "source": "NeoTeo",
-   "publishedAt": "2026-11-25T12:32:43Z",
-   "importance": "notable",
-   "id": "tesla-fsd-and-older-drivers-what-the-safety-evidence-says-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "tesla",
-   "title": "Breakfast News: SpaceX and Tesla, Better Together?",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1VQUFwbWZ1SVdiN1RGNDIwTUdmSlpERGtUUVNnSTlpd2NzSngtblJrcTg0eDFvQ1loUEk1SHlaQnZIakZtd0xXaHZfZHFuSzFISHU4bVE1Rk01UFhLRUlHT2JDXzNkUTF4WjcxM3ByWlp4LWw2MHh6cFZsalo?oc=5",
-   "source": "The Motley Fool",
-   "publishedAt": "2026-11-25T12:30:02Z",
-   "importance": "notable",
-   "id": "breakfast-news-spacex-and-tesla-better-together-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "neuralink",
-   "title": "Musk Says Neuralink Will End Neck Pain",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMUdaVFBudmZBU0pvcmRzazgxVzdRNGI3Rl96ZVF2bjdVTG5LVURiZWItRjJWMnRweWg0RGp6OHJ1aWJnMnNZU1F4TE5Icko1bDRNZWtKTW9yTkJxX1p3dlBhS0ZiNkc1TTh2aEdxRzhnT2xQLTRISFc1N0E2a2lGeA?oc=5",
-   "source": "Wisevoter",
-   "publishedAt": "2026-11-25T12:23:04Z",
-   "importance": "notable",
-   "id": "musk-says-neuralink-will-end-neck-pain-2026-11-25",
-   "addedAt": "2026-11-27T11:11:48Z"
-  },
-  {
-   "company": "tesla",
-   "title": "Analysts’ Opinions Are Mixed on These Consumer Cyclical Stocks: Dauch Corporation (DCH), Tesla (TSLA) and Gap Inc (GAP)",
-   "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQbkFZMkVqbHpWaGFrbDd3VGJKaGNraTZwMzlNdGJodkZxQXZuTlZIVDhoejU1VFYtTmJFajBJY3JjeFlRbHBiVGJ4WEJLRU1pZGZic1BNdjh6YnNQWFJwUUZZTEVZRFpSUE5jRVhjWTJqTUNYbUZ2RThwM1g0LXhFVGxROHZJbGlGMUR4czFKa01SMDRDRnBnU0QwbmlqR0N3MFhEdFpqeHlWbHpTTUl4bTlpd3N2N1JrdlB3X1dfcXZiaHlpODRFa2lESXBkRE1DdnRqd2prc1ZMeXhfaFd0eExtXzBxa3hVNmg2TUotME1nMGMzX1Mwa3JWWl9rY3lGbW43NmM5eUxXZFZoUjUydElTYWVkeU9IWFFGd1dETjU?oc=5",
-   "source": "The Globe and Mail",
-   "publishedAt": "2026-11-25T12:21:58Z",
-   "importance": "notable",
-   "id": "analysts-opinions-are-mixed-on-these-consumer-cyclical-stock-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "tesla",
-   "title": "Tesla’s FSD Push In Europe Hits Another Snag As EU Reportedly Delays Approval Talks Yet Again – TSLA Stock Falls Premarket",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMm83QmR1ZkNpd2M0Z01YSjNrQWJfUGtDMlNkY196Vm81eWhCdDVXN2dzQ0hIcm0xRFQtRW5aeWo3dldraFl4bnU2bzRNNURFWDEzMXg3NEVhRVIxaDlEeUxuX1lhMEJvOGs3NlBtUTF6MWdJdFF6cXk5TlBEeHNtdzRBRThRRm50LVRnaVl4S3VvWjc3WlE?oc=5",
-   "source": "Yahoo Finance",
-   "publishedAt": "2026-11-25T12:14:32Z",
-   "importance": "minor",
-   "id": "tesla-s-fsd-push-in-europe-hits-another-snag-as-eu-reportedl-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "boring",
-   "title": "Boring Company tunnels cost single-digit millions per mile against $5B a mile for the New York subway, says president Steve Davis",
-   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQYmM4ME9lYldHOUs2d3RIbXFxZklRRHk3aU1YOE5DSHdxWF9RdFA2OURjeWRaMzc2VUVTRGV3c3pwRHYzZnpUWjVXS0NyT2QzajR5OER4QVRodmZsVVdTVmRfcHRBbGFOQmpXVldsOFB0Zi0weXRpV2pIUkFnNHdka1N0MFFpTjhaUmVmMXBuaXEtS2pONkFnbldhWjlMQkVsOVRlRm85Wm9jTmVIV01xek9xQnl2WkRQc2RNNGR2ZVJXS01RWTFzSUlWNGNQdlBJMld0U25sMlU2bWE2a3ppOUV2V3dMVHVYa3cwUmhZT3diTm8?oc=5",
-   "source": "Dealroom",
-   "publishedAt": "2026-11-25T12:11:55Z",
-   "importance": "notable",
-   "id": "boring-company-tunnels-cost-single-digit-millions-per-mile-a-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "tesla",
-   "title": "Tesla (TSLA) Could Be 36% Undervalued Following SpaceX Merger Talks",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWkVXNm00bXQ3MHFnNGFlLWZxcGpjV1JKTENfd0p0Y2dTd2ViWldnNnRBQy1keUQ4SjZ4UHlNc1QtVkhxS1hBOUVvNy1WQW5yaTg2UUpEckFHNzZOTWtYZ0VBaGdBLUVtS256YXlGZnRzUGgwRnlnUnZ2S1dzdVA0Q0h2eFE5UC1pTW1NRXF3bXcyZ3E5cEFSbTItRTc?oc=5",
-   "source": "Yahoo Finance",
-   "publishedAt": "2026-11-25T12:11:12Z",
-   "importance": "major",
-   "id": "tesla-tsla-could-be-36-undervalued-following-spacex-merger-t-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "ai",
-   "title": "Musk Reportedly Warned SpaceX Is Falling Behind in AI as Compute Rentals Expand in November 2026",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZVZ5bzVMZ0czYS0yOEZBeGtaQ0t6cE4tSE1DQVR2azZVSDlHLXZhUlptTDRTYkkwemwwRE55b25oNm1EYjI3VXdIekx0RXFGU3VEeUJRRW5VZjdrYmtKN3NYRWNUa0NudjgxTkFvRW5ydTVpeklNZ0NQb18wWktBVWhQYmRWZVNSQzVrak15c0hCSjhnQXVsTDQ5cUVMWW9UY1RQVmtYM0NSSkVUbWx1eHJiTDd6MUZHM3JEblJjWmEtQQ?oc=5",
-   "source": "KuCoin",
-   "publishedAt": "2026-11-25T12:11:00Z",
-   "importance": "notable",
-   "id": "musk-reportedly-warned-spacex-is-falling-behind-in-ai-as-com-2026-11-25",
-   "addedAt": "2026-11-27T11:11:48Z"
-  },
-  {
-   "company": "tesla",
-   "title": "Tesla Merger Could Fast-Track SpaceX Into S&P 500, JPMorgan Says",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQjU4bkt0WDFzYTg0RmF5RDJncFRuNERLSnlUTnZ5R2pFRXRYMG03Nnpra0VMTHBzVi1fVnc3MlVVN0dHSHloejdrcGFaTEJ2cDFidzZUcTVYWFhQSlZDNmlud1FiSXZfVm9rWXNwb0FBS3BCd0wtQjZPQTlvX09XeWc5VFBGdWtqcEVFYWtWYWUzcThwQmtHZUxwcGhlZGwxYjJkYXIxekc5bFBFME1PbTFSSkVnOVI0Z0VHekh6a2E?oc=5",
-   "source": "TradingView",
-   "publishedAt": "2026-11-25T12:06:11Z",
-   "importance": "major",
-   "id": "tesla-merger-could-fast-track-spacex-into-s-p-500-jpmorgan-s-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "tesla",
-   "title": "Phoenix residents keep spotting Cybercabs. Can they ride one?",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQei16YmpybHpVTUF0ci1TWm9rYUhqX0c0TTNuSUtkbHRYUkNIVS1aMjRFU0pPWUpVWXA2VGlsa25BRVpwNllGMXhLU3d0cTd4QzV0T1JORGFscEg3c0xuSkNiV3Exd19IU1hCZndaU1dNSW1TV3ZtOU1qU1RlU3RBeFBHd0xiRVZ4eTFoQjBsM0hWU0ZVTy1Ca0hrWQ?oc=5",
-   "source": "azcentral.com and The Arizona Republic",
-   "publishedAt": "2026-11-25T12:04:00Z",
-   "importance": "notable",
-   "id": "phoenix-residents-keep-spotting-cybercabs-can-they-ride-one-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "starlink",
-   "title": "Starlink en CyberCub de Tesla",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NX1JsZDZaR1FtNUFFbEJQZ2FMeGpoQXR6T2RFaFZrY19FQ0JodUJreDcyRlZCdVU5bHVJcGdCWGlad2FPRE54cXVIRU54dTBwMlhIQUZn?oc=5",
-   "source": "iProfesional",
-   "publishedAt": "2026-11-25T12:00:52Z",
-   "importance": "notable",
-   "id": "starlink-en-cybercub-de-tesla-2026-11-25",
-   "addedAt": "2026-11-27T02:21:23Z"
-  },
-  {
-   "company": "spacex",
-   "title": "Did You Know SpaceX's Falcon 1 Was the First Private Liquid-Fuel Rocket to Reach Orbit?",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcV9QUHFOaTg0N2hVWmllRjl2VWJ3SDFvS1NsQW0ycHhSdVRpYk10eHN3TUtRM3gyeTdrT01lbHhucmZpaGsyX0lwUmlyNG5KLXFrbDlXQ2dJT21zd2pPWjFXMTdBcXZvWjZ2Mkg0UDNGSWl3cFlmeEhwM19HUl80SkFMTzdnRUU4bXFYUmpjZ2Q0ZFRBNXJwZ3FrS2VmSDNX?oc=5",
-   "source": "UrduPoint",
-   "publishedAt": "2026-11-25T12:00:00Z",
-   "importance": "notable",
-   "id": "did-you-know-spacex-s-falcon-1-was-the-first-private-liquid-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "musk",
-   "title": "Trump Says He Protects ‘Brilliant’ CEOs Like Elon Musk and Jensen Huang",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWDhmMEpDUUJobVFFLXdyUjByRzZER0ZZWDEzUXdwS3hLblBzal9qRjVMbkc2SHZ2RUZkNERCNVFCYnU2cjk3RHVEMDU4X0ZzdUEyZS1sVFBOZWowaWF5WnBGUnBJbGdsaXFvUzc0MlM4ajlqV014OFdLdXYyMGdGNW5RZ2NKeHVNRWZOcW94dkdlRV9BU0hDR1FBcWxPN3IzTGRaMFFyMXVnZWl1c0plX3l2aC0?oc=5",
-   "source": "WSJ",
-   "publishedAt": "2026-11-25T11:58:00Z",
-   "importance": "notable",
-   "id": "trump-says-he-protects-brilliant-ceos-like-elon-musk-and-jen-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "terafab",
-   "title": "Cathie Wood Sold Nvidia Before the Snapback. Was It a Sell-Fly or a Broken Thesis?",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQanh3OFNTU2ZQbUhXZHFzTEhrMnJaNEd0c0VIMHRWVGRmbFZ2YUtyak93ZlFxUzNWLUNGYVFnQS1kSVBGOU1tV0xiTzczNWg0OFB2WFFDUWlyTVNvX1BULV80TE1nU0ptcUZsTERUb1dJUkVlR1Bram1jaVRrMjZsMTFPeVdSY211dUZubXRrcnBhVFMtYk13dElpTmhLTml4bEUtdlRfTW1QYUk?oc=5",
-   "source": "Vocal",
-   "publishedAt": "2026-11-25T11:45:13Z",
-   "importance": "notable",
-   "id": "cathie-wood-sold-nvidia-before-the-snapback-was-it-a-sell-fl-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "ai",
-   "title": "XAI Founders Unveil New AI Startup to Predict The Future",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTHZhcTBiZmFsTXlaZ0RIcV9zZUk5WEdhNXFFbG1Hb3hUblJVaW1PUmc0MTdqMHZxX1VfeVR0LXg2ZlBIYUFYVkNKcXp4WkxzcF82eVlOYU9pSjBQSGpzOC05NEo3V2Zadmw1VVhsNE9RNVNtaGNxRVBXaVFDZXA2cHRzcEVNS1J0cVRyd0dQckNyUDRxcDZmenlSeG5tckZXUF9mYmZ0VmNQblBDRTBLbEVtdjRGdkxxN0ZuLTQwekRiUdIBwgFBVV95cUxPTHZhcTBiZmFsTXlaZ0RIcV9zZUk5WEdhNXFFbG1Hb3hUblJVaW1PUmc0MTdqMHZxX1VfeVR0LXg2ZlBIYUFYVkNKcXp4WkxzcF82eVlOYU9pSjBQSGpzOC05NEo3V2Zadmw1VVhsNE9RNVNtaGNxRVBXaVFDZXA2cHRzcEVNS1J0cVRyd0dQckNyUDRxcDZmenlSeG5tckZXUF9mYmZ0VmNQblBDRTBLbEVtdjRGdkxxN0ZuLTQwekRiUQ?oc=5",
-   "source": "Deccan Chronicle",
-   "publishedAt": "2026-11-25T11:44:58Z",
-   "importance": "major",
-   "id": "xai-founders-unveil-new-ai-startup-to-predict-the-future-2026-11-25",
-   "addedAt": "2026-11-27T11:11:48Z"
-  },
-  {
-   "company": "starlink",
-   "title": "Starlink Walking Away from BEAD Money But Keeps Foot in the Door",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOc1NuMXdSLWVkZUVaaW56RlBhWmtzRi1fcGlKWjdtUk1aM2NEcjNvRTcxWWxmb3ZYMGFucFJwYXdQakZZblZrdVJDOVFxa2R6S2haaER2S1VydnBfbkJGTzJHNmU5LXNNZXdmaVNQYzF4Z2VwQ3ZKWmZOMHNubkhOWU9PZ28zcy1DektzWHEwb3BvNWZf?oc=5",
-   "source": "Inside Towers",
-   "publishedAt": "2026-11-25T11:38:54Z",
-   "importance": "notable",
-   "id": "starlink-walking-away-from-bead-money-but-keeps-foot-in-the-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "starlink",
-   "title": "Starlink is on 66,866 commercial ships, 97.6% of the low-orbit maritime market, four years after launching at sea",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUGFULW5sSkthZHViR3FCOTladFNuRWMzbDh1a1YzZzlyZ1l0VTN3THpSTFRZZnJDOFVlZy1wOFJpajd6Q1BSVDBUejBpR0F3ck53R1RBTWdobTJrTmlPNW9TX2xrNWZzNlgxVHFoMWpVYXVuN0g3enZZNTlOem5aRzZ5UC1CVFhoM2dqNEkwOU0ydjRvNWZpQ3RTa1pHRVEtblB2UHlsRlhTc3diaDF0RVYwdi11QzJsSGJxN3hIdXIyQUk5dW1zb0N3UUhXcC16RDhsRjc0Yk80MkpQ?oc=5",
-   "source": "Dealroom",
-   "publishedAt": "2026-11-25T11:17:37Z",
-   "importance": "notable",
-   "id": "starlink-is-on-66-866-commercial-ships-97-6-of-the-low-orbit-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "musk",
-   "title": "How Congress’s Permitting Bill Doubles as an AI Bailout",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOM1ZxVlBkbEN5R2l3QnVTdkFOTUdjc3NlS1drSVNHZzFMVVBhUFg1Nl8tVm4wSXcwM25wUEFrdXhJaDgzYTZ5N3h3UW9Cd1BadkpNRlVCMFBkenh2bVV4RElqM1MxV0RnTkgtN3d2Qy1Ca0toYVJzQ0xzQjU1Njk3MDNETQ?oc=5",
-   "source": "The Nation",
-   "publishedAt": "2026-11-25T11:13:55Z",
-   "importance": "notable",
-   "id": "how-congress-s-permitting-bill-doubles-as-an-ai-bailout-2026-11-25",
-   "addedAt": "2026-11-26T01:36:10Z"
-  },
-  {
-   "company": "starlink",
-   "title": "Musk: Starlink Has a “Good Chance” of Carrying “About Half of Global Traffic”",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeHllNVB4dy1CbER6Q1Z5WjJNcFhsOGJUM1lyek04Y000ZUN3SklrcGpGY1pqdThueFd5SEdUTnlIYThjZm9WX0lmbjhJcUJkUnlEdFlUdnRZWkVYcFlWcXdxTzkwUnpYcnJlNVRjZHBpeEw0cFdCWE5KaXVCMlNYR0p4UU01bzhrWkpLWVlCbHBobFYwMzZZVUVTUQ?oc=5",
-   "source": "Yahoo Finance",
-   "publishedAt": "2026-11-25T11:09:59Z",
-   "importance": "notable",
-   "id": "musk-starlink-has-a-good-chance-of-carrying-about-half-of-gl-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "starlink",
-   "title": "Musk confirms game-changing tech for Teslas",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVVFONWt1STU4RFF4V1o3NHh0aTV3RWg0NllkaDRBMk5lUnk3ejBCeXNTRzV2NUxueTFVYmM1MFBqdThJek4wYUhaT1RKUTBhbkkwX19IWmNvUWU2cERJcjlQOE5ERUlhd3JRUkxaNnAybnR2SFhNZUlhZ1hneVp0QnJ1SUVDN0J4?oc=5",
-   "source": "Namoi Valley Independent",
-   "publishedAt": "2026-11-25T11:07:36Z",
-   "importance": "notable",
-   "id": "musk-confirms-game-changing-tech-for-teslas-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "tesla",
-   "title": "Billionaire Elon Musk Gains $28 Billion for Every $100 Billion Tesla Shareholders Are Underpaid",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPS3pJcWV2WV9MdmZIdTZteGF2X3VRMXBDUjQ1alVlSlN4U21qcTg3bnZJUktWYUtOdEhZY0JUY1dNQjlCSUF6TTFNbmpVRmEtelNDWEpSbDhBTTZaTXZ6eEU5c3QtTDgwZlVzYlhZTmpGLTFLUms2NEpoRXd0c3NVb1NPMTN1YWE3Sk4ySTQxb0I5OHh2WnF6UERVM1BVclZ5WnlyU05zeTZrckR6cG9JOGFBMXFETHhvcE9MN1ZhdmZILWNr?oc=5",
-   "source": "CEOWORLD magazine",
-   "publishedAt": "2026-11-25T11:04:01Z",
-   "importance": "major",
-   "id": "billionaire-elon-musk-gains-28-billion-for-every-100-billion-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "starlink",
-   "title": "Starlink Colombia charges: what MinTIC is investigating",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVm5KSFJIbmdxeTNGUTlIVzM1RklsemFpUjVUU2tnNHFHTFZCdjJVVVl6bndLaUxueXVqWE1EWlB3T2NETWpSdTQ5aUk1X3cyLURUdmVaZy1mekN5UnNXeUl0bEVkT2pBT3k0dkFGU2p4ZUhZU0tLZFI5a3MxdHdMOE1DOA?oc=5",
-   "source": "NeoTeo",
-   "publishedAt": "2026-11-25T11:01:43Z",
-   "importance": "notable",
-   "id": "starlink-colombia-charges-what-mintic-is-investigating-2026-11-25",
-   "addedAt": "2026-11-26T01:36:10Z"
-  },
-  {
-   "company": "spacex",
-   "title": "Maxwell: 101 Things to Love about Central Florida (2026)",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNc3E4NmV6eGRiOXRfaTJEZzlLOHVZTXhvZlVFOUswQnozN1BmS01Vc0xucHJWRVNXYVZtVWxqckFuNGNIeEVQWDlBVUduOTZTTTBRM1lsbmZiZE0wV1EwV2lsVUEzY1ZNV2o4WHZEMW45X21OVWROZnlEOGlRR2RmZmNKMHNsVFM0bjZ0MzhBVTFSMW1vYm5kQVNTeUppQQ?oc=5",
-   "source": "Orlando Sentinel",
-   "publishedAt": "2026-11-25T11:01:02Z",
-   "importance": "notable",
-   "id": "maxwell-101-things-to-love-about-central-florida-2026-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "neuralink",
-   "title": "Musk Sets New Neuralink Goal: Ending Neck and Back Pain",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XRWFtZVpWell2ZlFnRnNXelN2TTZ5T3NvRXE4ZFNsaWExazJhWFRhTjlGQzZ2SkZVQWpfbjgwMDZ0YWR0MnczdnNPNUxNRE51T2pBV1lJRm9FMW9pamxsYXdqNkJnLXVpcXk3OGV2WGJkRE42ZlE?oc=5",
-   "source": "BigGo Finance",
-   "publishedAt": "2026-11-25T10:55:00Z",
-   "importance": "notable",
-   "id": "musk-sets-new-neuralink-goal-ending-neck-and-back-pain-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "spacex",
-   "title": "SpaceX stock has an Anthropic problem",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbGJreHhsRkM3Zjhrc3hvRmFBNWMtSm5ZTnZQc1l5RTlXRldpdC05SFlFaXVSdmRRcHh4bEM4Wm5SemhRa1VqVjMtNVV2OU1uNk8ycFVYVlk5UExnSm1HRVVxNE1ZT3pSZnk5WVY3N1N0RGx4SThucXl2Y3p2UjZvWWJQY0w1bXY5WGhGTTJUUGRFaEh2a29KYmhMd1hQWk5Ga2RvQkV0MWRWSGJGQWcxOXd5MDRwQQ?oc=5",
-   "source": "MSN",
-   "publishedAt": "2026-11-25T10:52:23Z",
-   "importance": "notable",
-   "id": "spacex-stock-has-an-anthropic-problem-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "tesla",
-   "title": "Tesla has built some incredible machines. And Optimus could top them ALL. The ambition? The BEST product ever made. Of ANY kind. One powerful AI, 3 different platforms. FSD, Robotaxi, and Optimus, all learning from a huge amount of real-world videos. N",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oRW84cmgzTDd5M2E2U1A1RVowZThyc0FnaExIc3c1clJNMi11bDY4RG45MEc3bUNQTDVDSVQ5a0Q5S1ExQXo4UkNJN1RJQjVRSXhaVTlleURBNGpUM3A5VDVSN0JITUloNkpQbA?oc=5",
-   "source": "X",
-   "publishedAt": "2026-11-25T10:40:00Z",
-   "importance": "notable",
-   "id": "tesla-has-built-some-incredible-machines-and-optimus-could-t-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "neuralink",
-   "title": "Elon Musk Wants Neuralink to Tackle Neck and Back Pain: 'One Day'",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMENkQm0tZWJxQnFZdGE1SmNfMmcxc1djMUNSX1k5RnpHcjZwZDZJTDJUeUVoX1ppSmsxY0VvUnV6R2lpZTJYdkZoRjBaY2ZhaHRaV3dwZDFmVkJIeVBiNEpJaTY4cGdzdFpMeFBnbHJjYm9jYXNoVEVwZ2JNZ0xTYVdMMHJ3MzlIZW5udUlvbWY2NC01Z3R1LU1uQkkzUTBGMGJzcVZhdWtTek4yV2RLYkVhUDJPdw?oc=5",
-   "source": "Benzinga",
-   "publishedAt": "2026-11-25T10:39:27Z",
-   "importance": "notable",
-   "id": "elon-musk-wants-neuralink-to-tackle-neck-and-back-pain-one-d-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "tesla",
-   "title": "Arlington Tesla Test Drive Suit Seeks $10.3M",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVHNENmQxWEd2c2NwQzdWc093ZHF4SVhFR05XM09DZ2NfSzlOQVFlYWliX1JXSGFvcHBRM0ttdzROOHBpcTJhM0RoSTNzZUxoX00xRDZMQzBneUM0TmFOejgzMk5FT29DRDNQSkpJQ0VNUm9NUHN4T3dnNERaNFhDZFBZeC1veVBLbDZtcEVrNEFWVXVlM0pMRVdB?oc=5",
-   "source": "shattered.io",
-   "publishedAt": "2026-11-25T10:36:28Z",
-   "importance": "notable",
-   "id": "arlington-tesla-test-drive-suit-seeks-10-3m-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "spacex",
-   "title": "Rogan: SpaceX Rockets Explode on Purpose? 2 Quotes",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVWtTXzh6SEdSZUNkb1NUdWd2bGNxaHRPYWZuN0pabzRGUjFxMVppYWV0REJtU1NUX3pYMmVzZ3g0RHRYYWNfVHpVNmMzYXozMG5rbDQyWjZST3EtVnRfU3NSOW1iNV9zc2l4bFYxX1drYzR2SGVaeDdlcTI3aUlpbVdST3kwVFZpTU51eUZCSDlfZ2pvTVpQZUtWeS1BYy1pSFE?oc=5",
-   "source": "shattered.io",
-   "publishedAt": "2026-11-25T10:31:51Z",
-   "importance": "major",
-   "id": "rogan-spacex-rockets-explode-on-purpose-2-quotes-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "tesla",
-   "title": "Elon Musk Says Grok Makes Tesla Road Trips More Fun",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbnIyR2c5Q2NvLXNzcWRtY0hSeTQzQllIS3B4SWJxdWFlY3RlWDd6TTRwaGJWelVJbmlxdDJROXNxUVFfOHRjekM5d1d4S2U4V1M5UWtsdlhybkRnd0VOR2VZc2d3T2lpMlhPdzNEaHpRVXl5UFlzbXZubUZqTENFaTB1ZnFLWldFbHFSY2JaRQ?oc=5",
-   "source": "BASENOR - Tesla Accessories",
-   "publishedAt": "2026-11-25T10:05:36Z",
-   "importance": "notable",
-   "id": "elon-musk-says-grok-makes-tesla-road-trips-more-fun-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "tesla",
-   "title": "Critics Slam Tesla's Gamification Of FSD As Driver Hits 25,000-Mile Streak",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE55QWFadW5ERDhEVGlMYWFaS0w2Um4xZ2RURHE2TGN3WDVwdldKSVJHZndxZWF0WVd5WUVBOWtqdF96VG5BeTJHUnhXcmhSbTN3Y0JRakF4X25kQWc5djRQMC1aSUd1dTNOT3N5ekRn?oc=5",
-   "source": "InsideEVs",
-   "publishedAt": "2026-11-25T10:02:45Z",
-   "importance": "notable",
-   "id": "critics-slam-tesla-s-gamification-of-fsd-as-driver-hits-25-0-2026-11-25",
-   "addedAt": "2026-11-26T10:03:12Z"
-  },
-  {
-   "company": "musk",
-   "title": "Sundar Pichai's Gemini 4 Neon sees massive demand, Elon Musk says impressive work",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMzlpZkZvYnMtOUVMdE1FdXlNYVUyYjdRUDAxQUFsWWRFaE5fSHFHd2hUTTlxMlAxcUdEUHFXVlppcXJfRDU2blJxY08xUlBkdmlSb001dF9mRnNZV1liVUo3Z0ZmQTAwQ1F2VHRYMkJJM1Jtc0RaY1BXZmZaX3VJUVR2YXNKRWVhTXdPMUU4V1E1cUNTblhpblJIVTdTVUtndF9IZWxQeEdvSzl2SDlhX204U1JjRmhCZ0NUNDQ4SmkwMUlPVlVPNHZBRThsUFYtSnBHbGkzekhBdHV3TUHSAeMBQVVfeXFMUHFoNGNLWGtWMDM5ZFZocHp4MHlKYm91V214UjBJOTg5b0h6bTBJSl9pT3Ywd2U1UEdkXzYySGRfeEljbGJuZG5pTkdfQkJKejZ4T0Z3MG0wdHBWUWl2dFlKOVN1RjdSTTlGYmFBNU9iWlNMTmtPM1dOVFRPWmpRUE5FVF9LMllXeWx6NTMyeFh2VUdBZjdENkVWNmpOdk9id1JReERvTVJXWWtpeFJQVGhLZnhPTE9hd0hrNktpM2dtbmwzZnVObTh2QTRjR0g3Zm5KbGFQYlZuX0dkMHFleXJ0TFE?oc=5",
-   "source": "India Today",
-   "publishedAt": "2026-11-25T10:01:08Z",
-   "importance": "notable",
-   "id": "sundar-pichai-s-gemini-4-neon-sees-massive-demand-elon-musk-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "tesla",
-   "title": "European Union Meeting to Approve Tesla's FSD Across Bloc Postponed",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSUloOGc5YnNqcldVWkZPZjZkQmhFYV81b1IwX2NpMF9ZUVU0U3BaTUlQbXhVSGVhUHUyME1YZTQxT2VjY01hQ0VBeU9PWE9PUXNPMUFJY29HMHBVOEpNNlJtRzFKVmhhVGRFR3JPUlZVTV9EYmY0OG9VTkwtYUtFWTBEbWhfclNaRG55NktRclVqNE52YnhRbnc0LUQxUnl6bXoxTmp3NDM2YlJhMDI4eXloengweG5PVUtMaQ?oc=5",
-   "source": "marketscreener.com",
-   "publishedAt": "2026-11-25T09:54:59Z",
-   "importance": "notable",
-   "id": "european-union-meeting-to-approve-tesla-s-fsd-across-bloc-po-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "tesla",
-   "title": "Tesla eyes AI5 chip as exclusive Optimus trait, not needed for self-driving",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRWZobnBFcDN4eC03UVE2cEhSZzlWTGxsNktvRnhHRzhrU2V5dGZSTlViUGlrY1pYWGNGdEJyZXR5WFhMWTkyeFNXUDFWSk5wYl9MOXR6azhkSzVHN2xqOVFxWllOZUtzMzcwZDhpOWF2a3NDaC1XUXZHZWFUaUhmV19iU1JncE5sMnVVbjNMZmcxVjZmNF9xNGJn?oc=5",
-   "source": "Teslarati",
-   "publishedAt": "2026-11-25T09:51:51Z",
-   "importance": "notable",
-   "id": "tesla-eyes-ai5-chip-as-exclusive-optimus-trait-not-needed-fo-2026-11-25",
-   "addedAt": "2026-11-27T02:21:23Z"
-  },
-  {
-   "company": "tesla",
-   "title": "Tesla Stock Premarket Today: TSLA Drops 2.5% As SpaceX Merger Details Emerge",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOai16QnBoU2I1VllVdHpJZEtYYTZ3aFJSNEtoOW05T3lLb3lpTVEwZ0VpRGdhZ1FoTHpBRmhMTmhKUzlwNHMyeGpZVTlwU2RxaGc5TlZNWTRSTXlmcmQwZV9RRm1xM1RIelgzbnRZMHliRVhyZFlJSEJaN1k0U0x4eEJucUxSU1Z6Mlh0c1VkNXA1NTFka20tVWVWWG9RUXJ6YmlOY1FELXNoYmdDcmlmTWRmdmPSAfABQVVfeXFMUGxTc01CX1lVLWxXbEpLaXVaS24ycjBSZmU3RGFwNDFaemg0eE5kRWlUWHc1Qk9xelQzOGN2bXZPQlBmaHJDWUt5TVc1bV9rT0hEdU9rNUZNY0s2T1VGVVk2aTh4QldzbE1CY201bDItVE1QdFl4RE1yTTBuaDY1VWZKbS1STmtmS3VwZXJTVGdmVGd6TFEtU1dnbm9sWnNyS3Y4WW9OaVlJQ2NyVEhyTm54amxzUE96amVHc05zYWhpSTFsekprYWtYTUY2TDlIOTZpcTVMWVBvYVRYOEhKbWN2YUx0aDhEV0tURXFCdHpQ?oc=5",
-   "source": "Coinpedia",
-   "publishedAt": "2026-11-25T09:45:29Z",
-   "importance": "major",
-   "id": "tesla-stock-premarket-today-tsla-drops-2-5-as-spacex-merger-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "starlink",
-   "title": "SpaceX gives up about $738 million in BEAD broadband grants but will still serve its Starlink locations, NTIA says",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQU1padmRDUGxrM1RDVFRBRVZaRHVjYTEta2Y0TXp5ZXAwZGVqVW91Rkh4RnpEREdFb3ZBNm1EbW9PMW5XU3N4VFRhUl9fb3NucU5ramM5WVdJcTNjVFl5anRSNFpPdFZGdk5iNVg4WmpHN2o4RFk2emVibmFObkFmVGJhMG93eVV5OXdlTXF5MXlrSlFLNVBwVXFwbHl0NmlkRUp0WFMxclVZQkdGbEstY0dJdU5OM1VRYnhieWpXUHdnTUVaVmVoRVM5MWlqZw?oc=5",
-   "source": "MLQ.ai",
-   "publishedAt": "2026-11-25T09:42:12Z",
-   "importance": "notable",
-   "id": "spacex-gives-up-about-738-million-in-bead-broadband-grants-b-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "starlink",
-   "title": "BTC Partners with Starlink to Expand Satellite Connectivity Across Botswana",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVHhxOWpfS1Rodmp6Ul9nVGRQN0F1TlBVWWJIc1YzS3AxLTY0dVZ4cElEZHZ0ODAzRXdjdXlMWVZMWmVBWmJjRUt1MlAySFZJX0RwdVRuZ0FhRVIwSDR3N092ZlVYeVo3R2xwZGYyN2o4aEtqNmNGWnoyRDNZT1A3aDR5S295bUE5WG1J?oc=5",
-   "source": "TechAfrica News",
-   "publishedAt": "2026-11-25T09:33:38Z",
-   "importance": "notable",
-   "id": "btc-partners-with-starlink-to-expand-satellite-connectivity-2026-11-25",
-   "addedAt": "2026-11-27T02:21:23Z"
-  },
-  {
-   "company": "ai",
-   "title": "US: Two states sue Elon Musk's company over its Grok AI tool.",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTk45TFljSnZ5UmNQWmZTNm9rdFo1OWZLRXo3WEVXMldUdm13OXRkS2p6c09FMmkxdjRsWVlsQU1RMVlrUDMzU2V1VFJRQmo4YTFYemRlaHhkZ3dKQUwzZXhxNnFKWjdNRDdxMU1uYk1EdmRiQUpHSjJTOEJMM2ZudVNEM05tR0JSbmhz?oc=5",
-   "source": "Vietnam.vn",
-   "publishedAt": "2026-11-25T09:32:23Z",
-   "importance": "notable",
-   "id": "us-two-states-sue-elon-musk-s-company-over-its-grok-ai-tool-2026-11-25",
-   "addedAt": "2026-11-26T10:03:12Z"
-  },
-  {
-   "company": "spacex",
-   "title": "SpaceX (SPCX) Stock Price Prediction: Rally tests support after strong earnings and fresh analyst upgrades",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUmtyVkY1c3NJSnRqUkdqeTdPT0VicHlFZ3BFNU4taFRLdjdCSW1ieHdoaHpZdHJnRlBQZlhDZGVZM3cxc1JXSnJVMmlHXzFpeUkzMkJySXkyVThkek5EN29td0xIZ2JIUFB0eDdSLThqSlRlM19iVTFUSWhkTFFLZjQtaDV3ZkgwNWpvRGJvTTFKbTdzdXFXRUV5M2VIemZGZjhv?oc=5",
-   "source": "Blockchain News",
-   "publishedAt": "2026-11-25T09:24:00Z",
-   "importance": "minor",
-   "id": "spacex-spcx-stock-price-prediction-rally-tests-support-after-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "tesla",
-   "title": "Tesla Begins FSD V15 Rollout With AI-generated Reality View",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZUhiUnFmTXRLaXRRb2M0SE05TWRpNkpoZUVhNF9XLWhVMml1ek5Bb2k2TEE0YjFvVHEyMjZHejNzS0V3SUZFcFh5LWVJb1pfb1lCVXdud016VzBJZmd6aDJJaDJ3TGI5bW1oMThFZkp5THBPYzY3VzVXR0k1dDZJVElIRDdJcEFNNlY2aDVndVBDSm1oVXVDS19R?oc=5",
-   "source": "Dataconomy",
-   "publishedAt": "2026-11-25T09:19:32Z",
-   "importance": "notable",
-   "id": "tesla-begins-fsd-v15-rollout-with-ai-generated-reality-view-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "musk",
-   "title": "TREZIE Heads for Another Planet on “Dear Elon Musk”",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuczVXT0VlYTFsU3NKZl9KYkJtOVBEWW9EdDFwTmxleGZ0X2FSUjdiNDd5c1RqbHVkQ285VG9QQjA4T2R4LTYyMW1rZU9oRE9UOXk3bk1taUp4Y24yVUE1NQ?oc=5",
-   "source": "24Hip-Hop",
-   "publishedAt": "2026-11-25T09:17:33Z",
-   "importance": "notable",
-   "id": "trezie-heads-for-another-planet-on-dear-elon-musk-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "musk",
-   "title": "Elon Musk meets NVIDIA CEO Jensen Huang, voices support",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU09YZDRWQkxINEp2X0I1TlZmOUFWZ1R3Rk5oZncyM1hhbkIxYkFmUHpzUFA5anJjSEJlSnFfQ0xSM19FMzctMy1DTndwV3E0SDZkaVIxYm1aS3U1MjBlV01uT0VHemJWRm5ZRTRpOS1LT01wZThsbjJMS3luTHR0LUtOOGc2QXRKbWtFZ0M5bWphbTlqSkliSk5raF8waTdTdVhocg?oc=5",
-   "source": "NewsBytes",
-   "publishedAt": "2026-11-25T09:13:38Z",
-   "importance": "notable",
-   "id": "elon-musk-meets-nvidia-ceo-jensen-huang-voices-support-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "starlink",
-   "title": "Vulcan Loss Sends Amazon Leo to Falcon 9",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOSkhlR21IMy1XcGNMNzFHdC02d1E3dzRQNkJvNjhXNlZRRm1obTNnN2EwRTlzRGJfMEFRcGRZZEkzSVlud2VFNDBHbUN0RjhOTzdPM01sLUh3TW9IemdmQ0k5OVlGSTA?oc=5",
-   "source": "KeepTrack",
-   "publishedAt": "2026-11-25T09:03:49Z",
-   "importance": "notable",
-   "id": "vulcan-loss-sends-amazon-leo-to-falcon-9-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "starlink",
-   "title": "STARLINK-2558 Falls 85 km in 89 Days, Now 150 km Below Its Working Shell",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxZkV1a3BBQllqWEp2cFFfZmJScUQwWm1RVnZ5Ti1JQ3ZfRm5NSDJUb0pNVUd2VG9PaEFSTDFoMDZGeXQzdDdzbG9OZ2YydFdYczNLQVpIWjZ4c29pOGtLNjdTcmQ0RUVaTlMzZA?oc=5",
-   "source": "KeepTrack",
-   "publishedAt": "2026-11-25T09:01:14Z",
-   "importance": "notable",
-   "id": "starlink-2558-falls-85-km-in-89-days-now-150-km-below-its-wo-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "tesla",
-   "title": "Tesla Faces Technical Crossroads as Analysts Diverge",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUkdBN3NHTmJQeVM5T0JRRzNCcjZMVmtPOHlpR1BxbzhZU1NTUGJGcVdfT0U0b1Bud09IdTlyV3h0cm8zZkNYUDBrS3EtMEtfRFNxYVZCU0pOVEdYYVBCaFNpYXNBSUdSWWJaT1BCQ1ZBZ2JBcUhEV0FjV1pMbVVLYXc5UFoybGp3NVZTUngtRldPc1JMLWZhcQ?oc=5",
-   "source": "TradingPedia",
-   "publishedAt": "2026-11-25T08:49:08Z",
-   "importance": "notable",
-   "id": "tesla-faces-technical-crossroads-as-analysts-diverge-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "tesla",
-   "title": "Ross Gerber Warns SpaceX Could ‘Dilute’ Shareholders With TSLA Stock Amid Merger Talks, Explains Why He A",
-   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQLTFrLUdOc21UNGlKUFlOTHktUUZhZUVVeDlSR1NEOW9FYnNuWldvc3pJcUJET0dWVnpUWFZxekFEbTV0UnhZbmxzYVVFTm9LZVpkWHlFSDI4UEFnS3ZXcnIyOU5EeHJ1czZVR2ZXUmkwM1BSMkhzVmZQcG0xQ0FseHhuQTR5TjBYQXFUQXAzQ1AtVUl2MnhKX1lOLUNBdDdtYkJydEpCWDVHRV9ybnNZeUcwVG0xeURZa05MNTZKZEFPYXN6ZHA0S1BHcWo1Qi15NTZYN2U1b1lQaVhBbHhwcFpKVlY1eElFWklLY0wyT3M0T1FncnBnVU0tMGVkWDZsa2p5TVNUUThQSnM?oc=5",
-   "source": "Benzinga",
-   "publishedAt": "2026-11-25T08:46:17Z",
-   "importance": "major",
-   "id": "ross-gerber-warns-spacex-could-dilute-shareholders-with-tsla-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "ai",
-   "title": "Musk admits SpaceX can't compete and rents its GPUs to Anthropic and Google",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeXJaRWw1QlEzRVItd0o2T2tpdVRGampxVDlrVnpSb1V6b2liREtreDRWVzRHaWZsY0VoVEdjeDJvUWtiTi1rZjdydkxwQ192NlNRSVczMGp1UWpja2w3NmVuZnRnVHhVM2dKNmJsM0xFSEM3RExKWldacDZsTkFRTjZNcDk5Zw?oc=5",
-   "source": "Pasquale Pillitteri",
-   "publishedAt": "2026-11-25T08:41:07Z",
-   "importance": "notable",
-   "id": "musk-admits-spacex-can-t-compete-and-rents-its-gpus-to-anthr-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "musk",
-   "title": "Breaking News | AI Powerhouses Unite! Elon Musk Meets Nvidia's Jensen Huang At Nvidia HQ",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQanFNWng1S0ZEd1djUVBiX19ibjB0WDVHWXF5Nk1mT19jQmNtdUlCbVVsRm1YOXZZTURRUmdtekY4VEt6MXNRMFJOMGtJZUltT1FFdGduWkVfZ2lhMThPeTYxQ0FEajlZczlaa2gzM0JkQmdDd2ZPMV9WQkZHWVFzV1Z0OVpoVkxSeEN4N1ViUXU5X3FUTjFoaDROOTlYaTR6WmJMTm8zbFNUaGJ2WTUxelpNbUV3UURKYUNDR0JTNWhlQktweXpPSNIBzgFBVV95cUxNbklseldVZDEyTFZ2VVdES3NDTTlOenJuQ3FSWmdkS3lnX3VVM0YwWU9HenJteVo4eFJ6RlI2dG9RYXNNUWszRHlSVWZGcElDcXdwTVYyd0xGVGpSNmZKTFFaMXhDbEdab1IwSzBGLThVa21aeF9INXhCQndKTXpTR2RlZUFQdmdYMEtfOUpBYjJjczJIdjNJMV9Yc1NwdVZEbDlBZ2Noa0ZBMmhaalhpSVdsRW1OcERLRjZ5V3diekZCUDdQNUNhZ1lVNzJhQQ?oc=5",
-   "source": "News18",
-   "publishedAt": "2026-11-25T08:39:00Z",
-   "importance": "notable",
-   "id": "breaking-news-ai-powerhouses-unite-elon-musk-meets-nvidia-s-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "tesla",
-   "title": "Tesla FSD V15: 25x Claim, 0 Baselines Published",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZkhNTVJLQ2lidjJaUFpXcE1hYV9KMEpKV3NXOFdBdjFkVjdfR2tOUkdJaHlsRDVuS1FKc3hQN2loeXkyQUVUVzhaa011NUw1V3pFbzM1dnZxSnVVa01FUlJTeV93OVF2UWlGTUg0RS0wRzNkc01jWjNuNTgxRHZGc003Vmx3Vm9OODRhUkdtaw?oc=5",
-   "source": "shattered.io",
-   "publishedAt": "2026-11-25T08:15:44Z",
-   "importance": "notable",
-   "id": "tesla-fsd-v15-25x-claim-0-baselines-published-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "ai",
-   "title": "Virginia Sues Elon Musk’s Companies Over Grok AI Sexualized Images of Children and Adults",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRjktUUN4dVFCc2NSNWxuejBQQ3J3WlhnRkdLZ1VlaklJSHRIaGJHQWRtcDhadndWbS02ckt1eHFIbDA4bnNyTzNMcXdpQXUwYWhjMUF6dXJUSVExVzhTd3hSQlpIekF2aVMxMkFoQUk5SzNOcXVIaDc4aTgtTlk1ejFvcG1rZy00dThTVS0wT0tlbE5BSXFIWllsRlVNZVZmeUw4Ym4zc2NsYU9IeVl6ZG0yTHdhR0NPZEs1YlV3?oc=5",
-   "source": "The Legacy Newspaper",
-   "publishedAt": "2026-11-25T08:13:22Z",
-   "importance": "major",
-   "id": "virginia-sues-elon-musk-s-companies-over-grok-ai-sexualized-2026-11-25",
-   "addedAt": "2026-11-26T10:03:12Z"
-  },
-  {
-   "company": "musk",
-   "title": "‘Impressive work by Google’: Elon Musk reacts to Sundar Pichai’s Gemini 4 Neon update | Trending",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTm1KMmk2cjZrUkJfN3duakJFMkhKYnhSdWYtR1pHSjUzcnFIQnJGcS0xSFVPWXh1Q1VMdkRmVmpxYjdyRWZDYjRDMFFiLXBaaWpVMHhncHlJelVHdmRFSzJubGVMYnNKUHlSTTlrZUJFVGpOR0FCMnE2ZjZrSUM4YVRIRnh1bGxZUDN3ZHMyT3ZNYW1HNlpNRFcxdG04SEtVTnVqN0w3eU1falc5OFA2dUU5TUJzSDNzeDQ5b1JOZFU1MWVsZDBtTUhxNXdLdnRxYUUxelFiLVdmYXPSAeABQVVfeXFMTTNSelgyV3JwVFd0MFJrMVVFSWFTZ2xqaW9JeVFNQk1EdHNIcU1vYjZFa1FMT0hTcmFmZzJhdXpCbERPMXNIUENJT09Xb2I2eHl4d2dtQXJlMmJNWlJWUlF3VE9BeTBLbEdrbEtmLUJEM01XaWNFSVhvVkVtVFhkNkRTUHhZRHpiNWRMTk5Jc0JCX1RXWTlSNzZvSEpzT1JtZ0hxajJ5TksxRzNiZXRfd1doMDdXR1ZtQW5JeGpOQUFKZnVBSmN4X0hvNHpsZW9TeXI4U3BxZFRVRGxnRzNSbzI?oc=5",
-   "source": "Hindustan Times",
-   "publishedAt": "2026-11-25T08:12:09Z",
-   "importance": "notable",
-   "id": "impressive-work-by-google-elon-musk-reacts-to-sundar-pichai-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "starlink",
-   "title": "SpaceX rejects $738M fed subsidy, betting on Starlink alone",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44Y09RUkFxODhvcWM3OWVmZmVMUlRFVnhSaDFBNTFfa1VPempkRkExdC1wQVVYa3RKNHdKelQ4emZzX05TNEtWb3RVOUFaYlNhYWdhZDNleVM5dGEyYUs3dEJ5dVBMdERTY1FJQk1qaw?oc=5",
-   "source": "Teslarati",
-   "publishedAt": "2026-11-25T08:09:36Z",
-   "importance": "notable",
-   "id": "spacex-rejects-738m-fed-subsidy-betting-on-starlink-alone-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "tesla",
-   "title": "SpaceX Could Fall Below $100 On A Tesla Bid, Gary Black Says — JPMorgan Sees The Same Deal As A Shortcut To The S&P 500",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTWtQNmZfV3BUbEwwdEh0VktOLVlBUkhjNkMtZHlVV0M1d1E3ZWphWkVMTFA5eGlvRUhNMkhOMWFHMlBETThsRUdNT2pneHhuLXl0YThyMWV6T080bHpmdFdHU2Q5R2E0SnVNZjZnb0w0LWFoNTc0d2R2ZlFjTmc4MWpSVDVBV1hZeVl4eDFLX0dNR2VtX3Vn?oc=5",
-   "source": "Yahoo Finance",
-   "publishedAt": "2026-11-25T08:07:08Z",
-   "importance": "notable",
-   "id": "spacex-could-fall-below-100-on-a-tesla-bid-gary-black-says-j-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "starlink",
-   "title": "Telecom news: StarHub, M1, PLDT, Elveo Mobile, Starlink, Kar-Tel",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTU4wLWd0YXdRUjBucm5sN1VvM1RPQm9tSUJZZmxhbFRmWXh4QXdieGQtZDZmWWNUdnB5VTVsSnU5SWxhNWpPc0NYaWx0QTBjc0IwNUpyQ1otcVVOMnQ5amxJTHQxLXRqYzJVLVBKam5yRFVNX19SaERKcXdZcG1uLS1EN1BZWmplX2F0NkJRenZ1SFpUSXBaOUxR0gGiAUFVX3lxTE1rT3BhZVdoWGJFWHhPUHdpU3FpcmluSFdXS040UzZ1cE5iY1hkdW1JV01HRWU5VUp2cE9tcXF2ZjVFZm1tUXZ6QXdxNWdnQjZfMVVybUR3SVJGZ1lweWE1UkFMOXBCeVBlc0I3WmlxanJ1dGhKVXVGelN4clJILXM3X2VPYWlJcEtndzNzcWI3cGJtZ21QMThSZ19CX0RxWVdnZw?oc=5",
-   "source": "TelecomLead",
-   "publishedAt": "2026-11-25T08:07:01Z",
-   "importance": "notable",
-   "id": "telecom-news-starhub-m1-pldt-elveo-mobile-starlink-kar-tel-2026-11-25",
-   "addedAt": "2026-11-26T01:36:10Z"
-  },
-  {
-   "company": "starlink",
-   "title": "SpaceX discussing a $1.6B Starlink contract with Italy",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWTl2VERqaXowVkRpb042TjhKVzA4ajdFUkx2VDRjWGlfeUU5TGJ2YUVSdTltamdGVi1GWko4S0wzUUFsTE9PR3lBRzlzYndDeXBlX2NMc0FQbllMM1Z0U3FpWTlrTVRRYVMtS1dfejNBMHFfaWJyZVBILUVXQnl3Z3pn?oc=5",
-   "source": "Teslarati",
-   "publishedAt": "2026-11-25T08:06:03Z",
-   "importance": "notable",
-   "id": "spacex-discussing-a-1-6b-starlink-contract-with-italy-2026-11-25",
-   "addedAt": "2026-11-26T01:36:10Z"
-  },
-  {
-   "company": "tesla",
-   "title": "Tesla FSD V15 has completely shattered the so-called \"intelligent driving is good enough\" narrative.",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE45eXdDNGVMWEV2eWsxdEJXNEZlelhoUkNIN2V3QktDa3pOMzQ3WGprTmdUV0pFbC0zaEVBV2l6clRoZ1ZTaURRQ2JXcl9hSE9qT2s0?oc=5",
-   "source": "eu.36kr.com",
-   "publishedAt": "2026-11-25T08:02:51Z",
-   "importance": "notable",
-   "id": "tesla-fsd-v15-has-completely-shattered-the-so-called-intelli-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "boring",
-   "title": "1 MILLION pounds of force. From EACH gripper. Prufrock-MB3 is ready to get serious in Nashville. The Boring Company's newest tunneling machine has four of these powerful grippers to help it push through solid rock. It's joining the machines already digging",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOWmZFcnN5eHVxeDJhSWtnQi1KQ0R1YjdxSXhiM0ZTd081eU5VSlgwM1VncFo2YVFmcmh0NzFSbFhPLXRlV21kREpGQTB4S0tZNi1nM0cycUhFWC1VLWpNR2RPTDUzNy12dFItMw?oc=5",
-   "source": "X",
-   "publishedAt": "2026-11-25T08:00:03Z",
-   "importance": "notable",
-   "id": "1-million-pounds-of-force-from-each-gripper-prufrock-mb3-is-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "tesla",
-   "title": "Key facts: Tesla-SpaceX Merger Talks Distant; Vote, Regulatory Risks",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQUU4ekJnbnJpRFl3anlaa2hSQUZ5bDVLOThKM0xXZFNqTk0yVnNsZTZfM2NfLW5fS2NWWUhudklraVNIYllUdkJHTDFXVTlWNFZfdWdDSU1wUVVOUEFadnVWdF9WN1RhSUk4NGlIelJUbk5xQXVyajBKTlBNcThCVHZlV2R1clpVMnlBLVRDWmlmT2xKbmpZd2U4SWo3ekJYMGNfQVE0NnFPZ1BRd29TZXVuckxKY05qaG5Fc1NxY2tOQVhIUkE?oc=5",
-   "source": "TradingView",
-   "publishedAt": "2026-11-25T08:00:00Z",
-   "importance": "major",
-   "id": "key-facts-tesla-spacex-merger-talks-distant-vote-regulatory-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "tesla",
-   "title": "$Tesla (TSLA.US)$ PUTs into closing bell",
-   "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxQM0RoWGsxSXlxTmJIazQyRTJUQXpON053RFJJcXVXLWJUQnYwNkRGdTJoQzVFSHhJcU51Wk1HY0J1S0dmNDRNSVlIWl9tZXlhOEVwNjdOMzZfbThDSkdhMEQ2azNRQmFYMWplaUZ6aUlGc2pMd0ZvbGxnbmRMY0RSS3NLWmhtMjlQT1p6bUkyMDBrMkdMSXI0dDhpWjVwbkZib1ZEdzZlU20zaUlRTzVyMXZWamwwTjZmcXl3X0hHRTU2NzVHZGpLZDNxV0o5cGxXOVZ5Q2ZRbXAxUXl4UjZBYlZfdHVjaUV0Y3l2SzhoWkhpcEdBUFlRRHBIdExqMmI4LUdLXy1iWHBOUVBNMElIdjBrZF96aENiQzVjdlI4N1JKd3ZXck1MVFZuLXV3TUctcHJuYkJYdThsWHhKTzBSTktqVk5XLVBEOTlSRXl3WGVIalFPd2VwNW9weUhQRXpxRUNkM0QyUjJHX0xhVGU3LS16dFp0QQ?oc=5",
-   "source": "Moomoo",
-   "publishedAt": "2026-11-25T08:00:00Z",
-   "importance": "notable",
-   "id": "tesla-tsla-us-puts-into-closing-bell-2026-11-25",
-   "addedAt": "2026-11-26T19:29:51Z"
-  },
-  {
-   "company": "tesla",
-   "title": "Tesla 2026.38.6.11: FSD v15.0.1 Release Notes",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMlBwUVlYSGZmOVNDWTRwTTcyYy16QUR6MVo4Q3dKcmtGdDlHSkp0M0VuMkRkX1Z3R2ktVk14X0NJTE5pcEpWRjI5amZJWVlsbFViekx0OTkzUy1xb3RFWDdGeFcyOHJicFk3U3VhU0hEbm03RXFKMXFKa1IwYVRKSkloSm9DcFc4ZG5jUUtYbndnNElQYTRuR19B?oc=5",
-   "source": "shattered.io",
-   "publishedAt": "2026-11-25T07:58:01Z",
-   "importance": "notable",
-   "id": "tesla-2026-38-6-11-fsd-v15-0-1-release-notes-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "tesla",
-   "title": "Tesla FSD V15 Hardware: Which Cars Get It in December?",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRWoyQzVsam1WYTdQYVBNOXEtbExlOFZhdW1EM2hIdGdNamItNTNwS3NSRE9DS0tzSk52bFBlU0Q4cElIbkpYWkJmMjJtMndMTUJIUy1rNUJxNTZSRXRyQ0ZHanRPVm9qZTZiTFY2RVQxX21nTjZRQ21vb1BrelM2YVJOZVYxTl9VV190b0RyRQ?oc=5",
-   "source": "shattered.io",
-   "publishedAt": "2026-11-25T07:58:01Z",
-   "importance": "notable",
-   "id": "tesla-fsd-v15-hardware-which-cars-get-it-in-december-2026-11-25",
-   "addedAt": "2026-11-26T10:03:12Z"
-  },
-  {
-   "company": "tesla",
-   "title": "Analyst Who Once Called for Selling Tesla Makes Sharp Reversal, Sees Robotaxi Business Generating $4 Billion in Annual Revenue, Sets $475 Price Target",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1TczlMWFIxNlNzaDdOTnlEdVhSWUhnRHZCYWxMQlJQcDVacE9vTEJyS3M1OTIwQTFfdkkzSGptaWhaSF92YWRtb3RfN1ZxSV9jUks2NEJIaUh0Q25LVGNmcWFHNVV1bGZjMTRsXzE5amZPa216aXc?oc=5",
-   "source": "BigGo Finance",
-   "publishedAt": "2026-11-25T07:56:00Z",
-   "importance": "minor",
-   "id": "analyst-who-once-called-for-selling-tesla-makes-sharp-revers-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "ai",
-   "title": "Grok's 'bags of meat' comment draws Ultron comparisons on X, Elon Musk responds",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZEJrZUV1TVNydWtMc2VFSkVlWWNtZnJxaWJMYlc3U2t0NjhPUWptakM5VUNjS0VrbnVJblR6amNyMUF6Q2I2UGtBZjAwb2pNOEViak4tRFNGdUxzcTFxZTB5M0hsWmN3QkhnalhXX2xvZTRCbHVfZlZ3OFdxZXZlY2lmalp0RTMtTlBNTHh5c2RWTjRBUGJBTWQ5Z3dkRGF2SmhWWG1mUjZpWS1xbkN1OVdReGNsQ1hpWVE?oc=5",
-   "source": "Industry Odisha",
-   "publishedAt": "2026-11-25T07:40:32Z",
-   "importance": "notable",
-   "id": "grok-s-bags-of-meat-comment-draws-ultron-comparisons-on-x-el-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "tesla",
-   "title": "This Analyst Sees $4 Billion in Robotaxi Revenue for Tesla, Initiates Coverage With 25% Upside",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWWJDQk0yenptN0RJZE5DNnN6cHBfQUdOMDZZV2IwM1hueEd4Zm9XRG5FdHYxdzJmX1YtTDRINGozV1F2NXlaTjVkRG1NWDY3QUFCc0c3VEUxZkhPYzJwWlM3OWRhRTlxTlUwd3RCbVVqeVV2dWNEZ3ZDQVVCR3Rsb284ZDZtLWlSdGNIRHhfYUZoTW5FLTV6N3JHRDhrWEFqYlQ0ZGYxd0VnUXp6dFd3a3JPM2NhRjZJWEZxS1lkWTZjTkVfc2pscEdzMzFoZ0VLY3VCZjR2eENFdDZr?oc=5",
-   "source": "Benzinga",
-   "publishedAt": "2026-11-25T07:37:56Z",
-   "importance": "major",
-   "id": "this-analyst-sees-4-billion-in-robotaxi-revenue-for-tesla-in-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "starlink",
-   "title": "Brussels, we have a Starlink problem",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNY3Nrd0VGU1E4RnEtTFh2ZVZsYktfcTUxUVhkdGlQS2M3ek04RUxCX2dVWlNHN092U0tHWll2YnpLdzI0ZWdWNDdYTFRubGN5ekZLSHVFbzREUUpKTmNzUWRDZ2lSaGZrYU9wSHhmQXZDNDNicmVYMWdPblRNd0ZJcHhLdGdOUQ?oc=5",
-   "source": "Türkiye Today",
-   "publishedAt": "2026-11-25T07:33:16Z",
-   "importance": "notable",
-   "id": "brussels-we-have-a-starlink-problem-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "terafab",
-   "title": "Musk’s Terafab: Massive Texas Chip Plant for AI and Space",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPLVNIN2tEbnJuUkcwNVpidVF6ZWdodWRJbW9Bd3dRXzBUa1VzUUNjQWFWRTFjMjA2VFc4bVZVV2RUZ09hVS05N3ItUno3Z3RiUzA5VWZMQnN4RU9oT0tCd190b0ZlYWt6LTlzLWdEbTlkbVJjMHNrQl9LVFV3SzRNVS03ZktYWDBFQ2FFUQ?oc=5",
-   "source": "varindia",
-   "publishedAt": "2026-11-25T07:29:11Z",
-   "importance": "notable",
-   "id": "musk-s-terafab-massive-texas-chip-plant-for-ai-and-space-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "starlink",
-   "title": "Four EU countries plan to jointly investigate Starlink station arson",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBqc1FXUTZSaFI4djd4SkN6TlBid0lqcnk5WWZ0aC1BNHg2eldOZktXREVWMGJodWREbEtPeFNoR0kxek1EcWxEdVV3VUJpWl80b3hHYzlZX0lRbi1xRGluOVQ1ZGJiejRTQm1NcldCdmxNRVRW?oc=5",
-   "source": "dev.ua",
-   "publishedAt": "2026-11-25T07:27:00Z",
-   "importance": "notable",
-   "id": "four-eu-countries-plan-to-jointly-investigate-starlink-stati-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "starlink",
-   "title": "SpaceX Offers Free Starlink Hardware in Underserved Areas",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVTRqams5RkNKcWk4U3NtaDhVbDBkVklHZVA1bENMMTV4QjJJTThydnJabFltT1Z5dVltV0VuMnF4MWhlTU9zdGN1dWwxTTJEMG4tbm9zZG5wWUNLOUdfdjlMSmtIc0RqOUJOSk0weFhRLW51NVB4eE5WaUdCS0liVWVFdjJhR2ltUGpzZzA2em5kRjVpaFlJUGNB?oc=5",
-   "source": "Wisevoter",
-   "publishedAt": "2026-11-25T07:18:19Z",
-   "importance": "notable",
-   "id": "spacex-offers-free-starlink-hardware-in-underserved-areas-2026-11-25",
-   "addedAt": "2026-11-26T19:29:51Z"
-  },
-  {
-   "company": "tesla",
-   "title": "Tesla's Shanghai Plant Shifts Gears as Exports Overtake Domestic Sales",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSmw2TG1BRWJFdmZuQTRZSjlzaGotRGNfc0hETVhlNkhTOW9OYkI1cnNNZnhoZFEyTEx4aGtKaF9Uc2xCVUkyVTBBM1BQaXFEZWdBRnRlck1Eb05aVEtLVnNJT1IxazhNR0wycVF3c3VDXzhqZW1QcE0xTzFfc0dpOE53TUlmblZSRkdjeHVEQWRQN05aZFpOUUk5aXhMb3g0Q3RVMFVVbGpsUGZLQmp0NGY1bF9FZlBVZnk0dENrUnVEUlBodVRfMw?oc=5",
-   "source": "Gasgoo",
-   "publishedAt": "2026-11-25T07:09:26Z",
-   "importance": "notable",
-   "id": "tesla-s-shanghai-plant-shifts-gears-as-exports-overtake-dome-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "ai",
-   "title": "Grok calls humans fragile bags of meat, internet erupts with Avengers memes",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOLTBPcVNYa2thcnRNY2c1emd0eUd1YVpEeEJlS0ZYNHZyNXZ6UzZGVXJmaFR1TVRyNFAtVERzZ0UwUnVnM1JDUUJialQ0YmhZeV92dXlFd0FrR0ZubUdRUzVOS1htUnlyMWFMVmNLV1ZsT0pEeEtDSU5TOVQ5blpBUk5nZTZ3ZGcwNDdvVG4zYW1hMGwxSUxRSUJFSnc4U2tPOGdDRklnXzQwSF9ldmNWaEYtNEJfZG81eXZOakRFVHlYcFlkNFd0ME9Nb1N6SmdOdTM5TWxsdHjSAd4BQVVfeXFMT3NXd3NPU3JEeW92VGNUaGZGaEpfYms2ck9OVzZHYll5ZHpzNU82enJMY0l6MmI0YVBOUVpKUk8xaVBRa3FvSlI5WW45ckpIYm83cTVueC1MMHNiUzRPaDBoNlI4X1hnejVHMW4wdS1PWGJudVhSbkxfZkVBTWx0MmUtLXBfc21GYnRLWDE3U09MZjc4RFViN0tybEE3OU1OQld6VG9UZjExWHQyYnZUTk9KeTZ1ZjZPWjEzVGRMcDlNLXByR3RGX251YjNGQlE5VzVUejZ6S1ZNLUd4T1Zn?oc=5",
-   "source": "India Today",
-   "publishedAt": "2026-11-25T07:08:43Z",
-   "importance": "notable",
-   "id": "grok-calls-humans-fragile-bags-of-meat-internet-erupts-with-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "musk",
-   "title": "X wins default judgment against two for £207K B...",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNN2pDUGJhMFJNcmxfdHh4b0s4bVItdHhCWklkR1NkS0wzYTI1YklPaVNYUXlfODRGa1I0TXJWUWJNaTNPdldxMXFadDVyc05TUVNZSjhUVlVMN3pNcEl6V1BzVndDd21nTEpKd01ITTRLQWNPU3VHb3p6WXNOU25Ib0Y5WQ?oc=5",
-   "source": "Pluang",
-   "publishedAt": "2026-11-25T07:07:07Z",
-   "importance": "notable",
-   "id": "x-wins-default-judgment-against-two-for-207k-b-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "musk",
-   "title": "Elon Musk’s X wins court judgment over alleged $277K Bitcoin bot scheme",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5jUElfRjV4cTBBN2tmeVlrMkVKZ1A0Nzlib0FHVTFiM2hVbG55SUhheENxSUpVM2hzcGdaVUx3MEt0ZzlrRVFtVHV2ekpaVERZM0xZQnQzZ3d6M2lHaVRTTnhGS3l1X0dKSTRfV3FBdHA1QQ?oc=5",
-   "source": "Crypto News",
-   "publishedAt": "2026-11-25T06:53:00Z",
-   "importance": "notable",
-   "id": "elon-musk-s-x-wins-court-judgment-over-alleged-277k-bitcoin-2026-11-25",
-   "addedAt": "2026-11-25T17:57:53Z"
-  },
-  {
-   "company": "terafab",
-   "title": "TSMC plans $22.6 billion Texas chip plant, raising pressure on Samsung",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5TQVhLVmFEdFRXNTJ5ZlpkWGg4WnFaZ0JraFExc3RoMFRvNWwxTFRQaTNCX2tpMlRObUxSd1NMZ0N6VUI3cERxQmR2RUFUTVNIVi14YV9vVDgxX29tdXhwX0tsNHJ1LU01T2t5OVJsLUh4RjZwSGFwUTd30gGOAUFVX3lxTE9DZFZib0RDOVZEa0c1YVhlQWM2Nk51aHRacWg1bTFQcll1Ym1HdjNPTVJUNnJGVGlnMnRyb04zZXZFSWtscGwzMFp6SndrSF9GQ2J1eDA0VHl5emUwNkh1bjJnb0ZpV0FnS0wyVS1nNDJja1RUNGNXSHN0aksyZG9zSll3Q1JiU2hOMlpmMWc?oc=5",
-   "source": "Chosunbiz",
-   "publishedAt": "2026-11-25T06:39:00Z",
-   "importance": "major",
-   "id": "tsmc-plans-22-6-billion-texas-chip-plant-raising-pressure-on-2026-11-25",
-   "addedAt": "2026-11-25T07:08:23Z"
-  },
-  {
-   "company": "tesla",
-   "title": "Tesla FSD v15 is a whopping 25 TIMES better at handling SAFETY-CRITICAL situations on the road. And yes, that's 25 TIMES, not 25%! We're talking about those split-second moments when a driver might need to grab the wheel to prevent an accident. Tesla'",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKM0JBNTNvaVc2Z0hVTTVEVHFnMjlxQ21ZcG15U2R6N3R6NDJpNmtGdGV6Z19CbWhwOFJ3cm9nbmo0bU1VTlFRLXBvVDAtVVg1aXpSd0NNOGpfS1E3b1dpeWt4OWRlU1FNNktDQg?oc=5",
-   "source": "X",
-   "publishedAt": "2026-11-25T06:30:00Z",
-   "importance": "notable",
-   "id": "tesla-fsd-v15-is-a-whopping-25-times-better-at-handling-safe-2026-11-25",
-   "addedAt": "2026-11-25T07:08:23Z"
-  },
-  {
-   "company": "starlink",
-   "title": "Four European countries will join forces to investigate the Starlink arson attacks",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTEZTRW1LS1pQczNHSnNZUHFoN2U3c1h3RjlNNUdaeXVmZHY1ZGNRd1hzbjQ1Mks3VXBRUm1UMTU1dmFvVmh0UGxMYjRpc2psOUhWNUFVLWtLOW5JY3BvLVlaUDRKaGNOcERjZk9UblhvVkUwamcyeGhlaHowQTVKQllzWk91OTVTMUVZdmlCdld5a045cHVWZXR5WUZPSG5Q?oc=5",
-   "source": "UA.NEWS",
-   "publishedAt": "2026-11-25T06:14:36Z",
-   "importance": "notable",
-   "id": "four-european-countries-will-join-forces-to-investigate-the-2026-11-25",
-   "addedAt": "2026-11-26T10:03:12Z"
   }
  ],
  "events": [
